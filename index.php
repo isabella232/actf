@@ -90,8 +90,20 @@
 
 <DIV id=midcolumn>
 <H1>Accessibility Tools Framework (ACTF)</H1>
-<P>The Accessibility Tools Framework (ACTF) is an incubation phase project that is a subproject of the Eclipse Technology Project.</P>
-<P>The ACTF will provide both a collection of exemplary accessibility-related tools as well as a set of components for building such tools. The framework will allow users/developers to build and use various types of accessibility tools such as compliance validation tools, assistive technology simulation tools, usability visualization tools, unit-testing tools, and alternative interfaces for people with disabilities. These tools will be integrated into a single tooling environment on top of the Eclipse framework and collaborate with each other and other Eclipse projects to provide a comprehensive development environment for creating accessible applications and content.</P>
+<P>The Accessibility Tools Framework (ACTF) is an incubation phase project 
+that is a subproject of the Eclipse Technology Project.</P>
+<P>The ACTF is a software framework which serves as an extensible infrastructure
+upon which developers can build a variety of utilities that help to evaluate and
+enhance the accessibility of applications and content for people with disabilities.
+A collection of example utilities will also be provided which were created on
+top of the framework such as compliance validation tools, assistive technology 
+simulation  applications, usability visualization tools, unit-testing utilities, 
+and alternative accessible interfaces for applications.  The ACTF infrastructure
+and the utilities will be integrated into a single tooling  environment on top of
+the Eclipse framework. The framework components will function cooperatively 
+with each other and with other Eclipse projects to provide a comprehensive
+development environment for creating accessible applications and content.
+</P>
 <P>For additional details about the ACTF project, please visit the <A 
 href="http://www.eclipse.org/proposals/actf/">project proposal page</A>. More 
 information will be available shortly. </P>
