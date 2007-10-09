@@ -53,11 +53,14 @@ information will be available shortly. </P>
 <P>The IBM development teams are currently working to move source code and 
 resources to the ACTF Eclipse CVS repository. Obviously, this will be an 
 ongoing process but initial components may appear as early as November-December 2007. </P>
-<H2>Join the project</H2>You can join the project, <A 
-href="https://dev.eclipse.org/mailman/listinfo/actf-dev">subscribing to the 
-mailing-list </A>and start the discussion at <A 
-href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.actf">the 
-newsgroup</A>. We would like to hear from you! 
+<H2>Join the Project</H2>
+You can join the project, 
+<A href="https://dev.eclipse.org/mailman/listinfo/actf-dev">subscribe to the 
+mailing-list, </A>
+and discuss project issues in 
+<A href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.actf">
+the newsgroup</A>. 
+We would like to hear from you! 
 </div>
 <DIV id=rightcolumn>
 <DIV class=sideitem>
