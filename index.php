@@ -14,8 +14,8 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "ACTF";
-	$pageKeywords	= "Type, page, keywords, here";
+	$pageTitle 		= "ACTF Project Home";
+	$pageKeywords	= "Accessibility Tools Framework, ACTF, Eclipse";
 	$pageAuthor		= "Type your name here";
 	
 	# Add page-specific Nav bars here
