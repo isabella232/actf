@@ -14,8 +14,8 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "ACTF Team members";
-	$pageKeywords		= "Accessibility Tools Framework, ACTF, Eclipse";
+	$pageTitle 		= "ACTF Downloads";
+	$pageKeywords		= "Accessibility Tools Framework, ACTF, Eclipse, Downloads";
 	$pageAuthor		= "ACTF team";
 	
 	# Add page-specific Nav bars here
