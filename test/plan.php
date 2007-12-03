@@ -37,6 +37,9 @@
 </p>
 
 <h1>Project Plan</h1>
+<p>
+This page will be updated soon.
+</p>
 <h2>4Q 2007</h2>
 <ul>
  <li>Initial prototypes of exemplary tools on top of ACTF will be available. </li>
@@ -82,7 +85,7 @@
 -->
 </div>
 <div class="homeitem3col">
-	<h3><a href="downloads.php">ACTF Exemplary Tools</a></h3>
+	<h3>ACTF Exemplary Tools</h3>
 	<p>
 	Initial prototype versions will be available in 4Q 2007. 
 	</p>
@@ -90,6 +93,7 @@
        <li>Accessibility Prove (AccProve) (MSAA/IAccessible2 inspection tool)</li>        
        <li>Accessibility Internet Browser for Multimedia (aiBrowser)</li>
     </ul>
+    Please visit <a href="downloads.php">ACTF download page</a>.
 </div>
 	<hr class="clearer" />
 </div>
