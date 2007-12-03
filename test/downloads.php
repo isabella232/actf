@@ -61,15 +61,15 @@
 	<h1>Other tools and runtimes on top of ACTF</h1>
 	<div class="homeitem3col">
 	 <h3>Links to external donwload site</h3>
-	 <h4><a href="http://www.alphaworks.ibm.com/tech/adesigner">aDesigner</a></h4>
+	 <h4><a href="http://www.alphaworks.ibm.com/tech/adesigner">aDesigner</a>  (IBM alphaWorks technology)</h4>
 	 <p>The aDesigner is a tool that Web authors can use to ensure that the webpages they create are accessible to individuals who are blind or visually impaired. 
-	 For more detailes about this tool, please visit <a href="http://www.alphaworks.ibm.com/tech/adesigner">aDesigner introduction page</a> (IBM alphaWorks).</p>
-	 <h4><a href="http://www.alphaworks.ibm.com/tech/aibrowser">IBM Accessibility Internet Browser for Multimedia (aiBrowser)</a></h4>
+	 For more detailes about this tool, please visit <a href="http://www.alphaworks.ibm.com/tech/adesigner">aDesigner introduction page</a>. (Jump to IBM alphaWorks Web site).</p>
+	 <h4><a href="http://www.alphaworks.ibm.com/tech/aibrowser">IBM Accessibility Internet Browser for Multimedia (aiBrowser)</a>  (IBM alphaWorks technology)</h4>
 	 <p>The aiBrowser is an Internet browser for visually impaired users that provides multimedia control features and alternative user interfaces with external metadata. 
-	 For more detailes about this tool, please visit <a href="http://www.alphaworks.ibm.com/tech/aibrowser">aiBrowser introduction page</a> (IBM alphaWorks)</p>
-     <h4><a href="http://www.alphaworks.ibm.com/tech/raven">IBM Rule-based Accessibility Validation Environment (RAVEN)</a></h4>
+	 For more detailes about this tool, please visit <a href="http://www.alphaworks.ibm.com/tech/aibrowser">aiBrowser introduction page</a> (Jump to IBM alphaWorks Web site)</p>
+     <h4><a href="http://www.alphaworks.ibm.com/tech/raven">IBM Rule-based Accessibility Validation Environment (RAVEN)</a>  (IBM alphaWorks technology)</h4>
 	 <p>A suite of Eclipse plug-ins used to inspect and validate the accessibility of Java-based, rich-client GUIs (Swing or SWT) and Eclipse plug-ins. 
-	 For more detailes about this tool, please visit <a href="http://www.alphaworks.ibm.com/tech/raven">RAVEN introduction page</a> (IBM alphaWorks)</p>
+	 For more detailes about this tool, please visit <a href="http://www.alphaworks.ibm.com/tech/raven">RAVEN introduction page</a>. (Jump to IBM alphaWorks Web site)</p>
 	</div>		
 </div>
 
