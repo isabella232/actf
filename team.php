@@ -139,6 +139,65 @@
 -->
 	</div>		
         <hr class="clearer" />
+<h1>Interested parties</h1>
+<p>The following parties have expressed interest in extending the platform and contributing ideas, 
+guidance, and discussion. Key contacts listed.</p>
+<ul>
+
+  <li>Actuate Corporation, US (Dan Melcher)</li>
+
+  <li>Adobe Systems Incorporated, US (Andrew Kirkpatrick)</li>
+
+  <li>BIRT Project, Eclipse Foundation (Paul Clenahan)</li>
+
+  <li>BrailleNet, France (Dominique Burger)</li>
+
+  <li>Center for Mathematics and Computer Science, Netherlands (Zeljko Obrenovic)</li>
+
+  <li>IBM Corporation, US (Chieko Asakawa)</li>
+
+  <li>International Webmasters Association/HTML Writers Guild (IWA/HWG), US (Roberto Scano)</li>
+
+  <li>Japan Braille Library, Japan (Tetsuji Tanaka)</li>
+
+  <li>Mozilla foundation, US (Frank Hecker)</li>
+   
+  <li>National Center for Accessible Media (NCAM), Media Access Group at WGBH, US (Larry Goldberg)</li>
+
+  <li>Royal National Institute of Blind People (RNIB), UK (Henny Swan)</li>
+
+  <li>SAP AG, Germany (Michael Bernhardt)</li>
+
+  <li>SAS Institute Inc., US (Lisa Pappas)</li>
+
+  <li>SIG-Universal Access to the Internet (UAI), Internet Technology Research Committee (ITRC), Japan (Takayuki 
+
+Watanabe)</li>
+
+  <li>State University of New York at Stony Brook, US (I.V. Ramakrishnan)</li>
+
+  <li>The Carroll Center for the Blind, US (Brian Charlson)</li>
+
+  <li>The Paciello Group, US (Mike Paciello)</li>
+
+  <li>Technosite (ONCE Foundation), Spain (Alan Chuter)</li>
+
+  <li>Tokyo Institute of Technology, Japan (Ken Wakita)</li>
+
+  <li>University of Manchester, UK (Simon Harper)</li>
+
+  <li>University of Toronto, Canada (Jutta Treviranus)</li>
+
+  <li>University of Washington, US (Jeffrey Bigham)</li>
+
+  <li>Vision Australia, Australia (Andrew Arch)</li>
+
+  <li>Web Accessibility Tools Consortium (WAT-C), (Makoto Ueki)</li>
+
+</ul>                
+     
+        <hr class="clearer" />
+     
      </div>
 
 	<div id="rightcolumn">
