@@ -33,7 +33,7 @@
 
 <div id="midcolumn">	
 <p>
-<i>Last updated: 12 November 2007</i>
+<i>Last updated: 4 December 2007</i>
 </p>
 
 <h1>Project Plan</h1>
