@@ -145,8 +145,9 @@
 	    <div class="sideitem">
 			<h6>Related links</h6>
 			<ul>
-				<li>Project proposal></li>
-				<li><a href="#">Creation Review Slides </a></li>
+  <li><a href="http://www.eclipse.org/proposals/actf">Project proposal</a> 
+  <li><a href="http://www.eclipse.org/proposals/actf/ACTF_CreationReview.pdf">
+  Creation Review Slides </a></li>
 			</ul>
 	    </div>	    
 	    <div class="sideitem">
