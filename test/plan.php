@@ -52,10 +52,11 @@
 <h2>Future plans</h2>
 <p>Enhancements currently under consideration include: </p>
  <ul>
+ <li>Refinement of APIs</li>
+ <li>Expand supported runtimes</li>
+ <li>Documentation</li>
  <li>Support for W3C WCAG 2.0. </li>
  <li>Enhancing W3C WAI-ARIA-related functions. </li>
- <li>Expand supported runtimes</li>
- <li>Refinement of APIs</li>
  </ul>
 
 <h1>Release Schedule</h1>
