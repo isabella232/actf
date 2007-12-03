@@ -82,7 +82,7 @@
 -->
 </div>
 <div class="homeitem3col">
-	<h3>ACTF Exemplary Tools</h3>
+	<h3><a href="downloads.php">ACTF Exemplary Tools</a></h3>
 	<p>
 	Initial prototype versions will be available in 4Q 2007. 
 	</p>
