@@ -14,7 +14,7 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "ACTF Contributors";
+	$pageTitle 		= "ACTF contributors page";
 	$pageKeywords		= "Accessibility Tools Framework, ACTF, Eclipse";
 	$pageAuthor		= "ACTF team";
 	
@@ -46,9 +46,10 @@ Repository.</p>
     <dd><tt>pserver://anonymous@dev.eclipse.org/cvsroot/technology/</tt> </dd>
   </dl>
   <li>Open org.eclipse.actf directory.
-  <li>Now you can browse and check-out plug-ins/features from the CVS repository. You can find the directory structure 
-
-of CVS repository in <a href="#dir">Directory Structure</a> section.</li>
+  <li>Now you can browse and check-out plugins/features from the CVS repository. You can find the directory structure 
+	of CVS repository in <a href="#dir">Directory Structure</a> section. 
+	Please visit plugins/features directory and check-out projects.
+	</li>
 </ol>
 
 <h1>Development Guidelines</h1>
