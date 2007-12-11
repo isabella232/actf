@@ -50,8 +50,22 @@
 	<p>
 	Initial prototype versions will be available in 4Q 2007. 
 	</p>
+	
 	<h4>Accessibility Probe (AccProbe)</h4>
+	
+	<p>The Accessibility Probe is a standalone, Eclipse Rich-Client Product (RCP) application that provides 
+	a view of the <a href="http://msdn2.microsoft.com/en-us/library/ms697707.aspx">
+	Microsoft Active Accessibility (MSAA)</a> or <a href="http://www.linux-foundation.org/en/Accessibility/IAccessible2">IAccessible2</a> 
+	hierarchy of a currently running application or rendered document and of the properties of the accessible objects of that application 
+or document. It can also serve as an event monitor for tracking the events
+fired by these accessible objects. It is meant to combine the functionality of tools like Microsoft's Inspect32, AccExplore, 
+and AccEvent into one easy-to-use application for accessibility testing and debugging.</p>
+
 	<p><a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/examples/AccProbe/200711291013/AccProbe-200711291013-incubation.zip">AccProbe-200711291013-incubation.zip</a></p>
+	
+	<p>Although the source is available, build issues are still being addressed but we post the 
+	tool now in order to gain your feedback. Check back often for future releases.</p>
+	
     <h4>Accessibility Internet Browser for Multimedia (aiBrowser)</h4>
 	<p>Coming soon!</p>
 </div>
