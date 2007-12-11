@@ -47,14 +47,13 @@ with each other and with other Eclipse projects to provide a comprehensive
 development environment for creating accessible applications and content.
 </P>
 <P>For additional details about the ACTF project, please visit the <A 
-href="http://www.eclipse.org/proposals/actf/">project proposal page</A>. More 
-information will be available shortly. </P>
+href="http://www.eclipse.org/proposals/actf/">project proposal page</A>.</P>
 <H2>Source code migration</H2>
 <P>The IBM development teams are currently working to move source code and 
 resources to the ACTF Eclipse CVS repository. Obviously, this will be an 
 ongoing process but initial components may appear as early as November-December 2007. </P>
 <H2>Join the Project</H2>
-You can join the project, 
+<p>You can join the project, 
 <A href="https://dev.eclipse.org/mailman/listinfo/actf-dev">subscribe to the 
 mailing-list, </A>
 and discuss project issues in 

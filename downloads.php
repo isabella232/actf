@@ -51,7 +51,7 @@
 	Initial prototype versions will be available in 4Q 2007. 
 	</p>
 	<h4>Accessibility Probe (AccProbe)</h4>
-	<p>Coming soon!</p>
+	<p><a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/examples/AccProbe/200711291013/AccProbe-200711291013-incubation.zip">AccProbe-200711291013-incubation.zip</a></p>
     <h4>Accessibility Internet Browser for Multimedia (aiBrowser)</h4>
 	<p>Coming soon!</p>
 </div>
@@ -60,16 +60,16 @@
 	<hr class="clearer" />
 	<h1>Other tools and runtimes on top of ACTF</h1>
 	<div class="homeitem3col">
-	 <h3>Links to external donwload site</h3>
+	 <h3>Links to external download site</h3>
 	 <h4><a href="http://www.alphaworks.ibm.com/tech/adesigner">aDesigner</a>  (IBM alphaWorks technology)</h4>
 	 <p>The aDesigner is a tool that Web authors can use to ensure that the webpages they create are accessible to individuals who are blind or visually impaired. 
-	 For more detailes about this tool, please visit <a href="http://www.alphaworks.ibm.com/tech/adesigner">aDesigner introduction page</a>. (Jump to IBM alphaWorks Web site).</p>
+	 For more details about this tool, please visit <a href="http://www.alphaworks.ibm.com/tech/adesigner">aDesigner introduction page</a>. (Jump to IBM alphaWorks Web site).</p>
 	 <h4><a href="http://www.alphaworks.ibm.com/tech/aibrowser">IBM Accessibility Internet Browser for Multimedia (aiBrowser)</a>  (IBM alphaWorks technology)</h4>
 	 <p>The IBM Accessibility Internet Browser for Multimedia (aiBrowser) is an Internet browser for visually impaired users that provides multimedia control features and alternative user interfaces with external metadata. 
-	 For more detailes about this tool, please visit <a href="http://www.alphaworks.ibm.com/tech/aibrowser">aiBrowser introduction page</a>. (Jump to IBM alphaWorks Web site).</p>
+	 For more details about this tool, please visit <a href="http://www.alphaworks.ibm.com/tech/aibrowser">aiBrowser introduction page</a>. (Jump to IBM alphaWorks Web site).</p>
      <h4><a href="http://www.alphaworks.ibm.com/tech/raven">IBM Rule-based Accessibility Validation Environment (RAVEN)</a>  (IBM alphaWorks technology)</h4>
 	 <p>A suite of Eclipse plug-ins used to inspect and validate the accessibility of Java-based, rich-client GUIs (Swing or SWT) and Eclipse plug-ins. 
-	 For more detailes about this tool, please visit <a href="http://www.alphaworks.ibm.com/tech/raven">RAVEN introduction page</a>. (Jump to IBM alphaWorks Web site)</p>
+	 For more details about this tool, please visit <a href="http://www.alphaworks.ibm.com/tech/raven">RAVEN introduction page</a>. (Jump to IBM alphaWorks Web site)</p>
 	</div>		
 </div>
 

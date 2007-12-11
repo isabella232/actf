@@ -36,8 +36,10 @@
 <p>The source code of the ACTF project can be found in the CVS
 Repository.</p>
 <ol>
-  <li>Switch to the 'CVS Repository Exploring' perspective 
-  <li>Create a new repository location: 
+  <li>Switch to the 'CVS Repository Exploring' perspective. Go to 
+  Window&gt;Open Perspective&gt;Other... and select 'CVS Repository Exploring'.</li> 
+  <li>Create a new repository location by right-clicking in the 'CVS Repositories' 
+  View and selecting New&gt;Repository Location...: 
   <dl>
     <dt>Committers 
     <dd><tt>extssh://XXXXXXX@dev.eclipse.org/cvsroot/technology/</tt> 
@@ -45,62 +47,88 @@ Repository.</p>
     <dt>Contributors 
     <dd><tt>pserver://anonymous@dev.eclipse.org/cvsroot/technology/</tt> </dd>
   </dl>
-  <li>Open org.eclipse.actf directory.
-  <li>Now you can browse and check-out plugins/features from the CVS repository. You can find the directory structure 
-	of CVS repository in <a href="#dir">Directory Structure</a> section. 
-	Please visit plugins/features directory and check-out projects.
-	</li>
+  <li>Open the <tt>org.eclipse.actf</tt> directory.</li>
+  <li>Browse and check-out plugins/features from the CVS repository. You can find the directory structure 
+	of the CVS repository in the <a href="#dir">Directory Structure</a> section.</li>
 </ol>
 
 <h1>Development Guidelines</h1>
 <h2>1. Naming Conventions</h2>
-<p>
-Naming Conventions in the ACTF project follows the <a href="http://wiki.eclipse.org/Naming_Conventions">Eclipse Naming 
-
-Conventions</a> except the Java package structure of internal/tests/examples packages.
+<p>Naming Conventions in the ACTF project follow the <a href="http://wiki.eclipse.org/Naming_Conventions">Eclipse Naming 
+Conventions</a> except for Java packages containing 'internal', 'tests', or 'examples'.</p>
 
 <h3 name="package" id="package">Java Packages</h3>
-<p>
-One of the main goals of this naming convention is to make it easy to find the component that any class belongs to.
-<p>
-The general form of java package names is follows:
+<p>One of the main goals of this naming convention is to make it easy to find the component to which any given class belongs. 
+The general form of java package names is as follows:</p>
 <ul>
 <li>org.eclipse.actf.&lt;component&gt;[.*]</li>
 </ul>
 <p name="group" id="group">
-Currently, ACTF has the components listed below. This table also shows the grouping of ACTF components. The <a 
-
-href="#dir">directory structure of the CVS repository</a> is defined based on this grouping.
+Currently, ACTF includes the components listed below. This table also shows the subcomponents within each ACTF component. The 
+<a href="#dir">directory structure of the CVS repository</a> is defined based on this grouping.</p>
 <table border="1">
-<tr><th>Group</th><th>Component name</th><th>Description</th></tr>
-<tr><th rowspan="6">common</th><td>accservice	</td><td>includes components for support access to accessibility 
-
-APIs.</td></tr>
-<tr><td>core</td><td><i>is reserved for the future use.</i></td></tr>
-<tr><td>model	</td><td>includes components to support access to runtime properties of GUI, document elements, 
-
-accessibility information. It also includes typical application plugins as Editor Extensions.</td></tr>
-<tr><td>mediator	</td><td>includes mediator services.</td></tr>
-<tr><td>repository	</td><td>includes repository services.</td></tr>
-<tr><td>util		</td><td>includes common utilities for other ACTF components.</td></tr>
-<tr><th>ai</th><td>ai	</td><td>includes components for adaptive interfaces.</td></tr>
-<tr><th>examples</th><td>examples</td><td>includes exemplary applications.</td></tr>
-<tr><th>validation</th><td>validation</td><td>includes validation engine, manager, rules and so on.</td></tr>
-<tr><th rowspan="2">visualization</th><td>report</td><td>includes report generators.</td></tr>
-<tr><td>visualization</td><td>includes accessibility/usability visualization engines.</td></tr>
+<tr>
+  <th>Group</th>
+  <th>Component name</th>
+  <th>Description</th>
+</tr>
+<tr>
+  <th rowspan="6">common</th>
+  <td>accservice	</td>
+  <td>includes components for accessing native accessibility architectures and APIs</td>
+</tr>
+<tr>
+  <td>core</td>
+  <td><i>is reserved for future use</i></td>
+</tr>
+<tr><
+  td>model</td>
+  <td>includes components to support access to runtime properties of GUI components, document elements, and other runtime structures. It also includes typical application plugins as Editor Extensions.</td>
+</tr>
+<tr>
+  <td>mediator</td>
+  <td>includes mediator services.</td>
+</tr>
+<tr>
+  <td>repository</td>
+  <td>includes repository services.</td>
+</tr>
+<tr>
+  <td>util</td>
+  <td>includes common utilities for other ACTF components.</td>
+</tr>
+<tr>
+  <th>ai</th>
+  <td>ai</td>
+  <td>includes components for adaptive interfaces.</td>
+</tr>
+<tr>
+  <th>examples</th>
+  <td>examples</td>
+  <td>includes exemplary applications.</td>
+</tr>
+<tr>
+  <th>validation</th>
+  <td>validation</td>
+  <td>includes validation engine, rulebase manager, interfaces for and base implementations of rulesets and rules and so on.</td>
+</tr>
+<tr>
+  <th rowspan="2">visualization</th>
+  <td>report</td>
+  <td>includes report generators.</td>
+</tr>
+<tr>
+  <td>visualization</td>
+  <td>includes accessibility/usability visualization engines.</td>
+</tr>
 </table>
-<p>
-In the ACTF project, the reserved word (internal/tests/examples) may appear after the component name. For example, 
 
-org.eclipse.actf.validation.tests indicates test cases that are used for the validation component. The prefered usage is 
-
+<p>In the ACTF project, the reserved words 'internal', 'tests', or 'examples' may appear after the component name. For example, 
+<tt>org.eclipse.actf.validation.tests</tt> indicates test cases that are used for the validation component. The prefered usage is 
 to put the reserved names in the fifth position, leaving the fourth position for the component name. In addition to 
+this, each component has its own ui components in the ACTF project. So, the word "ui" may appear after the component name as well.</p>
 
-this, each component have their own ui components in ACTF project. So, the word "ui" may appear after the component 
-
-name, too.
-<p>
-The names of internal/tests/examples/ui packages in ACTF will be:
+<p>The names of internal/tests/examples/ui packages in ACTF will be:</p>
 <ul>
    <li>org.eclipse.actf.&lt;component&gt;.internal[.*] - internal packages of &lt;component&gt;</li>
    <li>org.eclipse.actf.&lt;component&gt;.tests[.*] - test packages of &lt;component&gt; </li>
@@ -109,14 +137,13 @@ The names of internal/tests/examples/ui packages in ACTF will be:
 </ul>
 
 <h2 name="dir" id="dir">2. Directory structure</h2>
-<p>
-We will ask you to organize your files as described below. Basically you will need to create the following directory 
+<p>We will ask you to organize your files as described below. Basically you will need to create the following directory 
+structure for each subdirectory you own under the <a href="#group">ACTF component group</a>:</p>
 
-structure for each subdirectory you own under the <a href="#group">ACTF component group</a>: 
-</p>
-<table cellpadding="2" cellspacing="2" border="1"><tr><td colspan="1"><b style="color:darkgreen">Directory 
-
-structure</b></td></tr>
+<table cellpadding="2" cellspacing="2" border="1">
+  <tr>
+    <td colspan="1"><b style="color:darkgreen">Directory structure</b></td>
+  </tr>
 <tr valign="top"><td>
 <pre>/cvsroot/technology/
   org.eclipse.actf/org.eclipse.actf.<i>[group]</i>/
@@ -142,17 +169,15 @@ structure</b></td></tr>
 </li></ul>
 </li></ol>
 </td></tr></table>
-<p>The projects containing features and fragments must be suffixed by <i>-feature</i> and <i>-fragment</i> respectively.
-</p>
+
+<p>The projects containing features and fragments must be suffixed by <i>-feature</i> and <i>-fragment</i> respectively.</p>
 
 
 <h2>3. Coding conventions</h2>
-<p>
-ACTF project uses the built-in Java-convention in Eclipse.
+<p>The ACTF project uses the built-in Java-convention in Eclipse.</p>
 
 <h2>4. Namespace URI conventions</h2>
-<p>
-To avoid unexpected propagation, namespace URIs in ACTF project will be defined as follows:
+<p>To avoid unexpected propagation, namespace URIs in ACTF project will be defined as follows:</p>
 <ul>
 <li>http://www.eclipse.org/projects/actf/&lt;component&gt;[/*]</li>
 </ul>
@@ -162,8 +187,8 @@ If you need to create new namespaces, please submit a request to the newsgroup.
 
 <h2>5. Others</h2>
 <p>
-More details about development conventions and guidelines, please visit  
-<a href="http://wiki.eclipse.org/Development_Conventions_and_Guidelines">Eclipse development guideline</a> page.
+For more details about development conventions and guidelines, please visit  
+<a href="http://wiki.eclipse.org/Development_Conventions_and_Guidelines">Eclipse development guidelines</a> page.
 </p>	
 </div>
 <div id="rightcolumn">
