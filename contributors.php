@@ -81,8 +81,7 @@ Currently, ACTF includes the components listed below. This table also shows the 
   <td>core</td>
   <td><i>is reserved for future use</i></td>
 </tr>
-<tr><
-  td>model</td>
+<tr><td>model</td>
   <td>includes components to support access to runtime properties of GUI components, document elements, and other runtime structures. It also includes typical application plugins as Editor Extensions.</td>
 </tr>
 <tr>
