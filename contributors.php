@@ -51,6 +51,7 @@ Repository.</p>
   <li>Browse and check-out plugins/features from the CVS repository. You can find the directory structure 
 	of the CVS repository in the <a href="#dir">Directory Structure</a> section.</li>
 </ol>
+<p>For more details about CVS, please visit <a href="http://wiki.eclipse.org/index.php/CVS_Howto">CVS Howto</a> page.</p>
 
 <h1>Development Guidelines</h1>
 <h2>1. Naming Conventions</h2>
