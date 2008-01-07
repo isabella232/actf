@@ -7,7 +7,7 @@
 <body>
 <h1>ACTF Project IP Log</h1>
 <h2>Committers</h2>
-<table border="1">
+<p><table border="1">
 <tr>
  <th>dev.eclipse.org unix login name</th>
  <th>Committer name</th>
@@ -43,24 +43,25 @@
  <td>Takashi ITOH</td>
  <td>IBM</td>
 </tr>
-</table>
+</table></p>
 
 <h2>Developers</h2>
-<table border="1">
+<p><table border="1">
 <tr>
   <th>Component<br>(CVS directory)</th>
   <th>bug #</th>
   <th>Contributor's name</th>
   <th>Contribution size<br>(LOC)</th>
   <th>Committer who committed<br>this contribution</th>
-  <th>Description</th></tr>
+  <th>Description</th>
+</tr>
 <tr>
  <td>org.eclipse.actf.common<br>
      org.eclipse.actf.examples.accprobe
  </td>
  <td><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=209948">209948</a></td>
  <td>Ann Ford</td>
- <td>6k</td>
+ <td>3k</td>
  <td>Mike Squillace</td>
  <td></td>
 </tr>
@@ -70,7 +71,7 @@
  </td>
  <td><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=209948">209948</a></td>
  <td>Kavitha Teegala</td>
- <td>4k</td>
+ <td>2k</td>
  <td>Mike Squillace</td>
  <td></td>
 </tr>
@@ -91,6 +92,30 @@
  <td><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=209948">209948</a></td>
  <td>John Buslawski</td>
  <td>1k</td>
+ <td>Mike Squillace</td>
+ <td></td>
+</tr>
+<tr>
+ <td>org.eclipse.actf.validation</td>
+ <td><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=214056">214056</a></td>
+ <td>Kavitha Teegala</td>
+ <td>0.5k</td>
+ <td>Mike Squillace</td>
+ <td></td>
+</tr>
+<tr>
+ <td>org.eclipse.actf.validation</td>
+ <td><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=214056">214056</a></td>
+ <td>John Buslawski</td>
+ <td>3k</td>
+ <td>Mike Squillace</td>
+ <td></td>
+</tr>
+<tr>
+ <td>org.eclipse.actf.validation</td>
+ <td><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=214056">214056</a></td>
+ <td>Mike A. Smith</td>
+ <td>2k</td>
  <td>Mike Squillace</td>
  <td></td>
 </tr>
@@ -156,35 +181,66 @@
  <td>Kentarou FUKUDA</td>
  <td>Documentation</td>
 </tr>
-</table>
+</table></p>
 
 <h2>Third Party Software</h2>
-<table border="1">
+<p><table border="1">
 <tr>
   <th>Name<br>(incl. version)</th>
   <th>License<br>(name and version)</th>
   <th>IPzilla #</th>
   <th>Location</th>
-  <th>Usage</th></tr>
+  <th>Usage</th>
+</tr>
 <tr>
   <td>Apache Commons JXPath 1.2</td>
   <td><a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache License, 2.0</a></td>
-  <td><a href="https://dev.eclipse.org/ipzilla/show_bug.cgi?id=1809">1809</a><br>
-      <a href="https://dev.eclipse.org/ipzilla/show_bug.cgi?id=1871">1871</a></td>
-  <td>org.eclipse.core.locate</td>
-  <td>unmodified, object, entire package</td></tr>
+  <td><a href="https://dev.eclipse.org/ipzilla/show_bug.cgi?id=1809">1809</a></td>
+  <td>org.eclipse.actf.model</td>
+  <td>unmodified, object, entire package</td>
+</tr>
 <tr>
-  <td>Apache Commons Logging 1.1</td>
+  <td>Apache Commons Logging 1.0.4</td>
   <td><a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache License, 2.0</a></td>
   <td><a href="https://dev.eclipse.org/ipzilla/show_bug.cgi?id=1849">1849</a></td>
-  <td>org.eclipse.core.locate</td>
-  <td>unmodified, object, entire package</td></tr>
+  <td>org.eclipse.actf.model</td>
+  <td>unmodified, object, entire package</td>
+</tr>
 <tr>
   <td> Apache Commons BeanUtils 1.7</td>
   <td><a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache License, 2.0</a></td>
   <td><a href="https://dev.eclipse.org/ipzilla/show_bug.cgi?id=1850">1850</a></td>
-  <td>org.eclipse.core.locate</td>
-  <td>unmodified, object, entire package</td></tr>
-</table>
+  <td>org.eclipse.actf.model</td>
+  <td>unmodified, object, entire package</td>
+</tr>
+<tr>
+  <td>Apache Bean Scripting Framework (BSF) v2.4.0</td>
+  <td><a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache License, 2.0</a></td>
+  <td><a href="https://dev.eclipse.org/ipzilla/show_bug.cgi?id=1941">1941</a></td>
+  <td>org.eclipse.actf.validation</td>
+  <td>unmodified, object, entire package</td>
+</tr>
+<tr>
+  <td>Mozilla Rhino v1.6.2</td>
+  <td><a href="http://www.mozilla.org/MPL/NPL-1.1.html">Netscape Public License 1.1 (via Orbit)</a></td>
+  <td><a href="https://dev.eclipse.org/ipzilla/show_bug.cgi?id=1951">1951</a></td>
+  <td>org.eclipse.actf.validation</td>
+  <td>unmodified, object, entire package</td>
+</tr>
+<tr>
+  <td>org.aspectj.runtime, v1.5.4</td>
+  <td><a href="http://www.eclipse.org/org/documents/epl-v10.php">Netscape Public License 1.1 (via Orbit)</a></td>
+  <td>none required</td>
+  <td>org.eclipse.actf.validation</td>
+  <td>unmodified, object, entire package</td>
+</tr>
+<tr>
+  <td>org.aspectj.weaver, v1.5.4</td>
+  <td><a href="http://www.eclipse.org/org/documents/epl-v10.php">Netscape Public License 1.1 (via Orbit)</a></td>
+  <td>none required</td>
+  <td>org.eclipse.actf.validation</td>
+  <td>unmodified, object, entire package</td>
+</tr>
+</table></p>
 </body>
 </html>
