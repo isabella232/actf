@@ -61,12 +61,9 @@ or document. It can also serve as an event monitor for tracking the events
 fired by these accessible objects. It is meant to combine the functionality of tools like Microsoft's Inspect32, AccExplore, 
 and AccEvent into one easy-to-use application for accessibility testing and debugging.</p>
 
-	<p><a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/examples/AccProbe/200711291013/AccProbe-200711291013-incubation.zip">AccProbe-200711291013-incubation.zip</a></p>
+	<p><a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/examples/AccProbe/200801141505/actf-accprobe-N200801141505-win32-incubation.zip">actf-accprobe-N200801141505-win32-incubation.zip</a></p>
 	
-	<p>Although the source is available, build issues are still being addressed but we post the 
-	tool now in order to gain your feedback. Check back often for future releases.</p>
-	
-    <h4>Accessibility Internet Browser for Multimedia (aiBrowser)</h4>
+	<h4>Accessibility Internet Browser for Multimedia (aiBrowser)</h4>
 	<p>Coming soon!</p>
 </div>
 	<p>All downloads are provided under the terms and conditions of the <a href="epl/notice.php" target="_blank">Eclipse 
