@@ -13,7 +13,7 @@
 	#****************************************************************************
 	
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "ACTF Project Home";
+	$pageTitle 		= "ACTF Plans";
 	$pageKeywords	= "Accessibility Tools Framework, accessibility, ACTF, Eclipse";
 	$pageAuthor		= "ACTF Team";
 	
