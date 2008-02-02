@@ -18,16 +18,9 @@
 	$pageKeywords	= "Accessibility Tools Framework, accessibility, ACTF, Eclipse";
 	$pageAuthor		= "ACTF Team";
 	
-	# PHP for Standard Left Menu
-	$Nav->setLinkList( array() );
-$Nav->addCustomNav( "Information about ACTF", "/projects/project_summary.php?projectid=technology.actf", "", 1  );
-
-	# Add page-specific Nav bars here
-	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
-	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
-	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
-	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
-
+	include('projectNav.php');
+		include('rightCol.php');
+	
 	# End: page-specific settings
 	#
 		
@@ -204,24 +197,8 @@ Watanabe)</li>
      
      </div>
 
-	<div id="rightcolumn">
-	    <div class="sideitem">
-			<h6>Related links</h6>
-			<ul>
-  <li><a href="http://www.eclipse.org/proposals/actf">Project proposal</a> 
-  <li><a href="http://www.eclipse.org/proposals/actf/ACTF_CreationReview.pdf">
-  Creation Review Slides </a></li>
-			</ul>
-	    </div>	    
-	    <div class="sideitem">
-              <h6>Incubation</h6>
-              <div align="center"><a href="http://www.eclipse.org/projects/gazoo.php">
-                 <img align="center" src="http://www.eclipse.org/images/egg-incubation.png" border="0" /></a>
-              </div>
-            </div>
-	</div>
-
-
+	$rightColumn
+	
 EOHTML;
 
 
