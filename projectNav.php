@@ -4,7 +4,7 @@
 	$Nav->setLinkList( array() );
 	$Nav->addCustomNav( "Information about ACTF", "/projects/project_summary.php?projectid=technology.actf", "", 1  );
 	$Nav->addCustomNav("Newsgroups", 	"http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.actf", "", 2);
-	$Nav->addCustomNav("Bugs",			"https://bugs.eclipse.org/bugs/buglist.cgi?product=ACTF", "", 2);
+	$Nav->addCustomNav("Bugs",			"https://bugs.eclipse.org/bugs/buglist.cgi?product=ACTF&bug_status=__open__", "", 2);
 	$Nav->addCustomNav("Mailing Lists",	"http://dev.eclipse.org/mhonarc/lists/actf-dev/maillist.html", "", 2);
 	$Nav->addNavSeparator("ACTF Home", 		"/actf");
 	$Nav->addCustomNav("Developer Resoruces", 	"/actf/contributors.php", "", 1);
