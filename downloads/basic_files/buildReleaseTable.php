@@ -90,7 +90,7 @@ function generateReleaseTableRows ($category, $elementName){
          $str = $str . "<td>";
          $file = $dir . $fileName;
          $fileInfo = stat($file);
-         $str = $str . ($fileInfo['size'] / 1024) . "KB";
+         $str = $str . round($fileInfo['size'] / 1024) . "KB";
          $str = $str . "</td>\n";
          
          $str = $str . "</tr>\n";
