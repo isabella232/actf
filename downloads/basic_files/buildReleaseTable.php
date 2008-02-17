@@ -1,5 +1,7 @@
 <?php
 
+// Author: Mike Squillace; masquill@us.ibm.com
+
 $columns = array("File", "Version", "Build ID", "Size");
 $downloadsDirName = "/home/data/httpd/download.eclipse.org/";
 $projectName = "technology/actf";
