@@ -17,15 +17,9 @@
 	$pageKeywords	= "Accessibility Tools Framework, accessibility, ACTF, Eclipse";
 	$pageAuthor		= "ACTF Team";
 	
-	# PHP for Standard Left Menu
-	include('projectNav.php');
-
-	# Add page-specific Nav bars here
-	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
-	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
-	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
-	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
-
+include('../projectNav.php');
+		include('../rightCol.php');
+	
 	# End: page-specific settings
 	#
 		
@@ -36,45 +30,47 @@
 
 	<div id="midcolumn">
 	<h1>ACTF Downloads</h1>
+<p>Besides the all-in-one release build of ACTF, ACTF downloads are divided into three distinct categories:</p>
+<p><ul>
+<li>component runtimes - components (i.e. sets of features/plugins) to be used by developers or testers for performing accessibility-related activities
+within the Eclipse environment including validation, visualization, and more</li>
+<li>component SDKs - component runtimes + everything a developer needs to build on top of the framework including source and javadocs</li>
+<li>exemplary tools - standalone, RCP applications related to accesibility</li>
+</ul></p>
 
 <div class="homeitem3col">
-	<h3>ACTF Release Build</h3>
+	<h2>ACTF Release Build</h2>
 	<p>
-	Status: Milestone Release 0.1 Target 1Q 2008
+	Status: Milestone Release 0.1 Target 2Q 2008
 	</p>
-<!--    <ul>       
-       <li>New Feature #1</li>
-       <li>New Feature #2</li>
-    </ul>
--->
 </div>
+
 <div class="homeitem3col">
-	<h3>ACTF Exemplary Tools</h3>
-	<p>
-	Initial prototype versions will be available in 4Q 2007. 
-	</p>
-	
-	<h4>Accessibility Probe (AccProbe)</h4>
+	<h2>ACTF Components</h2>
+</div>
+
+<div class="homeitem3col">
+	<h2>ACTF Exemplary Tools</h2>
+	<br>
+	<h3><a href="downloads/tools/accprobe.php">Accessibility Probe (AccProbe)</a></h3>
 	
 	<p>The Accessibility Probe is a standalone, Eclipse Rich-Client Product (RCP) application that provides 
-	a view of the <a href="http://msdn2.microsoft.com/en-us/library/ms697707.aspx">
-	Microsoft Active Accessibility (MSAA)</a> or <a href="http://www.linux-foundation.org/en/Accessibility/IAccessible2">IAccessible2</a> 
-	hierarchy of a currently running application or rendered document and of the properties of the accessible objects of that application 
+	a view of the accessible object hierarchy of a currently running application or rendered document and of the properties of the accessible objects of that application 
 or document. It can also serve as an event monitor for tracking the events
-fired by these accessible objects. It is meant to combine the functionality of tools like Microsoft's Inspect32, AccExplore, 
-and AccEvent into one easy-to-use application for accessibility testing and debugging.</p>
+fired by these accessible objects. It is meant to combine the functionality of a variety of accessibility testing tools 
+(such as inspection and event-monitoring tools) into one easy-to-use application for accessibility testing and debugging.</p>
 
-	<p><a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/examples/AccProbe/200801141505/actf-accprobe-N200801141505-win32-incubation.zip">actf-accprobe-N200801141505-win32-incubation.zip</a></p>
-	
-	<h4>Accessibility Internet Browser for Multimedia (aiBrowser)</h4>
+	<h3>Accessibility Internet Browser for Multimedia (aiBrowser)</h3>
 	<p>Coming soon!</p>
 </div>
+
 	<p>All downloads are provided under the terms and conditions of the <a href="epl/notice.php" target="_blank">Eclipse 
           Foundation Software User Agreement</a> unless otherwise specified.</p>
 	<hr class="clearer" />
+	
 	<h1>Other tools and runtimes on top of ACTF</h1>
 	<div class="homeitem3col">
-	 <h3>Links to external download site</h3>
+	 <h3>Links to external download sites</h3>
 	 <h4><a href="http://www.alphaworks.ibm.com/tech/adesigner">aDesigner</a>  (IBM alphaWorks technology)</h4>
 	 <p>The aDesigner is a tool that Web authors can use to ensure that the webpages they create are accessible to individuals who are blind or visually impaired. 
 	 For more details about this tool, please visit <a href="http://www.alphaworks.ibm.com/tech/adesigner">aDesigner introduction page</a>. (Jump to IBM alphaWorks Web site).</p>
@@ -87,24 +83,7 @@ and AccEvent into one easy-to-use application for accessibility testing and debu
 	</div>		
 </div>
 
-
-<div id="rightcolumn">
-    <div class="sideitem">
-	<h6>Related links</h6>
-	<ul>
-	  <li><a href="http://www.eclipse.org/proposals/actf">Project proposal</a> 
-  	<li><a href="http://www.eclipse.org/proposals/actf/ACTF_CreationReview.pdf">
-  	Creation Review Slides </a></li>
-	</ul>
-    </div>	    
-    <div class="sideitem">
-	<h6>Incubation</h6>
-              <div align="center"><a href="http://www.eclipse.org/projects/gazoo.php">
-                 <img align="center" src="http://www.eclipse.org/images/egg-incubation.png" border="0" /></a>
-              </div>
-	</div>
-</div>
-
+$rightColumn
 
 EOHTML;
 

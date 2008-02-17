@@ -82,14 +82,12 @@ This page will be updated soon.
 </div>
 <div class="homeitem3col">
 	<h3>ACTF Exemplary Tools</h3>
-	<p>
-	Initial prototype versions will be available in 4Q 2007. 
-	</p>
-    <ul>
-       <li>Accessibility Prove (AccProve) (MSAA/IAccessible2 inspection tool)</li>        
+	<p>Initial prototype versions will be available in 4Q 2007.</p>
+    <p><ul>
+       <li>Accessibility Probe (AccProbe) (MSAA/IAccessible2 inspection tool)</li>        
        <li>Accessibility Internet Browser for Multimedia (aiBrowser)</li>
-    </ul>
-    Please visit <a href="downloads.php">ACTF download page</a>.
+    </ul></p>
+    <p>Please visit the <a href="downloads/index.php">ACTF download page</a>.</p>
 </div>
 	<hr class="clearer" />
 </div>
