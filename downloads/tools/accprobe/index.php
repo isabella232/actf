@@ -15,10 +15,10 @@
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "ACTF - Accessibility Probe";
 	$pageKeywords	= "Accessibility Tools Framework, accessibility, ACTF, accessibility probe, Eclipse";
-	$pageAuthor		= "ACTF Team";
+	$pageAuthor		= "Mike Squillace";
 	
-include('../projectNav.php');
-		include('../rightCol.php');
+include('../../../projectNav.php');
+		include('../../../rightCol.php');
 	include('../../basic_files/buildReleaseTable.php');
 	
 	$releaseTable = generateReleaseTable('tools', 'accprobe');

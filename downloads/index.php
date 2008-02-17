@@ -53,7 +53,7 @@ within the Eclipse environment including validation, visualization, and more</li
 <div class="homeitem3col">
 	<h2>ACTF Exemplary Tools</h2>
 	<br>
-	<h3><a href="downloads/tools/accprobe.php">Accessibility Probe (AccProbe)</a></h3>
+	<h3><a href="tools/accprobe/index.php">Accessibility Probe (AccProbe)</a></h3>
 	
 	<p>The Accessibility Probe is a standalone, Eclipse Rich-Client Product (RCP) application that provides 
 	a view of the accessible object hierarchy of a currently running application or rendered document and of the properties of the accessible objects of that application 

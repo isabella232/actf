@@ -22,13 +22,11 @@ function date_cmp ($archiveMap1, $archiveMap2) {
 function generateReleaseTableRows ($category, $elementName){
    ini_set("max_execution_time",10);
    $dirName = $GLOBALS['rootDirName'] . '/' . $category . '/' . $elementName;
-   echo "dirName: " . $dirName . "\n";
    $archiveMaps = array();
    
    	// read version directories
    	if (($dir = @opendir($dirName))) {
    		while (false !== ($versionDirName = readdir($dir))) {
-     		echo "versionDirName: " . $versionDirName . "\n";
      		if ($versionDirName == "." || $versionDirName == "..") {
      			continue;
      		}
@@ -38,10 +36,8 @@ function generateReleaseTableRows ($category, $elementName){
          		$versionDirName = $dirName . '/' . $versionDirName;
    				
    				// read archives
-   				echo "reading archive files\n";
    				if (($versionDir = @opendir($versionDirName))) {
    					while (false !== ($fileName = readdir($versionDir))) {
-     					echo "fileName: " . $fileName . "\n";
      					if ($fileName == "." || $fileName == "..") {
      						continue;
      					}
@@ -92,7 +88,7 @@ function generateReleaseTableRows ($category, $elementName){
          $str = $str . "<td>";
          $file = $dir . $fileName;
          $fileInfo = stat($file);
-         $str = $str . $fileInfo['size'];
+         $str = $str . ($fileInfo['size'] / 1024) . "KB";
          $str = $str . "</td>\n";
          
          $str = $str . "</tr>\n";
@@ -119,5 +115,4 @@ function generateReleaseTable ($category, $elementName) {
 	return $releaseTable;
 }
 
-echo generateReleaseTable('tools', 'accprobe');
 ?>
