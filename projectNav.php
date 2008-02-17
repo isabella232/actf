@@ -3,7 +3,7 @@
 	# PHP for Standard Left Menu
 	$Nav->setLinkList( array() );
 	$Nav->addCustomNav( "Information about ACTF", "/projects/project_summary.php?projectid=technology.actf", "", 1  );
-	$Nav->addCustomNav("Downloads", 		"/actf/downloads.php", "", 1);
+	$Nav->addCustomNav("Downloads", 		"/actf/downloads/index.php", "", 1);
 	$Nav->addCustomNav("Developer Resources", 	"/actf/contributors.php", "", 1);
 	$Nav->addNavSeparator("Project Wiki", 	"http://wiki.eclipse.org/ACTF", "", 1);	
 

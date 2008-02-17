@@ -47,6 +47,7 @@ within the Eclipse environment including validation, visualization, and more</li
 
 <div class="homeitem3col">
 	<h2>ACTF Components</h2>
+	<br>
 </div>
 
 <div class="homeitem3col">
