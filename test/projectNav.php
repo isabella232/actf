@@ -1,7 +1,7 @@
 <?php
 
-	require_once($_SERVER['DOCUMENT_ROOT'] . "/projects/common/project-info.class.php");
-	$projectInfo = new ProjectInfo("technology.actf");
+	$App-UseProjectInfo();
+	$projectInfo = new ProjectInfo('technology.actf');
 
 	# PHP for Standard Left Menu
 	$Nav->setLinkList( array() );
