@@ -1,5 +1,8 @@
 <?php
 
+	require_once($_SERVER['DOCUMENT_ROOT'] . "/projects/common/project-info.class.php");
+	$projectInfo = new ProjectInfo("technology.actf");
+
 	# PHP for Standard Left Menu
 	$Nav->setLinkList( array() );
 	$Nav->addCustomNav( "Information about ACTF", "/projects/project_summary.php?projectid=technology.actf", "", 1  );
@@ -12,6 +15,9 @@
 	$Nav->addCustomNav("Plan", 			"/actf/plan.php", "", 1);
 	$Nav->addCustomNav("Team", 			"/actf/team.php", "", 1);
 	$Nav->addNavSeparator("Project Wiki", 	"http://wiki.eclipse.org/ACTF", "", 1);	
+
+	#test
+	$Nav->addCustomNav("Mailing List", $projectInfo->getValue("mailinglist"));
 
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
