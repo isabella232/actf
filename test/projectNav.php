@@ -1,6 +1,6 @@
 <?php
 
-	$App-UseProjectInfo();
+	$App->UseProjectInfo();
 	$projectInfo = new ProjectInfoData('technology.actf');
 
 	# PHP for Standard Left Menu
