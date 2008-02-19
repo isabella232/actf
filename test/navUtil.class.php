@@ -26,7 +26,7 @@ class NavUtil {
 		case "mailinglists":
 		case "bugzilla":
 		case "newsgroups":
-			$result = getUrl($varname);
+			$result = $this->getUrl($varname);
 			break;
 		default:
 			$result = $this->info->__get($varname);			

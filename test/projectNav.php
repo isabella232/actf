@@ -17,8 +17,8 @@
 	$Nav->addNavSeparator("Project Wiki", 	"http://wiki.eclipse.org/ACTF", "", 1);	
 
 
-	#$Nav->addCustomNav("ML", $navUtil->mailinglists, "", 1);
-	#$Nav->addCustomNav("Bug", $navUtil->bugzilla, "", 1);
+	$Nav->addCustomNav("ML", $navUtil->mailinglists, "", 1);
+	$Nav->addCustomNav("Bug", $navUtil->bugzilla, "", 1);
 	$Nav->addCustomNav("Contributors", $navUtil->contributorsurl, "", 1);
 	$Nav->addCustomNav("Wiki", $navUtil->wikiurl, "", 1);
 	
