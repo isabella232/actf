@@ -17,7 +17,9 @@
 	$Nav->addNavSeparator("Project Wiki", 	"http://wiki.eclipse.org/ACTF", "", 1);	
 
 	#test
-	$projectInfo->GetValue("mailinglist");
+	$mailing = $projectInfo->GetValue("mailinglist");
+	$Nav->addCustomNav("Mailing Lists", 			$mailing, "", 1);
+	
 
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
