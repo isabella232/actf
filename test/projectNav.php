@@ -1,7 +1,7 @@
 <?php
 
 	$App-UseProjectInfo();
-	$projectInfo = new ProjectInfo('technology.actf');
+	$projectInfo = new ProjectInfoData('technology.actf');
 
 	# PHP for Standard Left Menu
 	$Nav->setLinkList( array() );
@@ -17,8 +17,7 @@
 	$Nav->addNavSeparator("Project Wiki", 	"http://wiki.eclipse.org/ACTF", "", 1);	
 
 	#test
-	$mailing = $projectInfo->GetValue("mailinglist");
-	$Nav->addCustomNav("Mailing Lists", 			$mailing, "", 1);
+	$Nav->addCustomNav("ML", 			$projectInfo->mailinglists, "", 1);
 	
 
 	# Add page-specific Nav bars here
