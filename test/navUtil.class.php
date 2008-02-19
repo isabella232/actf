@@ -29,7 +29,7 @@ class NavUtil {
 			$result = getUrl($varname);
 			break;
 		default:
-			$result = $projectInfo->__get($varname);			
+			$result = $info->__get($varname);			
 		}
 		if(!$result){
 			return "";
@@ -39,7 +39,7 @@ class NavUtil {
 	}
 	
 	function getUrl( $varname ){
-		$x=$projectInfo->__get($varname);
+		$x=$info->__get($varname);
 		if ( $x && count($x) > 0 ) {
 			$x=$x[0];  //TODO multiple values
 			if($x->url){
