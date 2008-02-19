@@ -20,7 +20,7 @@
 	#$Nav->addCustomNav("ML", $navUtil->mailinglists, "", 1);
 	#$Nav->addCustomNav("Bug", $navUtil->bugzilla, "", 1);
 	#$Nav->addCustomNav("Contributors", $navUtil->contributorsurl, "", 1);
-	#$Nav->addCustomNav("Wiki", $navUtil->wikiurl, "", 1);
+	$Nav->addCustomNav("Wiki", $navUtil->wikiurl, "", 1);
 	
 
 	# Add page-specific Nav bars here
