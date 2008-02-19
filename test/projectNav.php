@@ -17,7 +17,13 @@
 	$Nav->addNavSeparator("Project Wiki", 	"http://wiki.eclipse.org/ACTF", "", 1);	
 
 	#test
-	$Nav->addCustomNav("ML", 			$projectInfo->mailinglists, "", 1);
+	$x=$projectInfo->mailinglists;
+	if ( $x && count($x) > 0 ) {
+		$x=$x[0];
+		if($x->name){
+			$Nav->addCustomNav("ML", "https://dev.eclipse.org/mailman/listinfo/" . $x, "", 1);
+		}
+	}
 	
 
 	# Add page-specific Nav bars here
