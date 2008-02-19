@@ -21,7 +21,7 @@
 	if ( $x && count($x) > 0 ) {
 		$x=$x[0];
 		if($x->name){
-			$Nav->addCustomNav("ML", "https://dev.eclipse.org/mailman/listinfo/" . $x, "", 1);
+			$Nav->addCustomNav("ML", "https://dev.eclipse.org/mailman/listinfo/" . $x->name, "", 1);
 		}
 	}
 	
