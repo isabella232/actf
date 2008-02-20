@@ -65,7 +65,7 @@ fired by these accessible objects. It is meant to combine the functionality of a
 	<p>Coming soon!</p>
 </div>
 
-	<p>All downloads are provided under the terms and conditions of the <a href="epl/notice.php" target="_blank">Eclipse 
+	<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php" target="_blank">Eclipse 
           Foundation Software User Agreement</a> unless otherwise specified.</p>
 	<hr class="clearer" />
 	
