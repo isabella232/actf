@@ -1,4 +1,3 @@
-# temporary redirect
 <?php
-  header( 'Location: http://www.eclipse.org/actf/downloads/tools/accprobe/index.php');
+  header( 'Location: http://www.eclipse.org/actf/downloads/tools/accprobe/index.php' );
 ?>
