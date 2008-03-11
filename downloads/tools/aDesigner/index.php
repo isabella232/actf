@@ -55,6 +55,10 @@
 	</p>
 	
 	<h2><a name="downloads">aDesigner Releases</a></h2>
+	<p>All downloads are provided under the terms and conditions of the 
+	<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a>.
+	</p>
+	
 	$releaseTable
 	
 	<h2><a name="quickStart">Getting started</a></h2>

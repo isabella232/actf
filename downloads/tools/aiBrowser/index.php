@@ -65,6 +65,10 @@
 	aiBrowser with JAWS screen reader, download an installer version of aiBrowser.
 	</p>
 
+	<p>All downloads are provided under the terms and conditions of the 
+	<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a>.
+	</p>
+	
 	<p>Installer<br>
 	<table width='80%' border='2'>
 	 <tr>
