@@ -88,7 +88,8 @@
 	</p>
 	
 	<h2><a name="quickStart">Getting started</a></h2>
-	<p>ACTF aiBrowser is an Eclipse RCP application. 
+	<p>ACTF aiBrowser is an Eclipse RCP application. So, you can easily launch 
+	aiBrowser by executing the 'aiBrowser.exe'.
 	</p>
 
 	<ul>
