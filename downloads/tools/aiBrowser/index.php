@@ -22,7 +22,6 @@
 	include('../../basic_files/buildReleaseTable.php');
 	
 	$releaseTable = generateReleaseTable('tools', 'aiBrowser');
-	$releaseTable2 = generateReleaseTable('tools', 'aiBrowser_installer');
 	
 	# End: page-specific settings
 	#
@@ -61,28 +60,48 @@
 	Web-based multimedia content accessible to the visually impaired.
 	<p/>
 	
-	<h2><a name="downloads">aiBrowser Releases</a></h2>
-	$releaseTable2
-
-	$releaseTable
-	
-	<h2><a name="quickStart">Getting started</a></h2>
-	<p>ACTF aiBrowser is an Eclipse RCP application. There are two types of downloads, 
-	installer and zip file. To use aiBrowser with JAWS screen reader, download 
-	an installer version of aiBrowser.
+	<h2><a name="downloads">aiBrowser Releases</a></h2>	
+	<p>There are two types of downloads, installer (exe file) and zip file. To use 
+	aiBrowser with JAWS screen reader, download an installer version of aiBrowser.
 	</p>
 
-	<h3>Installer</h3>
-	<p>Download and execute an installer. Then, follow the instructions from the 
+	<p>Installer<br>
+	<table width='80%' border='2'>
+	 <tr>
+	  <th>File</th>
+	  <th>Version</th>
+	  <th>Build ID</th>
+	  <th>Size</th>
+	 </tr>
+	<tr>
+	  <td><a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/tools/aiBrowser_installer/0.0.1/actf-aiBrowser-200803112200-win32-incubation.exe">
+	  actf-aiBrowser-200803112200-win32-incubation.exe</a></td>
+	  <td>0.0.1</td>
+	  <td>200803112200</td>
+	  <td>23781KB</td>
+	  </tr>
+	</table>
+	</p>
+
+	<p>Zip File<br>
+	$releaseTable
+	</p>
+	
+	<h2><a name="quickStart">Getting started</a></h2>
+	<p>ACTF aiBrowser is an Eclipse RCP application. 
+	</p>
+
+	<ul>
+	<li><strong>Installer version: </strong>
+	Download and execute an installer. Then, follow the instructions from the 
 	installation wizard. After the installation, you can start aiBrowser from 
 	'All Programs' menu > 'ACTF Accessibility Internet Browser' > 'aiBrowser'. 
 	Online help is available from Help menu.
-	</p>
-
-	<h3>Zip file</h3>
-	<p>Download and unpack a zip file, and execute aiBrowser.exe in the aiBrowser 
+	</li>
+	<li><strong>Zip file version: </strong>
+	Download and unpack a zip file, and execute aiBrowser.exe in the aiBrowser 
 	folder. Online help is available from Help menu.
-	</p>
+	</li>
 		
 	<h2><a name="requirements">System Requirements</a></h2>
 	<ul>
