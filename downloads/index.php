@@ -61,8 +61,26 @@ or document. It can also serve as an event monitor for tracking the events
 fired by these accessible objects. It is meant to combine the functionality of a variety of accessibility testing tools 
 (such as inspection and event-monitoring tools) into one easy-to-use application for accessibility testing and debugging.</p>
 
+	<h3>aDesigner</h3>
+	<p>The aDesigner is an Eclipse RCP application that helps designers ensure 
+	that their content and applications are accessible and usable by the visually 
+	impaired. aDesigner provides a visual representation of the visually impaired 
+	users' usability of content. It helps users to learn about real accessibility 
+	issues in their content and applications. Currently, aDesigner supports HTML, 
+	ODF documents and Flash content. 
+	It also has accessibility information (MSAA/IA2) inspection functions. 
+	</p>
+	<p><a href="tools/aDesigner/index.php">aDesigner download page<img src="../images/go-bottom.png" alt=""></a>
+
 	<h3>Accessibility Internet Browser for Multimedia (aiBrowser)</h3>
-	<p>Coming soon!</p>
+	<p>aiBrowser is an Eclipse RCP application that allows screen reader users 
+	to control embedded multimedia content, with commands to play, stop, or control 
+	the volume for streaming video, by simply using predefined shortcut keys. 
+	Users can customize the behavior of existing Web content by using metadata. 
+	This tool also adds audio descriptions for Internet movies based on a simple text script. 
+	</p>
+	<p><a href="tools/aiBrowser/index.php">aiBrowser download page<img src="../images/go-bottom.png" alt=""></a>
+	</p>
 </div>
 
 	<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php" target="_blank">Eclipse 
