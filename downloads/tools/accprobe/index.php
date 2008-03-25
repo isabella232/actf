@@ -56,7 +56,9 @@ and AccEvent into one easy-to-use application for accessibility testing and debu
 	detailed instructions and using AccProbe, consult the User's Guide also found in the 'accprobe' directory.</p>
 	
 	<p><strong>Note</strong>: If you intend to inspect or monitor an <a href="http://www.linux-foundation.org/en/Accessibility/IAccessible2/SoftwareDirectory">IAccessible2-enabled application</a>, you will 
-	need to register the IAccessible2Proxy.dll packaged with AccProbe.  Consult the User's Guide for further instructions.</p>
+	need to register the IAccessible2Proxy.dll packaged with AccProbe.  You do this as follows:</p>
+	<p>regsvr32 dllname</p>
+	<p>where 'dllname' is the full path to the IAccessible2Proxy.dll, &lt;ACCPROBE_INSTALL_DIR/accprobe/org.eclipse.actf.accservice.win32.ia2_&lt;version&gt;/IAccessible2Proxy.dll&gt;.</p>
 	
 	<h2><a name="building">Building AccProbe</a></h2>
 <p>There are several steps for building AccProbe, depending upon whether or not you wish 
