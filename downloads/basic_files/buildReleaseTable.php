@@ -43,13 +43,13 @@ function generateReleaseTableRows ($category, $elementName){
      					if ($fileName == "." || $fileName == "..") {
      						continue;
      					}
-     					$archivePattern = '/.*\-' . $elementName . '\-[\w\d]*\-?([nNiIsSmM]?[0-9]+).*\.zip/';
+     					$archivePattern = '/.*\-' . $elementName . '\-(runtime|sdk)?\-?([nNiIsSmM]?[0-9]+).*\.zip/';
      					if (preg_match($archivePattern, $fileName, $matches)) {
      						$archiveMaps[] = array(
      							'fileName' => $fileName,
      							'parentDir' => $versionDirName . '/',
      							'version' => $version,
-     							'buildId' => $matches[1]
+     							'buildId' => $matches[2]
      						);
      					}
      				} // next archive file
