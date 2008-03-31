@@ -30,13 +30,13 @@
 <H1>Accessibility Tools Framework (ACTF)</H1>
 <P>The Accessibility Tools Framework (ACTF) is an incubation phase project 
 that is a subproject of the Eclipse Technology Project.</P>
-<P>The ACTF is a software framework which serves as an extensible infrastructure
+<P>ACTF is a framework that serves as an extensible infrastructure
 upon which developers can build a variety of utilities that help to evaluate and
 enhance the accessibility of applications and content for people with disabilities.
 A collection of example utilities will also be provided which were created on
 top of the framework such as compliance validation tools, assistive technology 
 simulation  applications, usability visualization tools, unit-testing utilities, 
-and alternative accessible interfaces for applications.  The ACTF infrastructure
+and alternative accessible interfaces for applications.  The ACTF componentry 
 and the utilities will be integrated into a single tooling  environment on top of
 the Eclipse framework. The framework components will function cooperatively 
 with each other and with other Eclipse projects to provide a comprehensive
