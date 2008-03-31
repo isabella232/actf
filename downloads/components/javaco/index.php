@@ -47,7 +47,7 @@ componentry comes packaged with validation documents for assessing accessibility
 and the <a href="http://www.ibm.com/able/guidelines/software/accesssoftware.html">IBM Software Accessibility Checklist</a> for Eclipse SWT-based applications.  Documentation is available in the standard Eclipse help system.</p> 
 
 	<h2><a name="downloads">Javaco Releases</a></h2>
-	<p>Javaco releases come in two flavors, runtime and SDK releases.  Runtime releases provide all of the functionality to enalbe Java develoeprs to 
+	<p>Javaco releases come in two flavors, runtime and SDK releases.  Runtime releases provide all of the functionality to enable Java developers to 
 	perform dynamic validations and accessibility compliance evaluations from within the JDT.  SDK builds provide all source code and an API 
 	reference for those wishing to expand the functionality of Javaco or build their own rulebases or customize the validation engine.</p>
 	
