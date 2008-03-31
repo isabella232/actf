@@ -43,7 +43,7 @@ function generateReleaseTableRows ($category, $elementName){
      					if ($fileName == "." || $fileName == "..") {
      						continue;
      					}
-     					$archivePattern = '/.*\-' . $elementName . '\-([nNiIsSmM]?[0-9]+).*\.zip/';
+     					$archivePattern = '/.*\-' . $elementName . '\-[runtime|sdk]?\-([nNiIsSmM]?[0-9]+).*\.zip/';
      					if (preg_match($archivePattern, $fileName, $matches)) {
      						$archiveMaps[] = array(
      							'fileName' => $fileName,
