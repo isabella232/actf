@@ -48,6 +48,11 @@ within the Eclipse environment including validation, visualization, and more</li
 <div class="homeitem3col">
 	<h2>ACTF Components</h2>
 	<br>
+	<h3><a href="components/javaco/index.php">Java Validation Componentry (Javaco)<img src="../images/go-bottom.png" alt=""></a></h3>
+	<p>Javaco is a collection of components that can be leveraged by the Java developer from within the JDT to perform 
+	accessibility compliance validations of Java applications.  These validations are dynamic, occuring as the application is being used so that accessibility 
+	evaluation need not be a distinct part of the testing cycle.  Other components allow the developer to unit-test their GUI-based 
+	applications for accessibility, correcting accessibility deficiencies right in the source code.</p>
 </div>
 
 <div class="homeitem3col">
