@@ -44,7 +44,7 @@
 	   <td>The Paciello Group</td>
 	</tr>
 	</table>
-	<h3>Initial Committers</h3>
+	<h3>Committers</h3>
 	<table cellpadding="2">
 	<tr>
 	   <td>Kentarou Fukuda</td>
@@ -71,6 +71,10 @@
 	   <td>IBM</td>
 	</tr>
 	<tr>  
+	   <td>Daisuke Sato</td>
+	   <td>IBM</td>
+	</tr>
+	<tr>  
 	   <td>Steve Faulkner</td>
 	   <td>The Paciello Group</td>
 	</tr>
@@ -92,6 +96,10 @@
 	</tr>
 	<tr>  
 	   <td>Simon Harper</td>
+	   <td>University of Manchester</td>
+	</tr>
+	<tr>  
+	   <td>Yeliz Yesilada</td>
 	   <td>University of Manchester</td>
 	</tr>
 	<tr>  
