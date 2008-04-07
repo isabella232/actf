@@ -86,6 +86,11 @@ to build the requisite dlls:</p>
 		<li>org.eclipse.actf.examples.accprobe-feature</li>
 	</ul></li>
 </ul></li>
+<li>You will also need the following bundles from the <a href="http://www.eclipse.org/orbit">Orbit project</a> for an IDE build<ul>
+<li>org.apache.commons.beanutils</li>
+<li>org.apache.commons.collections</li>
+<li>org.apache.commons.logging</li>
+</ul><br>Download the bundles, drop them into your plugins directory, and restart the workbench.</li>
 <li>build the AccProbe product:<ol>
 	<li>Select File&gt;Export... and choose Plug-inDevelopment&gt;Eclipse Product</li>
 	<li>Click Next</li>
