@@ -48,8 +48,8 @@ within the Eclipse environment including validation, visualization, and more</li
 <div class="homeitem3col">
 	<h2>ACTF Components</h2>
 	<br>
-	<h3><a href="components/javaco/index.php">Java Validation Componentry (Javaco)<img src="../images/go-bottom.png" alt=""></a></h3>
-	<p>Javaco is a collection of components that can be leveraged by the Java developer from within the JDT to perform 
+	<h3>Java Validation Componentry (Javaco)</h3>
+	<p><a href="components/javaco/index.php">Javaco<img src="../images/go-bottom.png" alt=""></a> is a collection of components that can be leveraged by the Java developer from within the JDT to perform 
 	accessibility compliance validations of Java applications.  These validations are dynamic, occuring as the application is being used so that accessibility 
 	evaluation need not be a distinct part of the testing cycle.  Other components allow the developer to unit-test their GUI-based 
 	applications for accessibility, correcting accessibility deficiencies right in the source code.</p>
@@ -58,9 +58,9 @@ within the Eclipse environment including validation, visualization, and more</li
 <div class="homeitem3col">
 	<h2>ACTF Exemplary Tools</h2>
 	<br>
-	<h3><a href="tools/accprobe/index.php">Accessibility Probe (AccProbe)<img src="../images/go-bottom.png" alt=""></a></h3>
+	<h3>Accessibility Probe (AccProbe)</h3>
 	
-	<p>The Accessibility Probe is a standalone, Eclipse Rich-Client Product (RCP) application that provides 
+	<p><a href="tools/accprobe/index.php">Accessibility Probe<img src="../images/go-bottom.png" alt=""></a> is a standalone, Eclipse Rich-Client Product (RCP) application that provides 
 	a view of the accessible object hierarchy of a currently running application or rendered document and of the properties of the accessible objects of that application 
 or document. It can also serve as an event monitor for tracking the events
 fired by these accessible objects. It is meant to combine the functionality of a variety of accessibility testing tools 
