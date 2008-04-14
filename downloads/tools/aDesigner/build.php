@@ -38,18 +38,17 @@
 	<p><ul>
 	  <li>Obtain source code</li>
 	  <ul>
-	   <li>Prepare Eclipse and other pre-reqs. (See <a href="requirements">System Requirements</a>)</li>
+	   <li>Prepare Eclipse and other pre-reqs. (See <a href="#requirements">System Requirements</a>)</li>
 	   <li>Download Team Project Set file (*.psf).</li>
 	    <ul>
-	      <li>for Committers: <a href="aDesigner-committer.psf">aDesigner-committer.psf</a></li>
+	      <li>for Committers: <a href="aDesigner-committer.psf">aDesigner-committer.psf</a> ()</li>
 	      <li>for others: <a href="aDesigner-committer.psf">aDesigner-anonymous.psf</a></li>
 	    </ul>
 	   <li>Import the downloaded Team Project Set file (*.psf) from Eclipse's 'File' -> 'Import' menu.</li>
 	    <ul>
 	      <li>Committers: use your committer id and password</li>
-	      <li>Others: user -> 'anonymous', password -> '' (null)</a></li>
+	      <li>Others: user -> "anonymous", password -> "" (null)</a></li>
 	    </ul>
-	   <li>
 	  </ul> 
 	  <li>Launch aDesigner from workspace</li>
 	  <ul>
@@ -66,7 +65,7 @@
 	</p>
 	
 	<h2><a name="requirements">System Requirements</a></h2>
-	<ul>
+	<p><ul>
 	 <li>Operating Systems<BR>
 	 <UL>
 	  <LI>Windows&#174; XP or above
@@ -80,7 +79,7 @@
 	  <li>For OpenDocument Accessibility mode:  OpenOffice.org 2.1.0 or above</li>
   	 </UL>
 	</ul>
-
+	</p>
 </div>
 
 $rightColumn
