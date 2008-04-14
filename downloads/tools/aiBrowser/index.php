@@ -123,7 +123,7 @@
 	 </UL>
 	 <LI>Software
 	 <UL>
-	  <li>Java Runtime Environment (JRE) 1.5.0 or above</li>
+	  <li>Java Runtime Environment (JRE) 5.0 or above</li>
 	  <li>Internet Explorer 6.0 or above</li>
 	  <li>To use Flash Content:  Adobe&reg; Flash Player, Version 8 or above</li>
   	 </UL>
