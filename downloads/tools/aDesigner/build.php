@@ -44,12 +44,12 @@
 	      <li>for Committers: <a href="aDesigner-committer.psf">aDesigner-committer.psf</a></li>
 	      <li>for others: <a href="aDesigner-anonymous.psf">aDesigner-anonymous.psf</a></li>
 	    </ul>
-	   <li>Import the downloaded Team Project Set file (*.psf) from Eclipse's 'File' -> 'Import' menu.</li>
+	   <li>Import the downloaded Team Project Set file (*.psf) from Eclipse's 'File' -&gt; 'Import' menu.</li>
 	    <ul>
 	      <li>Committers: use your committer id and password</li>
-	      <li>Others: user -> "anonymous", password -> "" (null)</a></li>
+	      <li>Others: user -&gt; "anonymous", password -&gt; "" (null)</a></li>
 	    </ul>
-	   <li>Add Classpath Variable for OOo (if needed) from 'Window' -> 'Preferences' -> 'Java' -> 'Build Path' -> 'Classpath Variables' as below:<br>
+	   <li>Add Classpath Variable for OOo (if needed) from 'Window' -&gt; 'Preferences' -&gt; 'Java' -&gt; 'Build Path' -&gt; 'Classpath Variables' as below:<br>
 		Name: OOO_HOME<br>
 		Path: &lt;OOo install dir&gt; (e.g., "c:\Program Files\OpenOffice.org 2.3")<br>
 	  </ul> 

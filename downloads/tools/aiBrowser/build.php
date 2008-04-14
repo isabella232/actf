@@ -44,10 +44,10 @@
 	      <li>for Committers: <a href="aiBrowser-committer.psf">aiBrowser-committer.psf</a></li>
 	      <li>for others: <a href="aiBrowser-anonymous.psf">aiBrowser-anonymous.psf</a></li>
 	    </ul>
-	   <li>Import the downloaded Team Project Set file (*.psf) from Eclipse's 'File' -> 'Import' menu.</li>
+	   <li>Import the downloaded Team Project Set file (*.psf) from Eclipse's 'File' -&gt; 'Import' menu.</li>
 	    <ul>
 	      <li>Committers: use your committer id and password</li>
-	      <li>Others: user -> "anonymous", password -> "" (null)</a></li>
+	      <li>Others: user -&gt; "anonymous", password -&gt; "" (null)</a></li>
 	    </ul>
 	  </ul> 
 	  <li>Launch aiBrowser from workspace</li>
