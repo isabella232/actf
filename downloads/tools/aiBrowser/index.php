@@ -36,6 +36,7 @@
 	<li><a href="#overview">Overview</a></li>
 	<li><a href="#downloads">aiBrowser Releases</a></li>
 	<li><a href="#quickStart">Getting started</a></li>
+	<li><a href="build.php">Building aiBrowser</a></li> 
 	<li><a href="#requirements">System Requirements</a></li>
 	</ul></p>
 
@@ -109,7 +110,7 @@
 	</li>
 		
 	<h2><a name="requirements">System Requirements</a></h2>
-	<ul>
+	<p><ul>
 	 <li>Operating Systems<BR>
 	 <UL>
 	  <LI>Windows&#174; XP SP2 (recommended) or above
@@ -127,7 +128,7 @@
 	  <li>To use Flash Content:  Adobe&reg; Flash Player, Version 8 or above</li>
   	 </UL>
 	</ul>
-
+	</p>
 </div>
 
 $rightColumn

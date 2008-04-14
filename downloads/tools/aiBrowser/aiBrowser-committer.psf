@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Copyright (c) 2007, 2008 IBM Corporation and others.
+ All rights reserved. This program and the accompanying materials
+ are made available under the terms of the Eclipse Public License v1.0
+ which accompanies this distribution, and is available at
+ http://www.eclipse.org/legal/epl-v10.html
+
+ Contributors:
+     IBM Corporation - initial API and implementation
+-->
+<psf version="2.0">
+	<provider id="org.eclipse.team.cvs.core.cvsnature">
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.ai/features/org.eclipse.actf.ai-feature,org.eclipse.actf.ai-feature"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.accservice.swtbridge,org.eclipse.actf.accservice.swtbridge"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.ai/plugins/org.eclipse.actf.ai.audio.description,org.eclipse.actf.ai.audio.description"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.ai/plugins/org.eclipse.actf.ai.audio.io,org.eclipse.actf.ai.audio.io"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.util.comclutch.win32,org.eclipse.actf.util.comclutch.win32"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.ai/plugins/org.eclipse.actf.ai.fennec,org.eclipse.actf.ai.fennec"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.ai/plugins/org.eclipse.actf.ai.key.keyhook.win32,org.eclipse.actf.ai.key.keyhook.win32"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.ai/plugins/org.eclipse.actf.ai.key.keyui,org.eclipse.actf.ai.key.keyui"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.ai/plugins/org.eclipse.actf.ai.navigator,org.eclipse.actf.ai.navigator"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.ai/plugins/org.eclipse.actf.ai.query,org.eclipse.actf.ai.query"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.ai/plugins/org.eclipse.actf.ai.screenreader.jaws,org.eclipse.actf.ai.screenreader.jaws"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.ai/plugins/org.eclipse.actf.ai.screenreader.windoweyes,org.eclipse.actf.ai.screenreader.windoweyes"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.ai/plugins/org.eclipse.actf.ai.tts.protalker,org.eclipse.actf.ai.tts.protalker"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.ai/plugins/org.eclipse.actf.ai.tts.sapi,org.eclipse.actf.ai.tts.sapi"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.ai/plugins/org.eclipse.actf.ai.voice,org.eclipse.actf.ai.voice"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.ai/plugins/org.eclipse.actf.ai.xmlstore,org.eclipse.actf.ai.xmlstore"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.common,org.eclipse.actf.common"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.examples/plugins/org.eclipse.actf.examples.aibrowser,org.eclipse.actf.examples.aibrowser"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.examples/features/org.eclipse.actf.examples.aibrowser-feature,org.eclipse.actf.examples.aibrowser-feature"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.examples/plugins/org.eclipse.actf.examples.aibrowser.doc,org.eclipse.actf.examples.aibrowser.doc"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.examples/plugins/org.eclipse.actf.examples.aibrowser.doc.nl1,org.eclipse.actf.examples.aibrowser.doc.nl1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.examples/plugins/org.eclipse.actf.examples.aibrowser.nls,org.eclipse.actf.examples.aibrowser.nls"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.model.dom.dombycom,org.eclipse.actf.model.dom.dombycom"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.model.flash,org.eclipse.actf.model.flash"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.model.flash.proxy,org.eclipse.actf.model.flash.proxy"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.model.ui.editors.ie,org.eclipse.actf.model.ui.editors.ie"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.util.httpproxy,org.eclipse.actf.util.httpproxy"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.util.jxpath,org.eclipse.actf.util.jxpath"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.util.vocab,org.eclipse.actf.util.vocab"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.util.win32,org.eclipse.actf.util.win32"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.examples/others/org.eclipse.actf.examples.aibrowser-installer,org.eclipse.actf.examples.aibrowser-installer"/>
+	</provider>
+</psf>
