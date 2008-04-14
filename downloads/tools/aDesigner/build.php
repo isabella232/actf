@@ -42,7 +42,7 @@
 	   <li>Download Team Project Set file (*.psf).</li>
 	    <ul>
 	      <li>for Committers: <a href="aDesigner-committer.psf">aDesigner-committer.psf</a></li>
-	      <li>for others: <a href="aDesigner-committer.psf">aDesigner-anonymous.psf</a></li>
+	      <li>for others: <a href="aDesigner-anonymous.psf">aDesigner-anonymous.psf</a></li>
 	    </ul>
 	   <li>Import the downloaded Team Project Set file (*.psf) from Eclipse's 'File' -> 'Import' menu.</li>
 	    <ul>
