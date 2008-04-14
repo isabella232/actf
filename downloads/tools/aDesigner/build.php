@@ -51,7 +51,7 @@
 	    </ul>
 	   <li>Add Classpath Variable for OOo (if needed) from 'Window' -> 'Preferences' -> 'Java' -> 'Build Path' -> 'Classpath Variables' as below:<br>
 		Name: OOO_HOME<br>
-		Path: <OOo install dir> (e.g., "c:\Program Files\OpenOffice.org 2.3")<br>
+		Path: &lt;OOo install dir&gt; (e.g., "c:\Program Files\OpenOffice.org 2.3")<br>
 	  </ul> 
 	  <li>Launch aDesigner from workspace</li>
 	  <ul>
