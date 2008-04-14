@@ -58,7 +58,7 @@
 	  </ul>
 	  <li>Build aDesigner</li>
 	  <ul>
-	   <li>Open 'org.eclipse.actf.examples.adesigner' project and select aDesigner.product.</li>
+	   <li>Open 'org.eclipse.actf.examples.adesigner' project and select 'aDesigner.product'.</li>
 	   <li>Select 'Synchronize' under 'Testing' section.</li>
 	   <li>Open an export product wizard by selecting 'Eclipse product export wizard' under 'Exporting' section and follow the wizard.</li>
 	  </ul>

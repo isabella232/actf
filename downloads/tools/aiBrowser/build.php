@@ -58,7 +58,7 @@
 	  </ul>
 	  <li>Build aiBrowser</li>
 	  <ul>
-	   <li>Open 'org.eclipse.actf.examples.aibrowser' project and select aibrowser.product.</li>
+	   <li>Open 'org.eclipse.actf.examples.aibrowser' project and select 'aibrowser.product'.</li>
 	   <li>Select 'Synchronize' under 'Testing' section.</li>
 	   <li>Open an export product wizard by selecting 'Eclipse product export wizard' under 'Exporting' section and follow the wizard.</li>
 	   <li>Follow 'readme.txt' in 'org.eclipse.actf.examples.aibrowser-installer' project.</li>
