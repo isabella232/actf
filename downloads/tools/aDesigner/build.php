@@ -75,8 +75,9 @@
 	 </UL>
 	 <LI>Software
 	 <UL>
-	  <li>Java Runtime Environment (JRE) 1.5.0 or above</li>
+	  <li><a href="http://www.eclipse.org/downloads/moreinfo/jre.php">Java Runtime Environment (JRE) 5.0 or above</a></li>
 	  <li><a href="http://www.eclipse.org/downloads/">Eclipse for RCP/Plug-in Developers 3.3.1.1 or above</a></li>
+	  <li>Eclipse Language Packs: <a href="http://www.eclipse.org/downloads/download.php?file=/eclipse/downloads/drops/L-3.2.1_Language_Packs-200609210945/NLpack1-eclipse-SDK-3.2.1-win32.zip">NLpack1-eclipse-SDK-3.2.1-win32.zip</a></li>
 	  <li>Internet Explorer 6.0 or above</li>
 	  <li>For Flash Accessibility mode:  Adobe&reg; Flash Player, Version 8 or above</li>
 	  <li>For OpenDocument Accessibility mode:  OpenOffice.org 2.1.0 or above</li>
