@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Copyright (c) 2007, 2008 IBM Corporation and others.
+ All rights reserved. This program and the accompanying materials
+ are made available under the terms of the Eclipse Public License v1.0
+ which accompanies this distribution, and is available at
+ http://www.eclipse.org/legal/epl-v10.html
+
+ Contributors:
+     IBM Corporation - initial API and implementation
+-->
+<psf version="2.0">
+	<provider id="org.eclipse.team.cvs.core.cvsnature">
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.visualization/features/org.eclipse.actf.visualization-feature,org.eclipse.actf.visualization-feature"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.accservice.swtbridge,org.eclipse.actf.accservice.swtbridge"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.util.comclutch.win32,org.eclipse.actf.util.comclutch.win32"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.ai/plugins/org.eclipse.actf.ai.key.keyhook.win32,org.eclipse.actf.ai.key.keyhook.win32"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.ai/plugins/org.eclipse.actf.ai.tts.sapi,org.eclipse.actf.ai.tts.sapi"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.ai/plugins/org.eclipse.actf.ai.voice,org.eclipse.actf.ai.voice"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.common,org.eclipse.actf.common"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.model.dom.dombycom,org.eclipse.actf.model.dom.dombycom"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.model.dom.html,org.eclipse.actf.model.dom.html"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.model.dom.odf,org.eclipse.actf.model.dom.odf"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.model.flash,org.eclipse.actf.model.flash"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.model.flash.proxy,org.eclipse.actf.model.flash.proxy"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.model.ui.editors.ie,org.eclipse.actf.model.ui.editors.ie"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.model.ui.editors.ooo,org.eclipse.actf.model.ui.editors.ooo"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.model.ui.editors.ooo.initializer,org.eclipse.actf.model.ui.editors.ooo.initializer"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.util.httpproxy,org.eclipse.actf.util.httpproxy"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.util.jxpath,org.eclipse.actf.util.jxpath"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.util.vocab,org.eclipse.actf.util.vocab"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.common/plugins/org.eclipse.actf.util.win32,org.eclipse.actf.util.win32"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.visualization/plugins/org.eclipse.actf.visualization.blind.odfbyhtml,org.eclipse.actf.visualization.blind.odfbyhtml"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.visualization/plugins/org.eclipse.actf.visualization.engines.blind,org.eclipse.actf.visualization.engines.blind"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.visualization/plugins/org.eclipse.actf.visualization.gui,org.eclipse.actf.visualization.gui"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.visualization/plugins/org.eclipse.actf.visualization.lowvision,org.eclipse.actf.visualization.lowvision"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.visualization/plugins/org.eclipse.actf.visualization.presentation,org.eclipse.actf.visualization.presentation"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.visualization/plugins/org.eclipse.actf.visualization.ui.report,org.eclipse.actf.visualization.ui.report"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.examples/plugins/org.eclipse.actf.examples.adesigner,org.eclipse.actf.examples.adesigner"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.examples/plugins/org.eclipse.actf.examples.adesigner.doc,org.eclipse.actf.examples.adesigner.doc"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.examples/features/org.eclipse.actf.examples.adesigner-feature,org.eclipse.actf.examples.adesigner-feature"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.examples/plugins/org.eclipse.actf.examples.adesigner.nls,org.eclipse.actf.examples.adesigner.nls"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.visualization/plugins/org.eclipse.actf.visualization.blind,org.eclipse.actf.visualization.blind"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.visualization/plugins/org.eclipse.actf.visualization.blind.html,org.eclipse.actf.visualization.blind.html"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.visualization/plugins/org.eclipse.actf.visualization.engines.blind.html,org.eclipse.actf.visualization.engines.blind.html"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.visualization/plugins/org.eclipse.actf.visualization.engines.lowvision,org.eclipse.actf.visualization.engines.lowvision"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.visualization/plugins/org.eclipse.actf.visualization.engines.voicebrowser,org.eclipse.actf.visualization.engines.voicebrowser"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.visualization/plugins/org.eclipse.actf.visualization.eval,org.eclipse.actf.visualization.eval"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.visualization/plugins/org.eclipse.actf.visualization.flash,org.eclipse.actf.visualization.flash"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.examples/plugins/org.eclipse.actf.examples.adesigner.eval.odf,org.eclipse.actf.examples.adesigner.eval.odf"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.examples/plugins/org.eclipse.actf.examples.adesigner.doc.nl1,org.eclipse.actf.examples.adesigner.doc.nl1"/>
+		<project reference="1.0,:pserver:proxy.eclipse.org:80/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.examples/plugins/org.eclipse.actf.examples.adesigner.eval.html,org.eclipse.actf.examples.adesigner.eval.html"/>
+	</provider>
+</psf>
