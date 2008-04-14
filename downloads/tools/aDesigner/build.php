@@ -41,7 +41,7 @@
 	   <li>Prepare Eclipse and other pre-reqs. (See <a href="#requirements">System Requirements</a>)</li>
 	   <li>Download Team Project Set file (*.psf).</li>
 	    <ul>
-	      <li>for Committers: <a href="aDesigner-committer.psf">aDesigner-committer.psf</a> ()</li>
+	      <li>for Committers: <a href="aDesigner-committer.psf">aDesigner-committer.psf</a></li>
 	      <li>for others: <a href="aDesigner-committer.psf">aDesigner-anonymous.psf</a></li>
 	    </ul>
 	   <li>Import the downloaded Team Project Set file (*.psf) from Eclipse's 'File' -> 'Import' menu.</li>
@@ -52,7 +52,7 @@
 	  </ul> 
 	  <li>Launch aDesigner from workspace</li>
 	  <ul>
-	   <li>Open 'org.eclipse.actf.examples.adesigner' project and select aDesigner.product.</li>
+	   <li>Open 'org.eclipse.actf.examples.adesigner' project and select 'aDesigner.product'.</li>
 	   <li>Select 'Synchronize' under 'Testing' section.</li>
 	   <li>Select 'Launch an Eclipse Application' under 'Testing' section.</li>
 	  </ul>
