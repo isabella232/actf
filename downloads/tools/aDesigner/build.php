@@ -49,6 +49,9 @@
 	      <li>Committers: use your committer id and password</li>
 	      <li>Others: user -> "anonymous", password -> "" (null)</a></li>
 	    </ul>
+	   <li>Add Classpath Variable for OOo (if needed) from 'Window' -> 'Preferences' -> 'Java' -> 'Build Path' -> 'Classpath Variables' as below:<br>
+		NameÅFOOO_HOME<br>
+		PathÅF <OOo install dir> (e.g., "c:\Program Files\OpenOffice.org 2.3")<br>
 	  </ul> 
 	  <li>Launch aDesigner from workspace</li>
 	  <ul>
