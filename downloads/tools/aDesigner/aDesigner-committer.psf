@@ -40,6 +40,7 @@
 		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.examples/plugins/org.eclipse.actf.examples.adesigner.doc,org.eclipse.actf.examples.adesigner.doc"/>
 		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.examples/features/org.eclipse.actf.examples.adesigner-feature,org.eclipse.actf.examples.adesigner-feature"/>
 		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.examples/plugins/org.eclipse.actf.examples.adesigner.nls,org.eclipse.actf.examples.adesigner.nls"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.visualization/plugins/org.eclipse.actf.visualization,org.eclipse.actf.visualization"/>
 		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.visualization/plugins/org.eclipse.actf.visualization.blind,org.eclipse.actf.visualization.blind"/>
 		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.visualization/plugins/org.eclipse.actf.visualization.blind.html,org.eclipse.actf.visualization.blind.html"/>
 		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.actf/org.eclipse.actf.visualization/plugins/org.eclipse.actf.visualization.engines.blind.html,org.eclipse.actf.visualization.engines.blind.html"/>
