@@ -41,10 +41,10 @@
 	   <li>Prepare Eclipse and other pre-reqs. (See <a href="#requirements">System Requirements</a>)</li>
 	   <li>Download Team Project Set file (*.psf).</li>
 	    <ul>
-	      <li>for Committers: <a href="aDesigner-committer.psf">aDesigner-committer.psf</a></li>
-	      <li>for others: <a href="aDesigner-anonymous.psf">aDesigner-anonymous.psf</a></li>
+	      <li>for Committers: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/committer/aDesigner-committer.zip">zipped aDesigner-committer.psf</a></li>
+	      <li>for others: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/anonymous/aDesigner-anonymous.zip">zipped aDesigner-anonymous.psf</a></li>
 	    </ul>
-	   <li>Import the downloaded Team Project Set file (*.psf) from Eclipse's 'File' -&gt; 'Import' menu.</li>
+	   <li>Unzip the downloaded file and import Team Project Set file (*.psf) from Eclipse's 'File' -&gt; 'Import' -&gt; 'Team' -&gt; 'Team Project Set' menu.</li>
 	    <ul>
 	      <li>Committers: use your committer id and password</li>
 	      <li>Others: user -&gt; "anonymous", password -&gt; "" (null)</a></li>
@@ -62,7 +62,6 @@
 	  <li>Build aDesigner</li>
 	  <ul>
 	   <li>Open 'org.eclipse.actf.examples.adesigner' project and select 'aDesigner.product'.</li>
-	   <li>Select 'Synchronize' under 'Testing' section.</li>
 	   <li>Open an export product wizard by selecting 'Eclipse product export wizard' under 'Exporting' section and follow the wizard.</li>
 	  </ul>
 	</p>
