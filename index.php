@@ -48,7 +48,7 @@ href="http://www.eclipse.org/proposals/actf/">project proposal page</A>.</P>
 <P>The IBM development teams are currently working to move source code and 
 resources to the ACTF Eclipse CVS repository. This is an 
 ongoing process, but initial components are already available. Please visit 
-<a href="downloads.php">downloads page</a> / <a href="contributors.php">contributors page</a> 
+<a href="downloads/index.php">downloads page</a> / <a href="contributors.php">contributors page</a> 
 and get ACTF components!</P>
 <H2>Join the Project</H2>
 <p>You can join the project, 
