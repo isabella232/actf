@@ -41,8 +41,9 @@
 	   <li>Prepare Eclipse and other pre-reqs. (See <a href="#requirements">System Requirements</a>)</li>
 	   <li>Download Team Project Set file (*.psf).</li>
 	    <ul>
-	      <li>for Committers: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/committer/aDesigner-committer.zip">zipped aDesigner-committer.psf</a></li>
-	      <li>for others: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/anonymous/aDesigner-anonymous.zip">zipped aDesigner-anonymous.psf</a></li>
+	      <li>for Committers: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/committer/aDesigner-committer.zip">zipped aDesigner-committer.psf (jump to download page)</a></li>
+	      <li>for Committers (behind firewall): <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/committer/aDesigner-committer443.zip">zipped aDesigner-committer443.psf (jump to download page)</a> (This psf file uses proxy.eclipse.org/port 443)</li>
+	      <li>for others: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/anonymous/aDesigner-anonymous.zip">zipped aDesigner-anonymous.psf (jump to download page)</a></li>
 	    </ul>
 	   <li>Unzip the downloaded file and import Team Project Set file (*.psf) from Eclipse's 'File' -&gt; 'Import' -&gt; 'Team' -&gt; 'Team Project Set' menu.</li>
 	    <ul>
