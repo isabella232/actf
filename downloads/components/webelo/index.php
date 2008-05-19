@@ -50,9 +50,9 @@ the <a href="http://www.ibm.com/able/guidelines/web/accessweb.html">IBM Web Acce
 Documentation is available in the standard Eclipse help system but is incomplete.</p> 
 
 	<p>The initial release of Webelo, v0.1.0, can be used to validate only static web content that resides on the local machine or at a 
-	specified URL.  "Static," here means that the entirety of the DOM is created from the underlying HTML file and that no 
+	specified URL.  "Static," here, means that the entirety of the DOM is created from the underlying HTML file and that no 
 	modifications are made to the DOM once the initial page is loaded.  Future releases will contain 
-	functionality for validating more dynamic content.  Also note that, given the very early stage of this portion of ACTF, 
+	functionality for validating such modifications and more dynamic content.  Also note that, given the very early stage of this portion of ACTF, 
 	API and UI components are likely to change without notice.</p>
 	
 	<h2><a name="downloads">Webelo Releases</a></h2>
@@ -64,7 +64,7 @@ Documentation is available in the standard Eclipse help system but is incomplete
 	$releaseTable
 	
 	<h2><a name="quickStart">Getting started</a></h2>
-    <p><strong>Note</strong>: You must download and register <a href="http://developer.mozilla.org/en/docs/XULRunner">XULRunner, v18.1.3</a> in order 
+    <p><strong>Note</strong>: You must download and register <a href="http://developer.mozilla.org/en/docs/XULRunner">XULRunner, v1.8.1.3</a> in order 
     to use Webelo.  Follow the instructions on that page for downloading and installing XULRunner.</p>
     
     	<p>The best way to get started with Webelo is to read the provided documentation, accessed from within the help system.  There are 
