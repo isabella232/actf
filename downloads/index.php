@@ -53,8 +53,13 @@ within the Eclipse environment including validation, visualization, and more</li
 	accessibility compliance validations of Java applications.  These validations are dynamic, occuring as the application is being used so that accessibility 
 	evaluation need not be a distinct part of the testing cycle.  Other components allow the developer to unit-test their GUI-based 
 	applications for accessibility, correcting accessibility deficiencies right in the source code.</p>
-</div>
 
+    <h3>Web Validation Componentry (Webelo)</h3>
+    <p><a href="components/webelo/index.php">Webelo<img src="../images/go-bottom.png" alt=""></a> is a collection of components that can be leveraged by the web content author 
+    or web appplication developer from within the WTP, JEE, or JDT to perform 
+    accessibility compliance validations of web content or applications.  These validations are dynamic, occuring as the application is being used so that accessibility 
+    evaluation need not be a distinct part of the testing cycle.</p>
+      
 <div class="homeitem3col">
 	<h2>ACTF Exemplary Tools</h2>
 	<br>
