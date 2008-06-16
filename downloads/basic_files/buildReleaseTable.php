@@ -25,21 +25,26 @@ function generateReleaseTableRows ($category, $elementName){
    ini_set("max_execution_time",10);
    $dirName = $GLOBALS['rootDirName'] . '/' . $category . '/' . $elementName;
    $archiveMaps = array();
-   return "<br>" . $dirName . "</br>\n";
+   $dummy = "";
+
    	// read version directories
    	if (($dir = @opendir($dirName))) {
+   	$dummy = "if block...\n";
    		while (false !== ($versionDirName = readdir($dir))) {
+     		$dummy = $dummy . $versionDirName . "\n";
      		if ($versionDirName == "." || $versionDirName == "..") {
      			continue;
      		}
      		
       		if (preg_match('/[0-9]+\.[0-9]+\.[0-9]+/',$versionDirName)) {
          		$version = $versionDirName;
+         		$dummy = $dummy . "version: " . $version . "\n";
          		$versionDirName = $dirName . '/' . $versionDirName;
    				
    				// read archives
    				if (($versionDir = @opendir($versionDirName))) {
    					while (false !== ($fileName = readdir($versionDir))) {
+     					$dummy = $dummy . "filename: " . $fileName . "\n";
      					if ($fileName == "." || $fileName == "..") {
      						continue;
      					}
@@ -96,7 +101,7 @@ function generateReleaseTableRows ($category, $elementName){
          $str = $str . "</tr>\n";
    	}
    	
-   	return $str;
+   	return $dummy;
 }
 
 function generateColumnHeaders () {
