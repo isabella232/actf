@@ -25,7 +25,7 @@ function generateReleaseTableRows ($category, $elementName){
    ini_set("max_execution_time",10);
    $dirName = $GLOBALS['rootDirName'] . '/' . $category . '/' . $elementName;
    $archiveMaps = array();
-   echo "<br>" . $dirName . "</br>\n";
+   return "<br>" . $dirName . "</br>\n";
    	// read version directories
    	if (($dir = @opendir($dirName))) {
    		while (false !== ($versionDirName = readdir($dir))) {
