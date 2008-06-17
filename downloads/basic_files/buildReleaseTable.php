@@ -3,7 +3,7 @@
 // Author: Mike Squillace; masquill@us.ibm.com
 
 $columns = array("File", "Version", "Build ID", "Size");
-$downloadsDirName = "/home/data/httpd/download.eclipse.org/";
+$downloadsDirName = $App->getDownloadBasePath() . "/";
 $projectName = "technology/actf";
 $rootDirName = $downloadsDirName . $projectName;
 
