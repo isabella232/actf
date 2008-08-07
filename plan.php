@@ -29,22 +29,23 @@
 
 <div id="midcolumn">	
 <p>
-<i>Last updated: 4 December 2007</i>
+<i>Last updated: 7 August 2008</i>
 </p>
 
 <h1>Project Plan</h1>
 <p>
 This page will be updated soon.
 </p>
-<h2>4Q 2007</h2>
+<h2>4Q 2007 - 1H 2008</h2>
 <ul>
  <li>Initial prototypes of exemplary tools on top of ACTF will be available. </li>
  <li>Start discussion about the roadmap.</li>
+ <li>Start ACTF monthly call.</li>
 </ul>
 
-<h2>1Q 2008</h2>
+<h2>3Q 2008</h2>
 <ul>
- <li>Projected first release, which will include some of the components and exemplary tools/runtimes mentioned in the <a href="http://www.eclipse.org/proposals/actf">project proposal</a>. </li>
+ <li>Projected version 0.1 release, which will include some of the components and exemplary tools/runtimes mentioned in the <a href="http://www.eclipse.org/proposals/actf">project proposal</a>. </li>
  <li>Process input from community to enhance functionality and documentation. </li>
 </ul>
 
@@ -52,8 +53,9 @@ This page will be updated soon.
 <p>Enhancements currently under consideration include: </p>
  <ul>
  <li>Refinement of APIs</li>
- <li>Expand supported runtimes</li>
  <li>Documentation</li>
+ <li>Provide more examples</li>
+ <li>Expand supported runtimes</li>
  <li>Support for W3C WCAG 2.0. </li>
  <li>Enhancing W3C WAI-ARIA-related functions. </li>
  </ul>
@@ -71,24 +73,25 @@ This page will be updated soon.
 
 <div class="homeitem3col">
 	<h3>ACTF Release Schedule</h3>
-	<p>
-	Status: Milestone Release 0.1 Target 1Q 2008
-	</p>
-<!--    <ul>       
-       <li>New Feature #1</li>
-       <li>New Feature #2</li>
-    </ul>
--->
+	<p>Release 0.1: Target 3Q 2008
+	 <ul>       
+       <li>Validation SDK</li>
+       <li>Visualization SDK</li>
+       <li>Alternative Interface SDK</li>
+     </ul>
+    </p>
+    <p>Release 0.2: Target 4Q 2008
+	 <ul>       
+       <li>ODF Model Component</li>
+       <li>Refinement of APIs</li>
+       <li>Complete Documentation</li>
+     </ul>
+    </p>
+    <p>Projected first Release (1.0): Target 1H 2009</p> 
 </div>
 <div class="homeitem3col">
-	<h3>ACTF Exemplary Tools</h3>
-	<p>Initial prototype versions will be available in 4Q 2007.</p>
-    <p><ul>
-       <li>Accessibility Probe (AccProbe) (MSAA/IAccessible2 inspection tool)</li>        
-       <li>Accessibility Internet Browser for Multimedia (aiBrowser)</li>
-    </ul></p>
-    <p>Please visit the <a href="downloads/index.php">ACTF download page</a>.</p>
-</div>
+	<h3>ACTF Downloads</h3>
+    <p>Several components and exemplary tools are now available. Please visit the <a href="downloads/index.php">ACTF download page</a>.</p>
 	<hr class="clearer" />
 </div>
 
