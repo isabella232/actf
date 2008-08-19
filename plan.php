@@ -45,7 +45,7 @@ This page will be updated soon.
 
 <h2>3Q 2008</h2>
 <ul>
- <li>Projected version 0.1 release, which will include some of the components and exemplary tools/runtimes mentioned in the <a href="http://www.eclipse.org/proposals/actf">project proposal</a>. </li>
+ <li>Projected version 0.5 release, which will include some of the components and exemplary tools/runtimes mentioned in the <a href="http://www.eclipse.org/proposals/actf">project proposal</a>. </li>
  <li>Process input from community to enhance functionality and documentation. </li>
 </ul>
 
@@ -73,14 +73,14 @@ This page will be updated soon.
 
 <div class="homeitem3col">
 	<h3>ACTF Release Schedule</h3>
-	<p>Release 0.1: Target 3Q 2008
+	<p>Release 0.5: Target 3Q 2008
 	 <ul>       
        <li>Validation SDK</li>
        <li>Visualization SDK</li>
        <li>Alternative Interface SDK</li>
      </ul>
     </p>
-    <p>Release 0.2: Target 4Q 2008
+    <p>Release 0.6: Target 4Q 2008
 	 <ul>       
        <li>ODF Model Component</li>
        <li>Refinement of APIs</li>
