@@ -38,16 +38,15 @@ within the Eclipse environment including validation, visualization, and more</li
 <li>exemplary tools - standalone, RCP applications related to accesibility</li>
 </ul></p>
 
-<div class="homeitem3col">
-	<h2>ACTF Release Build</h2>
+<h2>ACTF Release Build</h2>
 	<p>
 	Status: Milestone Release 0.1 Target 2Q 2008
 	</p>
-</div>
+
+
+<h2>ACTF Components</h2>
 
 <div class="homeitem3col">
-	<h2>ACTF Components</h2>
-	<br>
 	<h3>Java Validation Componentry (Javaco)</h3>
 	<p><a href="components/javaco/index.php">Javaco<img src="../images/go-bottom.png" alt=""></a> is a collection of components that can be leveraged by the Java developer from within the JDT to perform 
 	accessibility compliance validations of Java applications.  These validations are dynamic, occuring as the application is being used so that accessibility 
@@ -59,10 +58,9 @@ within the Eclipse environment including validation, visualization, and more</li
     or web appplication developer from within the WTP, JEE, or JDT to perform 
     accessibility compliance validations of web content or applications.  These validations are dynamic, occuring as the application is being used so that accessibility 
     evaluation need not be a distinct part of the testing cycle.</p>
-      
-<div class="homeitem3col">
+</div>
 	<h2>ACTF Exemplary Tools</h2>
-	<br>
+<div class="homeitem3col">
 	<h3>Accessibility Probe (AccProbe)</h3>
 	
 	<p><a href="tools/accprobe/index.php">Accessibility Probe<img src="../images/go-bottom.png" alt=""></a> is a standalone, Eclipse Rich-Client Product (RCP) application that provides 
