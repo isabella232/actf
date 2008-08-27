@@ -40,7 +40,7 @@ within the Eclipse environment including validation, visualization, and more</li
 
 <h2>ACTF Release Build</h2>
 	<p>
-	Status: Milestone Release 0.1 Target 2Q 2008
+	Status: Interim Release 0.5 Target 3Q 2008
 	</p>
 
 
@@ -59,6 +59,7 @@ within the Eclipse environment including validation, visualization, and more</li
     accessibility compliance validations of web content or applications.  These validations are dynamic, occuring as the application is being used so that accessibility 
     evaluation need not be a distinct part of the testing cycle.</p>
 </div>
+	<hr class="clearer" />	
 	<h2>ACTF Exemplary Tools</h2>
 <div class="homeitem3col">
 	<h3>Accessibility Probe (AccProbe)</h3>
