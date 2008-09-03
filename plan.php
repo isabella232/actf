@@ -94,6 +94,7 @@ This page will be updated soon.
     <p>Several components and exemplary tools are now available. Please visit the <a href="downloads/index.php">ACTF download page</a>.</p>
 	<hr class="clearer" />
 </div>
+</div>
 
 $rightColumn
 
