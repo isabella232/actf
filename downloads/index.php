@@ -40,12 +40,10 @@ within the Eclipse environment including validation, visualization, and more</li
 
 <h2>ACTF Release Build</h2>
 	<p>
-	Status: Interim Release 0.5 Target 3Q 2008
+	Interim Release 0.5 is now available.
 	</p>
 
-
-<h2>ACTF Components</h2>
-
+<!--<h2>ACTF Components</h2>-->
 <div class="homeitem3col">
 	<h3>Java Validation Componentry (Javaco)</h3>
 	<p><a href="components/javaco/index.php">Javaco<img src="../images/go-bottom.png" alt=""></a> is a collection of components that can be leveraged by the Java developer from within the JDT to perform 
@@ -58,6 +56,38 @@ within the Eclipse environment including validation, visualization, and more</li
     or web appplication developer from within the WTP, JEE, or JDT to perform 
     accessibility compliance validations of web content or applications.  These validations are dynamic, occuring as the application is being used so that accessibility 
     evaluation need not be a distinct part of the testing cycle.</p>
+
+	<h3>Visualization SDK</h3>
+	<p>ACTF Visualization SDK includes two types of extensible visualization engines 
+	(Blind usability visualization engine and Lowvision simulation engine) and several reusable view components. 
+	These components support providing a visual representation of the usability of content or applications for People with Disabilities (PwD).
+	</p>
+	<p>
+	<b>Update Site: </b>
+	<a href="http://download.eclipse.org/technology/actf/0.5/update-site/">http://download.eclipse.org/technology/actf/0.5/update-site/</a><br>
+	<b>Other downloads: </b>
+	<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.5.0/actf-visualization-sdk-200810080000-incubation.zip">
+	actf-visualization-sdk-200810080000-incubation.zip<img src="../images/go-bottom.png" alt=""></a>
+	</p>
+	<p>
+	(Please try <a href="tools/aDesigner/index.php">ACTF aDesigner</a>, too. aDesigner is an exemplary tool developed on top of the Validation SDK.)
+	</p>
+
+	<h3>Alternative Interface SDK</h3>
+	<p>ACTF Alternative Interface SDK provides middleware components to make multimedia content controllable via alternative input methods, to add audio descriptions or captions, and to transform user interfaces by using external metadata.	
+	</p>
+	<p>
+	<b>Update Site: </b>
+	<a href="http://download.eclipse.org/technology/actf/0.5/update-site/">http://download.eclipse.org/technology/actf/0.5/update-site/</a><br>
+	<b>Other downloads: </b>
+	<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/ai/0.5.0/actf-ai-sdk-200810080000-incubation.zip">
+	actf-ai-sdk-200810080000-incubation.zip<img src="../images/go-bottom.png" alt=""></a>
+	</p>
+	<p>
+	(Please try <a href="tools/aiBrowser/index.php">ACTF aiBrowser</a>, too. aiBrowser is an exemplary tool developed on top of the Alternative Interface SDK.)
+	</p>
+
+
 </div>
 	<hr class="clearer" />	
 	<h2>ACTF Exemplary Tools</h2>
