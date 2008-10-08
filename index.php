@@ -44,12 +44,12 @@ development environment for creating accessible applications and content.
 </P>
 <P>For additional details about the ACTF project, please visit the <A 
 href="http://www.eclipse.org/proposals/actf/">project proposal page</A>.</P>
-<H2>Source code migration</H2>
-<P>The IBM development teams are currently working to move source code and 
-resources to the ACTF Eclipse CVS repository. This is an 
-ongoing process, but initial components are already available. Please visit 
+<H2>Release 0.5 is now available!</H2>
+<P>ACTF 0.5 including Validation SDK, Visualization SDK and Alternative Interface SDK is now available.
+Please visit 
 <a href="downloads/index.php">downloads page</a> / <a href="contributors.php">contributors page</a> 
 and get ACTF components!</P>
+
 <H2>Join the Project</H2>
 <p>You can join the project, 
 <A href="https://dev.eclipse.org/mailman/listinfo/actf-dev">subscribe to the 
