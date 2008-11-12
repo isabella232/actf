@@ -40,13 +40,13 @@
 	<h3>Documentation for users of ACTF SDKs/runtimes/tools</h3>
 	<p>note: many of ACTF SDKs/runtimes/tools includes online documentation. Please use Help menu to read it.</p>
 	<ul>
-       <li>Tool: <a href="users/aDesigner/docs/">ACTF aDesigner (v0.5) Help</a> 
+       <li><div>October 08 2008</div>
+       Tool: <a href="users/aDesigner/docs/">ACTF aDesigner (v0.5) Help</a> 
        (Japanese version is available from <a href="users/aDesigner/ja/docs/">here</a>.)
-       <div>October 08 2008</div>
        </li>
-       <li>Tool: <a href="users/aiBrowser/docs/">ACTF aiBrowser (v0.5) Help</a>
+       <li><div>October 08 2008</div>
+       Tool: <a href="users/aiBrowser/docs/">ACTF aiBrowser (v0.5) Help</a>
        (Japanese version is available from <a href="users/aiBrowser/ja/docs/">here</a>.)
-       <div>October 08 2008</div>
        </li>
 	</ul>	
  </div>
@@ -61,7 +61,7 @@
 	   EclipseCon 2008 (short talk) - 
 	   <a href="http://www.eclipsecon.org/2008/sub/attachments/What_is_the_Accessibility_Tools_Framework.pdf">
 	   What is the Accessibility Tools Framework?</a>
-	   <li><div>March 18 2008</div>
+	   <li><div>March 20 2008</div>
 	   EclipseCon 2008 (long talk) - 
 	   <a href="http://www.eclipsecon.org/2008/sub/attachments/ACTF_Visualization_Engines_and_Components_for_Alternative_Interfaces.pdf">
 	   ACTF Visualization Engines and Components for Alternative Interfaces</a>
