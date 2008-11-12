@@ -20,6 +20,7 @@
 
 	$Nav->addCustomNav("Developer Resources", 	$navUtil->contributorsurl, "", 1);
 	$Nav->addCustomNav("Downloads",				$navUtil->downloadsurl, "", 1);
+	$Nav->addCustomNav("Documentation",			$navUtil->documentationurl, "", 1);
 	$Nav->addCustomNav("Project Wiki", 			$navUtil->wikiurl, "", 1);
 	$Nav->addCustomNav("Team", 					"/actf/team.php", "", 1);
 	$Nav->addCustomNav("Mailing Lists", 		$navUtil->mailinglists, "", 1);
