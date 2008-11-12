@@ -40,11 +40,13 @@
 	<h3>Documentation for users of ACTF SDKs/runtimes/tools</h3>
 	<p>note: many of ACTF SDKs/runtimes/tools includes online documentation. Please use Help menu to read it.</p>
 	<ul>
-       <li><div>October 08 2008</div>Tool: <a href="users/aDesigner/docs/">ACTF aDesigner (v0.5) Help</a> 
-       (Japanese version is available from <a href="users/aDesigner/ja/docs/">here</a>)
+       <li>Tool: <a href="users/aDesigner/docs/">ACTF aDesigner (v0.5) Help</a> 
+       (Japanese version is available from <a href="users/aDesigner/ja/docs/">here</a>.)
+       <div>October 08 2008</div>
        </li>
-       <li><div>October 08 2008</div>Tool: <a href="users/aiBrowser/docs/">ACTF aiBrowser (v0.5) Help
-       (Japanese version is available from <a href="users/aiBrowser/ja/docs/">here</a>)
+       <li>Tool: <a href="users/aiBrowser/docs/">ACTF aiBrowser (v0.5) Help</a>
+       (Japanese version is available from <a href="users/aiBrowser/ja/docs/">here</a>.)
+       <div>October 08 2008</div>
        </li>
 	</ul>	
  </div>
@@ -72,6 +74,7 @@ $rightColumn
 
 EOHTML;
 
+	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="docs.css"/>' . "\n");
 
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
