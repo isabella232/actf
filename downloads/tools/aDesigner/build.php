@@ -79,7 +79,7 @@
 	  <li><a href="http://www.eclipse.org/downloads/">Eclipse for RCP/Plug-in Developers 3.3.1.1 or above</a></li>
 	  <li>Internet Explorer 6.0 or above</li>
 	  <li>For Flash Accessibility mode:  Adobe&reg; Flash Player, Version 8 or above</li>
-	  <li>For OpenDocument Accessibility mode:  OpenOffice.org 2.1.0 or above</li>
+	  <li>For OpenDocument Accessibility mode:  OpenOffice.org 2.x (2.1.0 or above)</li>
   	 </UL>
 	</ul>
 	</p>
