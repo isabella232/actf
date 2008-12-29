@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
+<!--<?xml-stylesheet type="text/xsl" href="project-plan-render.xsl"?>-->
+<plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="ACTF">
+  <release projectid="technology.actf" version="0.7"/>
+    <introduction>
+    <html:div>
+The Accessibility Tools Framework (ACTF) is an incubation phase project that is a subproject of the Eclipse Technology Project.<html:br/>
+ACTF is a framework that serves as an extensible infrastructure upon which developers can build a variety of utilities that help to evaluate and enhance the accessibility of applications and content for people with disabilities. A collection of example utilities will also be provided which were created on top of the framework such as compliance validation tools, assistive technology simulation applications, usability visualization tools, unit-testing utilities, and alternative accessible interfaces for applications.
+    </html:div>
+  </introduction>
+  <release_deliverables>
+    <html:p>0.7 release includes visualization and infrastructure parts from ACTF.</html:p>
+  </release_deliverables>
+  <release_milestones>
+    <milestone date="1/12/2009" milestone="M4"><html:div>0.7 M4</html:div></milestone>
+    <milestone date="2/16/2009" milestone="M5"><html:div>0.7 M5</html:div></milestone>
+    <milestone date="3/23/2009" milestone="M6"><html:div>0.7 M6 </html:div></milestone>
+    <milestone date="5/11/2009" milestone="M7"><html:div>0.7 M7 (Feature Freeze)</html:div></milestone>
+    <milestone date="5/25/2009" milestone="RC1"><html:div>0.7 RC1</html:div></milestone>
+    <milestone date="6/1/2009" milestone="RC2"><html:div>0.7 RC2</html:div></milestone>
+    <milestone date="6/8/2009" milestone="RC3"><html:div>0.7 RC3</html:div></milestone>
+    <milestone date="6/15/2009" milestone="RC4"><html:div>0.7 RC4</html:div></milestone>
+    <postamble/>
+  </release_milestones>
+  <target_environments>
+   <html:p>
+    <ul>
+     <li>Operating Systems<br/>
+	 <ul>
+	  <li>Windows&#174; XP or above</li>
+	 </ul>
+     </li>
+     <li>Software<br/>
+	 <ul>
+	  <li>Java&#8482; version 1.5 or above</li>
+	  <li>Internet Explorer 6.0 or above</li>
+	  <li>For Flash Accessibility mode:  Adobe&#174; Flash Player, Version 8 or above</li>
+	  <li>For OpenDocument Accessibility mode:  OpenOffice.org 2.x (2.1.0 or above)</li>
+  	 </ul>
+	</li> 
+    </ul>
+   </html:p>
+    <internationalization>
+       <html:p>
+          ACTF Visualization part has been designed with localization in mind and will keep internationalization in mind as we go forward. Now it supports English and Japanese.
+        </html:p>
+    </internationalization>
+  </target_environments>
+  <compatibility_with_previous_releases>
+  <html:div xmlns="http://www.w3.org/1999/xhtml">
+  The goal of this release is to be backward compatible back to ACTF 0.5.
+  </html:div>
+  </compatibility_with_previous_releases>  
+  <themes_and_priorities>
+    <preamble>
+     <html:p>
+ACTF Visualization part has been designed as a building blocks for RCP applications. In this release, we will integrate these features into Eclipse platform. We will also improve the coverage of documentation.
+     </html:p>
+    </preamble>
+    <theme name="Integration into Eclipse platform">
+      <description>
+        <html:p>By providing perspectives and actions, enable to use ACTF Visualization components, such as blind usability visualization, low-vision simulation, in Eclipse platform.
+        </html:p>
+      </description>
+    </theme>
+    <theme name="Documentation">
+      <description>
+         <html:p>Provide more documentation for both of developers and users.
+         </html:p>
+      </description>
+    </theme>
+    <theme name="Bug fixes">
+      <description>
+        <html:p>Fix bugs that found in 0.5 release as much as possible.
+        </html:p>
+      </description>
+    </theme>
+  </themes_and_priorities>
+  <appendix/>
+</plan>
