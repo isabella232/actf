@@ -10,7 +10,7 @@ ACTF is a framework that serves as an extensible infrastructure upon which devel
     </html:div>
   </introduction>
   <release_deliverables>
-    <html:p>0.7 release includes visualization and infrastructure parts from ACTF.</html:p>
+    <html:p>0.7 release includes visualization and infrastructure components from ACTF.</html:p>
   </release_deliverables>
   <release_milestones>
     <milestone date="1/12/2009" milestone="M4"><html:div>0.7 M4</html:div></milestone>
@@ -21,7 +21,14 @@ ACTF is a framework that serves as an extensible infrastructure upon which devel
     <milestone date="6/1/2009" milestone="RC2"><html:div>0.7 RC2</html:div></milestone>
     <milestone date="6/8/2009" milestone="RC3"><html:div>0.7 RC3</html:div></milestone>
     <milestone date="6/15/2009" milestone="RC4"><html:div>0.7 RC4</html:div></milestone>
-    <postamble/>
+    <postamble>
+    <html:p xmlns="http://www.w3.org/1999/xhtml">
+     <h3 id="rampdown">Ramp Down</h3>
+     For M7, we plan to be functionally complete. After RC1 is released, builds will be produced weekly until the release.
+     In the RC phase only bugs marked P2 or higher or severity major or higher will be fixed. 
+     APIs will not change except to address critical issues, until RC3, at which point APIs will be frozen. 
+    </html:p>
+    </postamble>
   </release_milestones>
   <target_environments>
    <html:p xmlns="http://www.w3.org/1999/xhtml">
@@ -36,7 +43,7 @@ ACTF is a framework that serves as an extensible infrastructure upon which devel
 	  <li>Java&#8482; version 1.5 or above</li>
 	  <li>Internet Explorer 6.0 or above</li>
 	  <li>For Flash Accessibility mode:  Adobe Flash Player, Version 8 or above</li>
-	  <li>For OpenDocument Accessibility mode:  OpenOffice.org 2.x (2.1.0 or above)</li>
+	  <li>For OpenDocument Accessibility mode:  OpenOffice.org 3.x (3.0.1 or above)</li>
   	 </ul>
 	</li> 
     </ul>
@@ -61,6 +68,12 @@ ACTF Visualization part has been designed as a building blocks for RCP applicati
     <theme name="Integration into Eclipse platform">
       <description>
         <html:p>By providing perspectives and actions, enable to use ACTF Visualization components, such as blind usability visualization, low-vision simulation, in Eclipse platform.
+        </html:p>
+      </description>
+    </theme>
+    <theme name="OpenOffice.org 3.0.1 support">
+      <description>
+        <html:p>ACTF currently use OpenOffice.org 2.x to open ODF documents in Eclipse environment. In next release, ACTF will support the latest OOo 3.0.1.
         </html:p>
       </description>
     </theme>
