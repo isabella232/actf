@@ -59,7 +59,7 @@ within the Eclipse environment including validation, visualization, and more</li
 
 	<h3>Visualization SDK</h3>
 	<p>ACTF Visualization SDK includes two types of extensible visualization engines 
-	(Blind usability visualization engine and Lowvision simulation engine) and several reusable view components. 
+	(Blind usability visualization engine and low-vision simulation engine) and several reusable view components. 
 	These components support providing a visual representation of the usability of content or applications for People with Disabilities (PwD).
 	</p>
 	<p>
@@ -89,6 +89,30 @@ within the Eclipse environment including validation, visualization, and more</li
 
 
 </div>
+	<hr class="clearer" />
+	<h2>ACTF Milestone Build</h2>
+	<p>
+	Milestone Release 0.7 is now available.
+	</p>
+	<div class="homeitem3col">
+		<h3>Visualization SDK</h3>
+		<p>ACTF Visualization SDK includes two types of extensible visualization engines 
+		(Blind usability visualization engine and low-vision simulation engine) and several reusable view components. 
+		These components support providing a visual representation of the usability of content or applications for People with Disabilities (PwD).
+		From this milestone release, major features of visualization part, such as blind usability visualization, low-vision simulation,
+		Flash content inspection function, etc., can be used in Eclipse IDE by selecting each accessibility perspective.
+		Please visit <a href="http://www.eclipse.org/projects/project-plan.php?projectid=technology.actf">ACTF plan page</a>
+		for more details about the updates.
+		</p>
+		<p>
+			<b>Update Site: </b>
+			<a href="http://download.eclipse.org/technology/actf/0.7/milestones/">http://download.eclipse.org/technology/actf/0.7/milestones/</a><br>
+			<b>Other downloads: </b>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.7.0/I200901101237/actf-visualization-win32-incubation.zip">
+			actf-visualization-win32-incubation.zip (v0.7.0, I200901101237)<img src="../images/go-bottom.png" alt=""></a>
+			</p>
+		</p>
+	</div>
 	<hr class="clearer" />	
 	<h2>ACTF Exemplary Tools</h2>
 <div class="homeitem3col">
@@ -128,10 +152,11 @@ fired by these accessible objects. It is meant to combine the functionality of a
 	
 	<h1>Other tools and runtimes on top of ACTF</h1>
 	<div class="homeitem3col">
-	 <h3>Links to external download sites</h3>
-	 <h4><a href="http://www.alphaworks.ibm.com/tech/adesigner">aDesigner</a>  (IBM alphaWorks technology)</h4>
-	 <p>The aDesigner is a tool that Web authors can use to ensure that the webpages they create are accessible to individuals who are blind or visually impaired. 
-	 For more details about this tool, please visit <a href="http://www.alphaworks.ibm.com/tech/adesigner">aDesigner introduction page</a>. (Jump to IBM alphaWorks Web site).</p>
+	 <h3>Link to external product information site</h3>
+	 <h4><a href="http://www-06.ibm.com/jp/software/internet/hpb/products/">HomePage Builder</a>  (Product of IBM Japan)</h4>
+	 <p>HomePage Builder is a Web authoring tool that integrates ACTF aDesigner as an accessibility check function.
+	 For more details about this tool, please visit <a href="http://www-06.ibm.com/jp/software/internet/hpb/products/">HomePage Builder introduction page (in Japanese)</a>. (Jump to IBM Japan Web site).</p>
+	 <h3>Link to external download site</h3>
 	 <h4><a href="http://www.alphaworks.ibm.com/tech/aibrowser">IBM Accessibility Internet Browser for Multimedia (aiBrowser)</a>  (IBM alphaWorks technology)</h4>
 	 <p>The IBM Accessibility Internet Browser for Multimedia (aiBrowser) is an Internet browser for visually impaired users that provides multimedia control features and alternative user interfaces with external metadata. 
 	 For more details about this tool, please visit <a href="http://www.alphaworks.ibm.com/tech/aibrowser">aiBrowser introduction page</a>. (Jump to IBM alphaWorks Web site).</p>
