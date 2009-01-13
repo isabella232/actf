@@ -92,7 +92,7 @@ within the Eclipse environment including validation, visualization, and more</li
 	<hr class="clearer" />
 	<h2>ACTF Milestone Build</h2>
 	<p>
-	Milestone Release 0.7 is now available.
+	0.7 Milestone Release is now available.
 	</p>
 	<div class="homeitem3col">
 		<h3>Visualization SDK</h3>

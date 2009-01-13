@@ -62,7 +62,7 @@ ACTF is a framework that serves as an extensible infrastructure upon which devel
   <themes_and_priorities>
     <preamble>
      <html:p>
-ACTF Visualization part has been designed as a building blocks for RCP applications. In this release, we will integrate these features into Eclipse platform. We will also improve the coverage of documentation.
+ACTF Visualization part has been designed as building blocks for RCP applications. In this release, we will integrate these features into Eclipse platform. We will also improve the coverage of documentation.
      </html:p>
     </preamble>
     <theme name="Integration into Eclipse platform">
