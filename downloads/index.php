@@ -30,6 +30,7 @@ include('../projectNav.php');
 
 	<div id="midcolumn">
 	<h1>ACTF Downloads</h1>
+<!--
 <p>Besides the all-in-one release build of ACTF, ACTF downloads are divided into three distinct categories:</p>
 <p><ul>
 <li>component runtimes - components (i.e. sets of features/plugins) to be used by developers or testers for performing accessibility-related activities
@@ -37,8 +38,9 @@ within the Eclipse environment including validation, visualization, and more</li
 <li>component SDKs - component runtimes + everything a developer needs to build on top of the framework including source and javadocs</li>
 <li>exemplary tools - standalone, RCP applications related to accesibility</li>
 </ul></p>
+-->
 
-<h2>ACTF Release Build</h2>
+<h2 id="release">ACTF Release Build</h2>
 	<p>
 	Interim Release 0.5 is now available.
 	</p>
@@ -90,7 +92,7 @@ within the Eclipse environment including validation, visualization, and more</li
 
 </div>
 	<hr class="clearer" />
-	<h2>ACTF Milestone Build</h2>
+	<h2 id="milestone">ACTF Milestone Build</h2>
 	<p>
 	0.7 Milestone Release is now available.
 	</p>
@@ -108,13 +110,13 @@ within the Eclipse environment including validation, visualization, and more</li
 			<b>Update Site: </b>
 			<a href="http://download.eclipse.org/technology/actf/0.7/milestones/">http://download.eclipse.org/technology/actf/0.7/milestones/</a><br>
 			<b>Other downloads: </b>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.7.0/I200901101237/actf-visualization-win32-incubation.zip">
-			actf-visualization-win32-incubation.zip (v0.7.0, I200901101237)<img src="../images/go-bottom.png" alt=""></a>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.7.0/200903190705/actf-visualization-win32-incubation.zip">
+			actf-visualization-win32-incubation.zip (v0.7.0 M6, 200903190705)<img src="../images/go-bottom.png" alt=""></a>
 			</p>
 		</p>
 	</div>
 	<hr class="clearer" />	
-	<h2>ACTF Exemplary Tools</h2>
+	<h2 id="tools">ACTF Exemplary Tools</h2>
 <div class="homeitem3col">
 	<h3>Accessibility Probe (AccProbe)</h3>
 	
@@ -133,8 +135,9 @@ fired by these accessible objects. It is meant to combine the functionality of a
 	ODF documents and Flash content. 
 	It also has accessibility information (MSAA/IA2) inspection functions. 
 	</p>
-	<p><a href="tools/aDesigner/index.php">aDesigner download page<img src="../images/go-bottom.png" alt=""></a>
-
+	<p><a href="tools/aDesigner/index.php">aDesigner download page<img src="../images/go-bottom.png" alt=""></a></p>
+	<br>
+	
 	<h3>Accessibility Internet Browser for Multimedia (aiBrowser)</h3>
 	<p>aiBrowser is an Eclipse RCP application that allows screen reader users 
 	to control embedded multimedia content, with commands to play, stop, or control 
@@ -144,6 +147,7 @@ fired by these accessible objects. It is meant to combine the functionality of a
 	</p>
 	<p><a href="tools/aiBrowser/index.php">aiBrowser download page<img src="../images/go-bottom.png" alt=""></a>
 	</p>
+	<br>
 </div>
 
 	<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php" target="_blank">Eclipse 
