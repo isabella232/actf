@@ -85,7 +85,12 @@
 	  <li>Java Runtime Environment (JRE) 5.0 or above</li>
 	  <li>Internet Explorer 6.0 or above</li>
 	  <li>For Flash Accessibility mode:  Adobe&reg; Flash Player, Version 8 or above</li>
-	  <li>For OpenDocument Accessibility mode:  OpenOffice.org 2.x (2.1.0 or above)</li>
+	  <li>For OpenDocument Accessibility mode: 
+       <ul>
+        <li>aDesigner 0.5.0: OpenOffice.org 2.x (2.1.0 or above)</li>
+        <li>aDesigner 0.7.0: OpenOffice.org 3.x (3.0.1 or above)</li>
+       </ul>	  
+	  </li>
   	 </UL>
 	</ul>
 	</p>
