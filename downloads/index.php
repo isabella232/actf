@@ -94,7 +94,9 @@ within the Eclipse environment including validation, visualization, and more</li
 	<hr class="clearer" />
 	<h2 id="milestone">ACTF Milestone Build</h2>
 	<p>
-	0.7 Milestone Release is now available.
+	0.7 Milestone Release is now available.<br>
+	<a href="../newandnoteworthy/07/actf-07.html">ACTF 0.7 New and Noteworthy</a>
+	
 	</p>
 	<div class="homeitem3col">
 		<h3>Visualization SDK</h3>
@@ -110,9 +112,8 @@ within the Eclipse environment including validation, visualization, and more</li
 			<b>Update Site: </b>
 			<a href="http://download.eclipse.org/technology/actf/0.7/milestones/">http://download.eclipse.org/technology/actf/0.7/milestones/</a><br>
 			<b>Other downloads: </b>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.7.0/S200905200829/actf-visualization-win32-incubation.zip">
-			actf-visualization-win32-incubation.zip (v0.7.0 RC1, S200905200829)<img src="../images/go-bottom.png" alt=""></a>
-			</p>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.7.0/R200905270733/actf-visualization-win32-incubation.zip">
+			actf-visualization-win32-incubation.zip (v0.7.0 RC2, R200905270733)<img src="../images/go-bottom.png" alt=""></a>
 		</p>
 	</div>
 	<hr class="clearer" />	
