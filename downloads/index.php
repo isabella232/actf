@@ -112,8 +112,8 @@ within the Eclipse environment including validation, visualization, and more</li
 			<b>Update Site: </b>
 			<a href="http://download.eclipse.org/technology/actf/0.7/milestones/">http://download.eclipse.org/technology/actf/0.7/milestones/</a><br>
 			<b>Other downloads: </b>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.7.0/R200905270733/actf-visualization-win32-incubation.zip">
-			actf-visualization-win32-incubation.zip (v0.7.0 RC2, R200905270733)<img src="../images/go-bottom.png" alt=""></a>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.7.0/R200906030340/actf-visualization-win32-incubation.zip">
+			actf-visualization-win32-incubation.zip (v0.7.0 RC3, R200906030340)<img src="../images/go-bottom.png" alt=""></a>
 		</p>
 	</div>
 	<hr class="clearer" />	
