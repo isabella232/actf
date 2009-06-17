@@ -10,7 +10,7 @@ $rightColumn = <<<EOHTML
 <DIV class=sideitem>
 <H6 align="center">Incubation</H6>
 <DIV align=center><A href="http://www.eclipse.org/projects/gazoo.php"> 
-<IMG src="http://www.eclipse.org/images/egg-incubation.png" align=center border=0></A> 
+<IMG src="http://www.eclipse.org/images/egg-incubation.png" align="center" border="0" alt="about Incubation"></A> 
 </DIV></DIV></DIV></DIV></DIV>
 EOHTML;
 ?>
