@@ -40,10 +40,33 @@ within the Eclipse environment including validation, visualization, and more</li
 </ul></p>
 -->
 
-<h2 id="release">ACTF Release Build</h2>
+	<h2 id="milestone">ACTF 0.7 (Galileo) Release</h2>
 	<p>
-	Interim Release 0.5 is now available.
+	
+	<a href="../newandnoteworthy/07/actf-07.html">ACTF 0.7 New and Noteworthy</a>
+	
 	</p>
+	<div class="homeitem3col">
+		<h3>Visualization SDK</h3>
+		<p>ACTF Visualization SDK includes two types of extensible visualization engines 
+		(Blind usability visualization engine and low-vision simulation engine) and several reusable view components. 
+		These components support providing a visual representation of the usability of content or applications for People with Disabilities (PwD).
+		From this milestone release, major features of visualization part, such as blind usability visualization, low-vision simulation,
+		Flash content inspection function, etc., can be used in Eclipse IDE by selecting each accessibility perspective.
+		Please visit <a href="http://www.eclipse.org/projects/project-plan.php?projectid=technology.actf">ACTF plan page</a>
+		for more details about the updates.
+		</p>
+		<p>
+			<b>Update Site: </b>
+			<a href="http://download.eclipse.org/technology/actf/0.7/update-site/">http://download.eclipse.org/technology/actf/0.7/update-site/</a><br>
+			<b>Other downloads: </b>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.7.0/actf-visualization-0.7-win32-incubation.zip">
+			actf-visualization-0.7-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a>
+		</p>
+	</div>
+	<hr class="clearer" />
+
+<h2 id="release">ACTF Previous Release (0.5)</h2>
 
 <!--<h2>ACTF Components</h2>-->
 <div class="homeitem3col">
@@ -91,31 +114,7 @@ within the Eclipse environment including validation, visualization, and more</li
 
 
 </div>
-	<hr class="clearer" />
-	<h2 id="milestone">ACTF Milestone Build</h2>
-	<p>
-	0.7 Milestone Release is now available.<br>
-	<a href="../newandnoteworthy/07/actf-07.html">ACTF 0.7 New and Noteworthy</a>
-	
-	</p>
-	<div class="homeitem3col">
-		<h3>Visualization SDK</h3>
-		<p>ACTF Visualization SDK includes two types of extensible visualization engines 
-		(Blind usability visualization engine and low-vision simulation engine) and several reusable view components. 
-		These components support providing a visual representation of the usability of content or applications for People with Disabilities (PwD).
-		From this milestone release, major features of visualization part, such as blind usability visualization, low-vision simulation,
-		Flash content inspection function, etc., can be used in Eclipse IDE by selecting each accessibility perspective.
-		Please visit <a href="http://www.eclipse.org/projects/project-plan.php?projectid=technology.actf">ACTF plan page</a>
-		for more details about the updates.
-		</p>
-		<p>
-			<b>Update Site: </b>
-			<a href="http://download.eclipse.org/technology/actf/0.7/milestones/">http://download.eclipse.org/technology/actf/0.7/milestones/</a><br>
-			<b>Other downloads: </b>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.7.0/R200906030340/actf-visualization-win32-incubation.zip">
-			actf-visualization-win32-incubation.zip (v0.7.0 RC3, R200906030340)<img src="../images/go-bottom.png" alt=""></a>
-		</p>
-	</div>
+
 	<hr class="clearer" />	
 	<h2 id="tools">ACTF Exemplary Tools</h2>
 <div class="homeitem3col">

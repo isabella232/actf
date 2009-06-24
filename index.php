@@ -44,11 +44,13 @@ development environment for creating accessible applications and content.
 </P>
 <P>For additional details about the ACTF project, please visit the <A 
 href="http://www.eclipse.org/proposals/actf/">project proposal page</A>.</P>
-<H2>Release 0.5 is now available!</H2>
-<P>ACTF 0.5 including Validation SDK, Visualization SDK and Alternative Interface SDK is now available.
+<H2>Release 0.7 (Galileo) is now available!</H2>
+<P>ACTF 0.7 including Visualization SDK is now available.
 Please visit 
-<a href="downloads/index.php">downloads page</a> / <a href="contributors.php">contributors page</a> 
-and get ACTF components!</P>
+<a href="downloads/index.php">downloads page</a> and get ACTF components!<br>
+<a href="../newandnoteworthy/07/actf-07.html">ACTF 0.7 New and Noteworthy</a>
+</P>
+
 
 <H2>Join the Project</H2>
 <p>You can join the project, 
