@@ -60,8 +60,8 @@ within the Eclipse environment including validation, visualization, and more</li
 			<b>Update Site: </b>
 			<a href="http://download.eclipse.org/technology/actf/0.7/update-site/">http://download.eclipse.org/technology/actf/0.7/update-site/</a><br>
 			<b>Other downloads: </b>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.7.0/actf-visualization-0.7-win32-incubation.zip">
-			actf-visualization-0.7-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.7.1/actf-visualization-0.7.1-win32-incubation.zip">
+			actf-visualization-0.7.1-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a>
 		</p>
 	</div>
 	<hr class="clearer" />
