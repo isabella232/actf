@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
+<!--<?xml-stylesheet type="text/xsl" href="project-plan-render.xsl"?>-->
+<plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="ACTF">
+  <release projectid="technology.actf" version="0.8"/>
+    <introduction>
+    <html:div>
+The Accessibility Tools Framework (ACTF) is an incubation phase project that is a subproject of the Eclipse Technology Project.<html:br/>
+ACTF is a framework that serves as an extensible infrastructure upon which developers can build a variety of utilities 
+that help to evaluate and enhance the accessibility of applications and content for people with disabilities. 
+A collection of example utilities will also be provided which were created on top of the framework such as compliance validation tools, 
+assistive technology simulation applications, usability visualization tools, unit-testing utilities, and alternative accessible interfaces for applications.
+    </html:div>
+  </introduction>
+  <release_deliverables>
+    <html:p>0.8 release includes visualization and infrastructure components from ACTF.</html:p>
+  </release_deliverables>
+  <release_milestones>
+    <milestone date="08/19/2009" milestone="M1"><html:div>0.8 M1 (= Galileo SR1 RC1)</html:div></milestone>
+    <milestone date="09/30/2009" milestone="M2"><html:div>0.8 M2 (= Galileo SR1)</html:div></milestone>
+    <milestone date="11/11/2009" milestone="M3"><html:div>0.8 M3 </html:div></milestone>
+    <milestone date="12/16/2009" milestone="M4"><html:div>0.8 M4 </html:div></milestone>
+    <milestone date="02/03/2010" milestone="M5"><html:div>0.8 M5 </html:div></milestone>
+    <milestone date="03/17/2010" milestone="M6"><html:div>0.8 M6 </html:div></milestone>
+    <milestone date="05/05/2010" milestone="M7"><html:div>0.8 M7 (Feature Freeze)</html:div></milestone>
+    <milestone date="05/19/2010" milestone="RC1"><html:div>0.8 RC1</html:div></milestone>
+    <milestone date="05/26/2010" milestone="RC2"><html:div>0.8 RC2</html:div></milestone>
+    <milestone date="06/02/2010" milestone="RC3"><html:div>0.8 RC3 (API Freeze)</html:div></milestone>
+    <milestone date="06/09/2010" milestone="RC4"><html:div>0.8 RC4</html:div></milestone>
+    <postamble>
+    <html:p xmlns="http://www.w3.org/1999/xhtml">
+     <h3 id="rampdown">Ramp Down</h3>
+     For M7, we plan to be functionally complete. After RC1 is released, builds will be produced weekly until the release.
+     In the RC phase only bugs marked P2 or higher or severity major or higher will be fixed. 
+     APIs will not change except to address critical issues, until RC3, at which point APIs will be frozen. 
+    </html:p>
+    </postamble>
+  </release_milestones>
+  <target_environments>
+   <html:p xmlns="http://www.w3.org/1999/xhtml">
+    <ul>
+     <li>Operating Systems<br/>
+	 <ul>
+	  <li>Windows XP or above</li>
+	 </ul>
+     </li>
+     <li>Software<br/>
+	 <ul>
+	  <li>Java&#8482; version 1.5 or above</li>
+	  <li>Internet Explorer 6.0 or above</li>
+	  <li>For Flash Accessibility mode:  Adobe Flash Player, Version 8 or above</li>
+	  <li>For OpenDocument Accessibility mode:  OpenOffice.org 3.x (3.0.1 or above)</li>
+  	 </ul>
+	</li> 
+    </ul>
+   </html:p>
+    <internationalization>
+       <html:p>
+          ACTF Visualization part has been designed with localization in mind and will keep internationalization in mind as we go forward. Now it supports English and Japanese.
+        </html:p>
+    </internationalization>
+  </target_environments>
+  <compatibility_with_previous_releases>
+  <html:div xmlns="http://www.w3.org/1999/xhtml">
+  The goal of this release is to be backward compatible back to ACTF 0.7.
+  </html:div>
+  </compatibility_with_previous_releases>  
+  <themes_and_priorities>
+    <preamble>
+     <html:p>
+ACTF Visualization part has been designed as building blocks for RCP applications. 
+In this release, we start to support new accessibility guidelines, such as WCAG 2.0.
+We will also improve coverage of documentation and usability of user interfaces.
+     </html:p>
+    </preamble>
+    <theme name="Support for new accessibility guidelines">
+      <description>
+         <html:p>Provide support for new accessibility guidelines, such as WCAG 2.0.
+         </html:p>
+      </description>
+    </theme>
+    <theme name="Improvements of documentation and user interfaces">
+      <description>
+         <html:p>Provide more documentation for both of developers and users, and improve usability of user interfaces.
+         </html:p>
+      </description>
+    </theme>
+    <theme name="Advance integration">
+      <description>
+        <html:p>In previous release, we integrated these features into Eclipse platform. 
+We will advance the integration more in this release.
+        </html:p>
+      </description>
+    </theme>
+    <theme name="Performance improvement (M1, M2)">
+      <description>
+        <html:p>Improve visualization performance.
+        </html:p>
+      </description>
+    </theme>
+    <theme name="Bug fixes">
+      <description>
+        <html:p>Fix bugs that found in 0.7 release as much as possible.
+        </html:p>
+      </description>
+    </theme>
+  </themes_and_priorities>
+  <appendix/>
+</plan>
