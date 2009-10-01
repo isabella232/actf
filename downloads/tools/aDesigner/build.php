@@ -52,7 +52,7 @@
 	    </ul>
 	   <li>Add Classpath Variable for OOo (if needed) from 'Window' -&gt; 'Preferences' -&gt; 'Java' -&gt; 'Build Path' -&gt; 'Classpath Variables' as below:<br>
 		Name: OOO_HOME<br>
-		Path: &lt;OOo install dir&gt; (e.g., "c:\Program Files\OpenOffice.org 2.3")<br>
+		Path: &lt;OOo install dir&gt; (e.g., "c:\Program Files\OpenOffice.org 3")<br>
 	  </ul> 
 	  <li>Launch aDesigner from workspace</li>
 	  <ul>
@@ -76,10 +76,10 @@
 	 <LI>Software
 	 <UL>
 	  <li><a href="http://www.eclipse.org/downloads/moreinfo/jre.php">Java Runtime Environment (JRE) 5.0 or above</a></li>
-	  <li><a href="http://www.eclipse.org/downloads/">Eclipse for RCP/Plug-in Developers 3.3.1.1 or above</a></li>
+	  <li><a href="http://www.eclipse.org/downloads/">Eclipse SDK 3.5 or above</a></li>
 	  <li>Internet Explorer 6.0 or above</li>
 	  <li>For Flash Accessibility mode:  Adobe&reg; Flash Player, Version 8 or above</li>
-	  <li>For OpenDocument Accessibility mode:  OpenOffice.org 2.x (2.1.0 or above)</li>
+	  <li>For OpenDocument Accessibility mode:  OpenOffice.org 3.x (3.0.1 or above)</li>
   	 </UL>
 	</ul>
 	</p>
