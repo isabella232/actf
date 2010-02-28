@@ -13,12 +13,12 @@
 	#****************************************************************************
 	
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "ACTF - Accessibility Probe";
+	$pageTitle 		= "ACTF - Accessibility Probe (archive)";
 	$pageKeywords	= "Accessibility Tools Framework, accessibility, ACTF, accessibility probe, Eclipse";
 	$pageAuthor		= "Mike Squillace";
 	
-include('../../../projectNav.php');
-		include('../../../rightCol.php');
+include('../../../../projectNav.php');
+		include('../../../../rightCol.php');
 	include('../../basic_files/buildReleaseTable.php');
 	
 	$releaseTable = generateReleaseTable('tools', 'accprobe');
@@ -30,7 +30,7 @@ include('../../../projectNav.php');
 		# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
 <div id="midcolumn">
-	<h1>ACTF Accessibility Probe</h1>
+	<h1>ACTF Accessibility Probe (archive)</h1>
 	<p>This componentry is no longer actively developed or supported in Eclipse ACTF project. 
 	Further development and enhancements of AccProbe will be directed by the IAccessible2 community residing at the 
 	<a href="http://www.linuxfoundation.org/collaborate/workgroups/accessibility/iaccessible2">Linux Foundation</a>.
@@ -71,7 +71,7 @@ to build the requisite dlls:</p>
 
 <p><ul>
 <li>obtain the source code:<ul>
-	<li>if you have not done so before, <a href="../../../contributors.php">establish a connection to the ACTF CVS repository</a></li>
+	<li>if you have not done so before, <a href="../../../../contributors.php">establish a connection to the ACTF CVS repository</a></li>
 	<li>checkout the following plugins from the org.eclipse.actf.common/plugins directory:<ul>
 		<li>org.eclipse.actf.core</li>
 		<li>org.eclipse.actf.model</li>

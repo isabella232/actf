@@ -13,12 +13,12 @@
 	#****************************************************************************
 	
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "ACTF - Web Validation Componentry (Webelo)";
+	$pageTitle 		= "ACTF - Web Validation Componentry (Webelo) (archive)";
 	$pageKeywords	= "Accessibility Tools Framework, accessibility, ACTF, webelo, web validation, Eclipse";
 	$pageAuthor		= "Mike Squillace";
 	
-include('../../../projectNav.php');
-		include('../../../rightCol.php');
+include('../../../../projectNav.php');
+		include('../../../../rightCol.php');
 	include('../../basic_files/buildReleaseTable.php');
 	
 	$releaseTable = generateReleaseTable('components', 'webelo');
@@ -30,7 +30,7 @@ include('../../../projectNav.php');
 		# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
 <div id="midcolumn">
-	<h1>ACTF Web Validation Componentry</h1>
+	<h1>ACTF Web Validation Componentry (archive)</h1>
 	<p>This componentry is no longer actively developed or supported.</p>
 <p><ul>
 <li><a href="#overview">Overview</a></li>
@@ -79,7 +79,7 @@ Documentation is available in the standard Eclipse help system but is incomplete
 
 <p><ul>
 <li>obtain the source code:<ul>
-	<li>if you have not done so before, <a href="../../../contributors.php">establish a connection to the ACTF CVS repository</a></li>
+	<li>if you have not done so before, <a href="../../../../contributors.php">establish a connection to the ACTF CVS repository</a></li>
 	<li>checkout the following plugins from the org.eclipse.actf.common/plugins directory:<ul>
 		<li>org.eclipse.actf.core</li>
 		<li>org.eclipse.actf.model</li>
