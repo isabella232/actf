@@ -83,13 +83,13 @@ include('../../projectNav.php');
 	</p>
 
 	<h3>Java Validation Componentry (Javaco)</h3>
-	<p><a href="components/javaco/index.php">Javaco<img src="../../images/go-bottom.png" alt=""></a> is a collection of components that can be leveraged by the Java developer from within the JDT to perform 
+	<p><a href="validation/javaco/index.php">Javaco<img src="../../images/go-bottom.png" alt=""></a> is a collection of components that can be leveraged by the Java developer from within the JDT to perform 
 	accessibility compliance validations of Java applications.  These validations are dynamic, occuring as the application is being used so that accessibility 
 	evaluation need not be a distinct part of the testing cycle.  Other components allow the developer to unit-test their GUI-based 
 	applications for accessibility, correcting accessibility deficiencies right in the source code.</p>
 
     <h3>Web Validation Componentry (Webelo)</h3>
-    <p><a href="components/webelo/index.php">Webelo<img src="../../images/go-bottom.png" alt=""></a> is a collection of components that can be leveraged by the web content author 
+    <p><a href="validation/webelo/index.php">Webelo<img src="../../images/go-bottom.png" alt=""></a> is a collection of components that can be leveraged by the web content author 
     or web appplication developer from within the WTP, JEE, or JDT to perform 
     accessibility compliance validations of web content or applications.  These validations are dynamic, occuring as the application is being used so that accessibility 
     evaluation need not be a distinct part of the testing cycle.</p>
@@ -97,7 +97,7 @@ include('../../projectNav.php');
 	
 	<h3>Accessibility Probe (AccProbe)</h3>
 	
-	<p><a href="tools/accprobe/index.php">Accessibility Probe<img src="../../images/go-bottom.png" alt=""></a> is a standalone, Eclipse Rich-Client Product (RCP) application that provides 
+	<p><a href="validation/accprobe/index.php">Accessibility Probe<img src="../../images/go-bottom.png" alt=""></a> is a standalone, Eclipse Rich-Client Product (RCP) application that provides 
 	a view of the accessible object hierarchy of a currently running application or rendered document and of the properties of the accessible objects of that application 
 or document. It can also serve as an event monitor for tracking the events
 fired by these accessible objects. It is meant to combine the functionality of a variety of accessibility testing tools 

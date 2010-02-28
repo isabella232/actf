@@ -1,0 +1,109 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<title>Build Instructions for actf dlls</title>
+</head>
+
+<body>
+<h1>Steps for building actf-msaa.dll/actf-ia2.dll</h1>
+
+<p>This componentry is no longer actively developed or supported.</p>
+
+<h2> Requirements </h2>
+<ul> <li>MicroSoft Visual Studio 2005
+	 <li>JDK (java5 or later)
+	 <li>Windows environment	 
+</ul>
+<h3>1. Creating a new Visual C++ win32 project </h3>
+
+<ul><li>Go to File Menu->New->Project->Visual C++->Win32->Win32 Project.</li>
+<li>Type in the project name and the location ( Eg: Project <b>actf-msaa</b> or <b>actf-ia2</b> in location 
+C:\MyProjects) and clik OK. </li>
+<li>A Win32 Application wizard pops up, Press 'Next 'on the welcome screen. </li>
+<li>In Application settings screen, Choose 'DLL' for 'Application type' and check 'empty project' for 'Additional Options' and press 'Finish'. </li>
+<p>A directory with the project name will be created in the chosen location. ( C:\MyProjects\actf-msaa or C:\MyProjects\actf-ia2). </p>
+</ul>
+<h3>2. Copying the required source files and idl file </h3>
+
+The following are the Msaa source files (.h and .cpp) which can be obtained from the <i>org.eclipse.actf.accservice.win32.msaa-fragment</i> project in <i>bin-src</i> folder.<br>
+<br><ul><li>Accessible.h</li>
+<li>org_eclipse_actf_accservice_core_win32_msaa_MsaaAccessible.h</li>
+<li>org_eclipse_actf_accservice_core_win32_msaa_MsaaAccessibilityEventService.h</li>
+<li>org_eclipse_actf_accservice_core_win32_msaa_MsaaWindowService.h</li>
+<li>Accessible.cpp</li>
+<li>org_eclipse_actf_accservice_core_win32_msaa_MsaaAccessible.cpp</li>
+<li>org_eclipse_actf_accservice_core_win32_msaa_MsaaAccessibilityEventService.cpp</li>
+<li>org_eclipse_actf_accservice_core_win32_msaa_MsaaWindowService.cpp</li>
+<li>ia2_api_all.idl ( <a href="http://accessibility.freestandards.org/a11yspecs/ia2/ia2_api_all.idl">http://accessibility.freestandards.org/a11yspecs/ia2/ia2_api_all.idl </a>)
+<br></ul>
+ 
+The following are the IA2 source files (.h and .cpp) which can be obtained from the <i>org.eclipse.actf.accservice.win32.ia2-fragment</i> project in <i>bin-src</i> folder.<br>
+<br><ul><li>	CAccessible2.h	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2Accessible.h	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleAction.h	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleApplication.h	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleComponent.h	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleEditableText.h	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleHyperlink.h	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleHypertext.h	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleImage.h	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleTable.h	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleText.h	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleValue.h	</li>
+<li>	CAccessible2.cpp	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2Accessible.cpp	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleAction.cpp	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleApplication.cpp	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleComponent.cpp	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleEditableText.cpp	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleHyperlink.cpp	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleHypertext.cpp	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleImage.cpp	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleTable.cpp	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleText.cpp	</li>
+<li>	org_eclipse_actf_accservice_core_win32_ia2_IA2AccessibleValue.cpp	</li>
+<li>	ia2_api_all.idl ( <a href="http://accessibility.freestandards.org/a11yspecs/ia2/ia2_api_all.idl">http://accessibility.freestandards.org/a11yspecs/ia2/ia2_api_all.idl </a>)
+ </li>
+</ul>
+Copy all of the above files into the project directory ( Eg: C:\MyProjects\actf-msaa or C:\MyProjects\actf-ia2).
+<p> In solution explorer, right click on <i>Header files-> Add existing Item</i> and 
+select all of the header files. Similarly, add all <i>.cpp</i> files to <i>Source files </i>
+and <i>ia2_api_all.idl</i> to <i>Resource files</i>.</p>
+
+<h3>2. Setting the project properties  </h3>
+<ul><li>If you've not chosen the project name as 'actf-msaa' or 'actf-ia2' in the step 1, right click on the project in solution explorer and rename it to 'actf-msaa' or 'actf-ia2' respectively. 
+The dll has the same name as the project by default and we want the dll names to be 'actf-msaa.dll' and 'actf-ia2.dll'. <br>
+<li>Choose the desired build configuration, Release or Debug. You can choose this on Build Menu-> Configuration Manager.
+<li>Right click on project->Properties. In the properties window, make sure you select the desired configuration, Release or Debug.
+<li>In Configuration properties->C/C++->General->Additional Include directories:<br>Add the paths for <b>include</b> and <b>include/win32</b> folders in jdk directory. 
+ Eg: "C:\Java6\jdk\include";"C:\Java6\jdk\include\win32". If you have JDK directory setup as the JAVA_HOME environment variable, it is easier to use the following include path: 
+"$(JAVA_HOME)\include";"$(JAVA_HOME)\include\win32"
+ <li>For actf-ia2 project, also add the path of the actf-msaa source files.
+ <br>(Eg: "C:\Java6\jdk\include";"C:\Java6\jdk\include\win32";"C:\My projects\actf-msaa").
+<li>For 'actf-msaa' project, In Configuration properties->C/C++->Proprocessor->Preprocessor definitions: Add CACCESSIBLE_EXPORTS<br>
+<li>In Linker-> Input->Additional Dependencies: Type in <b>oleacc.lib gdiplus.lib</b> for actf-msaa project and
+ <b>oleacc.lib actf-msaa.lib</b> for actf-ia2 project.<br>
+<li>For Actf-ia2 project, In Linker-> General->Additional library directories, add the path of the actf-msaa.lib. For debug configuration, it would be 'C:\MyProjects\Actf-msaa\Debug'
+and for Release, 'C:\MyProjects\Actf-msaa\Release'.
+<li>In MIDL-> Output->Header file, change <b>$(InputName)_h.h</b> to <b>$(InputName).h</b>. <br>
+This step is to ensure that when <b>ia2_api_all.idl</b> is compiled, the header file is generated as <b>ia2_api_all.h</b> instead of <b>ia2_api_all_h.h</b>.
+</ul>
+<h3>4. Adding the MIDL generated files to the project   </h3> 
+<p>  Right click on <i>ia2_api_all.idl</i> and choose <i>Compile</i>. 
+If <i>ia2_api_all.idl</i> is compiled successfully, the 
+following files are generated in the project folder: <i>ia2_api_all.h, ia2_api_all_i.c</i> and <i>ia2_api_all_p.c</i>. 
+Add  <i>ia2_api_all.h</i> to header files and <i>ia2_api_all_i.c</i> to source files.
+ This completes all the project settings and we're ready to build.
+</p>
+<h3>5. Build the project </h3>
+<p>
+In Build Menu, Choose <i>Build Solution</i>. If the build is successful, actf-msaa.dll/actf-ia2.dll is 
+created in Debug or Release directory in the project folder. 
+(Eg: C:\MyProjects\actf-ia2\Release\actf-msaa.dll or 
+C:\MyProjects\actf-ia2\Debug\actf-ia2.dll)
+
+</p>
+</body>
+</html>
