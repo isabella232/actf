@@ -31,6 +31,7 @@ include('../../../projectNav.php');
 	$html = <<<EOHTML
 <div id="midcolumn">
 	<h1>ACTF Web Validation Componentry</h1>
+	<p>This componentry is no longer actively developed or supported.</p>
 <p><ul>
 <li><a href="#overview">Overview</a></li>
 <li><a href="#downloads">Webelo Releases</a></li>

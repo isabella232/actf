@@ -31,6 +31,11 @@ include('../../../projectNav.php');
 	$html = <<<EOHTML
 <div id="midcolumn">
 	<h1>ACTF Accessibility Probe</h1>
+	<p>This componentry is no longer actively developed or supported in Eclipse ACTF project. 
+	Further development and enhancements of AccProbe will be directed by the IAccessible2 community residing at the 
+	<a href="http://www.linuxfoundation.org/collaborate/workgroups/accessibility/iaccessible2">Linux Foundation</a>.
+	</p>
+	
 <p><ul>
 <li><a href="#overview">Overview</a></li>
 <li><a href="#downloads">AccProbe Releases</a></li>
