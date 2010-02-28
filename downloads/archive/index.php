@@ -73,7 +73,7 @@ include('../../projectNav.php');
 	<h3>Overview</h3>
 	<p>
 	ACTF Validation Components are now dormant and have no down stream dependencies or consumers of which we are aware. 
-	ACTF community decided to remove it from the ACTF project (see <A href="http://dev.eclipse.org/mhonarc/lists/actf-dev/msg00286.html">ACTF developers list</a>).
+	ACTF community decided to remove it from the ACTF project (see <A href="http://dev.eclipse.org/mhonarc/lists/actf-dev/msg00286.html">ACTF developers list archive</a>).
 	The entire source code and artifacts of Validation Components are archived and listed below.
 	</p>
 
