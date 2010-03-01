@@ -19,9 +19,6 @@
 	
 include('../../../../projectNav.php');
 		include('../../../../rightCol.php');
-	include('../../basic_files/buildReleaseTable.php');
-	
-	$releaseTable = generateReleaseTable('components', 'webelo');
 	
 	# End: page-specific settings
 	#
@@ -62,7 +59,38 @@ Documentation is available in the standard Eclipse help system but is incomplete
 	perform dynamic validations and accessibility compliance evaluations from within the WTP, JEE, or other web-related perspectives.  SDK builds provide all source code and an API 
 	reference for those wishing to expand the functionality of Webelo, build their own rulebases, or customize the validation engine.</p>
 	
-	$releaseTable
+<table width='80%' border='2'>
+<tr>
+<th>File</th>
+<th>Version</th>
+<th>Build ID</th>
+<th>Size</th>
+</tr>
+<tr>
+<td><a href="http://archive.eclipse.org/technology/actf/validation/components/webelo/0.2.0/actf-webelo-sdk-incubation-I200811131001.zip">actf-webelo-sdk-incubation-I200811131001.zip</a></td>
+<td>0.2.0</td>
+<td>I200811131001</td>
+<td>7420KB</td>
+</tr>
+<tr>
+<td><a href="http://archive.eclipse.org/technology/actf/validation/components/webelo/0.2.0/actf-webelo-runtime-incubation-I200811131001.zip">actf-webelo-runtime-incubation-I200811131001.zip</a></td>
+<td>0.2.0</td>
+<td>I200811131001</td>
+<td>4739KB</td>
+</tr>
+<tr>
+<td><a href="http://archive.eclipse.org/technology/actf/validation/components/webelo/0.1.1/actf-webelo-sdk-incubation-N200809081012.zip">actf-webelo-sdk-incubation-N200809081012.zip</a></td>
+<td>0.1.1</td>
+<td>N200809081012</td>
+<td>4736KB</td>
+</tr>
+<tr>
+<td><a href="http://archive.eclipse.org/technology/actf/validation/components/webelo/0.1.1/actf-webelo-runtime-incubation-N200809081012.zip">actf-webelo-runtime-incubation-N200809081012.zip</a></td>
+<td>0.1.1</td>
+<td>N200809081012</td>
+<td>4171KB</td>
+</tr>
+</table>
 	
 	<h2><a name="quickStart">Getting started</a></h2>
     <p><strong>Note</strong>: You must download and register <a href="http://developer.mozilla.org/en/docs/XULRunner">XULRunner, v1.8.1.3</a> in order 
@@ -73,47 +101,7 @@ Documentation is available in the standard Eclipse help system but is incomplete
 	detailed sections of the documentation.  You can also try right-clicking on any .htm, .html, or .xhtml file 
 	and selecting Open with...&gt;ACTF Mozilla Browser.</p>
 
-<!--	
-	<h2><a name="building">Building Javaco</a></h2>
-<p>Follow these steps from the workbench to build Javaco:</p>
 
-<p><ul>
-<li>obtain the source code:<ul>
-	<li>if you have not done so before, <a href="../../../../contributors.php">establish a connection to the ACTF CVS repository</a></li>
-	<li>checkout the following plugins from the org.eclipse.actf.common/plugins directory:<ul>
-		<li>org.eclipse.actf.core</li>
-		<li>org.eclipse.actf.model</li>
-		<li>org.eclipse.actf.model.dom</li>
-		<li>org.eclipse.actf.model.javapp</li>
-		<li>org.eclipse.actf.accservice</li>
-		<li>org.eclipse.actf.accservice.win32.ia2-fragment</li>
-		<li>org.eclipse.actf.accservice.win32.msaa-fragment</li>
-	</ul></li>
-	<li>checkout the following features from the org.eclipse.actf.common/features directory:<ul>
-		<li>org.eclipse.actf.model-feature</li>
-		<li>org.eclipse.actf.accservice-feature</li>
-	</ul></li>
-	<li>checkout the following plugins from the org.eclipse.actf.validation/plugins directory:<ul>
-		<li>org.eclipse.actf.validation</li>
-		<li>org.eclipse.actf.validation.doc</li>
-		<li>org.eclipse.actf.validation.ui</li>
-		<li>org.eclipse.actf.validation.javapp</li>
-		<li>org.eclipse.actf.validation.javapp.doc</li>
-		<li>org.eclipse.actf.validation.javapp.ui</li>
-	</ul></li>
-	<li>checkout the following features from the org.eclipse.actf.validation/features directory:<ul>
-		<li>org.eclipse.actf.validation-feature</li>
-		<li>org.eclipse.actf.validation.javapp-feature</li>
-	</ul></li>
-	<li>checkout the SDK features as well if you wish to build the entire SDK release</li>
-</ul></li>
-<li>build the Javaco componentry:<ol>
-    <li>Select the feature.xml file in either the org.eclipse.actf.validation.javapp-feature or org.eclipse.actf.validation.javapp.sdk-feature</li>
-    <li>Select PDE Tools&gt;Create Ant Build Script</li>
-    <li>Select the generated build.xml file and then right-click, selecting Run As...&gt;Ant Build</li>
-</ol></li>
-</ul></p>
-	-->
 </div>
 
 $rightColumn

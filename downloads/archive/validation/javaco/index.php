@@ -64,19 +64,19 @@ actf-javaco-sdk-incubation-I200808120849.zip</a></td>
 <td>15497KB</td>
 </tr>
 <tr>
-<td><a href="http://archive.eclipse.org/technology/actf/validation/components/javaco/0.4.0/actf-javaco-sdk-incubation-I200808120849.zip">actf-javaco-sdk-incubation-I200808120849.zip/components/javaco/0.4.0/actf-javaco-runtime-incubation-I200808120849.zip">actf-javaco-runtime-incubation-I200808120849.zip</a></td>
+<td><a href="http://archive.eclipse.org/technology/actf/validation/components/javaco/0.4.0/actf-javaco-runtime-incubation-I200808120849.zip">actf-javaco-runtime-incubation-I200808120849.zip</a></td>
 <td>0.4.0</td>
 <td>I200808120849</td>
 <td>12633KB</td>
 </tr>
 <tr>
-<td><a href="http://archive.eclipse.org/technology/actf/validation/components/javaco/0.4.0/actf-javaco-sdk-incubation-I200808120849.zip">actf-javaco-sdk-incubation-I200808120849.zip/components/javaco/0.3.0/actf-javaco-sdk-incubation-I200804010717.zip">actf-javaco-sdk-incubation-I200804010717.zip</a></td>
+<td><a href="http://archive.eclipse.org/technology/actf/validation/components/javaco/0.3.0/actf-javaco-sdk-incubation-I200804010717.zip">actf-javaco-sdk-incubation-I200804010717.zip</a></td>
 <td>0.3.0</td>
 <td>I200804010717</td>
 <td>15072KB</td>
 </tr>
 <tr>
-<td><a href="http://archive.eclipse.org/technology/actf/validation/components/javaco/0.4.0/actf-javaco-sdk-incubation-I200808120849.zip">actf-javaco-sdk-incubation-I200808120849.zip/components/javaco/0.3.0/actf-javaco-runtime-incubation-I200804010717.zip">actf-javaco-runtime-incubation-I200804010717.zip</a></td>
+<td><a href="http://archive.eclipse.org/technology/actf/validation/components/javaco/0.3.0/actf-javaco-runtime-incubation-I200804010717.zip">actf-javaco-runtime-incubation-I200804010717.zip</a></td>
 <td>0.3.0</td>
 <td>I200804010717</td>
 <td>12406KB</td>
