@@ -19,9 +19,6 @@
 	
 include('../../../../projectNav.php');
 		include('../../../../rightCol.php');
-	include('../../basic_files/buildReleaseTable.php');
-	
-	$releaseTable = generateReleaseTable('validation/components', 'javaco');
 	
 	# End: page-specific settings
 	#
@@ -52,7 +49,39 @@ and the <a href="http://www.ibm.com/able/guidelines/software/accesssoftware.html
 	perform dynamic validations and accessibility compliance evaluations from within the JDT.  SDK builds provide all source code and an API 
 	reference for those wishing to expand the functionality of Javaco or build their own rulebases or customize the validation engine.</p>
 	
-	$releaseTable
+<table width='80%' border='2'>
+<tr>
+<th>File</th>
+<th>Version</th>
+<th>Build ID</th>
+<th>Size</th>
+</tr>
+<tr>
+<td><a href="http://archive.eclipse.org/technology/actf/validation/components/javaco/0.4.0/actf-javaco-sdk-incubation-I200808120849.zip">
+actf-javaco-sdk-incubation-I200808120849.zip</a></td>
+<td>0.4.0</td>
+<td>I200808120849</td>
+<td>15497KB</td>
+</tr>
+<tr>
+<td><a href="http://archive.eclipse.org/technology/actf/validation/components/javaco/0.4.0/actf-javaco-sdk-incubation-I200808120849.zip">actf-javaco-sdk-incubation-I200808120849.zip/components/javaco/0.4.0/actf-javaco-runtime-incubation-I200808120849.zip">actf-javaco-runtime-incubation-I200808120849.zip</a></td>
+<td>0.4.0</td>
+<td>I200808120849</td>
+<td>12633KB</td>
+</tr>
+<tr>
+<td><a href="http://archive.eclipse.org/technology/actf/validation/components/javaco/0.4.0/actf-javaco-sdk-incubation-I200808120849.zip">actf-javaco-sdk-incubation-I200808120849.zip/components/javaco/0.3.0/actf-javaco-sdk-incubation-I200804010717.zip">actf-javaco-sdk-incubation-I200804010717.zip</a></td>
+<td>0.3.0</td>
+<td>I200804010717</td>
+<td>15072KB</td>
+</tr>
+<tr>
+<td><a href="http://archive.eclipse.org/technology/actf/validation/components/javaco/0.4.0/actf-javaco-sdk-incubation-I200808120849.zip">actf-javaco-sdk-incubation-I200808120849.zip/components/javaco/0.3.0/actf-javaco-runtime-incubation-I200804010717.zip">actf-javaco-runtime-incubation-I200804010717.zip</a></td>
+<td>0.3.0</td>
+<td>I200804010717</td>
+<td>12406KB</td>
+</tr>
+</table>
 	
 	<h2><a name="quickStart">Getting started</a></h2>
 	<p>The best way to get started with Javaco is to read the provided documentation, accessed from within the help system.  There are 

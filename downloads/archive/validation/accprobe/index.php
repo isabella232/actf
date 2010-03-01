@@ -19,9 +19,6 @@
 	
 include('../../../../projectNav.php');
 		include('../../../../rightCol.php');
-	include('../../basic_files/buildReleaseTable.php');
-	
-	$releaseTable = generateReleaseTable('tools', 'accprobe');
 	
 	# End: page-specific settings
 	#
@@ -52,7 +49,30 @@ fired by these accessible objects. It is meant to combine the functionality of t
 and AccEvent into one easy-to-use application for accessibility testing and debugging.</p>
 
 	<h2><a name="downloads">AccProbe Releases</a></h2>
-	$releaseTable
+
+<table width='80%' border='2'>
+<tr>
+<th>File</th>
+<th>Version</th>
+<th>Build ID</th>
+<th>Size</th>
+</tr>
+<tr>
+<td><a href="http://archive.eclipse.org/technology/actf/validation/tools/accprobe/0.4.4/actf-accprobe-I200910221349-win32-incubation.zip">actf-accprobe-I200910221349-win32-incubation.zip</a></td>
+<td>0.4.4</td>
+<td>I200910221349</td>
+<td>15461KB</td>
+</tr>
+<tr>
+<td><a href="http://archive.eclipse.org/technology/actf/validation/tools/accprobe/0.4.3/actf-accprobe-I200902231433-win32-incubation.zip">actf-accprobe-I200902231433-win32-incubation.zip</a></td>
+<td>0.4.3</td>
+<td>I200902231433</td>
+<td>15444KB</td>
+</tr>
+</table>
+
+
+
 	
 	<h2><a name="quickStart">Getting started</a></h2>
 	<p>Since AccProbe is an Eclipse RCP application, it couldn't be easier to use!  Simply unpack the archive you choose to download 
