@@ -21,7 +21,7 @@ include('../../../../projectNav.php');
 		include('../../../../rightCol.php');
 	include('../../basic_files/buildReleaseTable.php');
 	
-	$releaseTable = generateReleaseTable('components', 'javaco');
+	$releaseTable = generateReleaseTable('validation/components', 'javaco');
 	
 	# End: page-specific settings
 	#
@@ -59,47 +59,6 @@ and the <a href="http://www.ibm.com/able/guidelines/software/accesssoftware.html
 	several tasks to review in order to familiarize yourself with the components.  Once becoming familiar with basic tasks, you can refer to more 
 	detailed sections of the documentation.</p>
 
-<!--	
-	<h2><a name="building">Building Javaco</a></h2>
-<p>Follow these steps from the workbench to build Javaco:</p>
-
-<p><ul>
-<li>obtain the source code:<ul>
-	<li>if you have not done so before, <a href="../../../../contributors.php">establish a connection to the ACTF CVS repository</a></li>
-	<li>checkout the following plugins from the org.eclipse.actf.common/plugins directory:<ul>
-		<li>org.eclipse.actf.core</li>
-		<li>org.eclipse.actf.model</li>
-		<li>org.eclipse.actf.model.dom</li>
-		<li>org.eclipse.actf.model.javapp</li>
-		<li>org.eclipse.actf.accservice</li>
-		<li>org.eclipse.actf.accservice.win32.ia2-fragment</li>
-		<li>org.eclipse.actf.accservice.win32.msaa-fragment</li>
-	</ul></li>
-	<li>checkout the following features from the org.eclipse.actf.common/features directory:<ul>
-		<li>org.eclipse.actf.model-feature</li>
-		<li>org.eclipse.actf.accservice-feature</li>
-	</ul></li>
-	<li>checkout the following plugins from the org.eclipse.actf.validation/plugins directory:<ul>
-		<li>org.eclipse.actf.validation</li>
-		<li>org.eclipse.actf.validation.doc</li>
-		<li>org.eclipse.actf.validation.ui</li>
-		<li>org.eclipse.actf.validation.javapp</li>
-		<li>org.eclipse.actf.validation.javapp.doc</li>
-		<li>org.eclipse.actf.validation.javapp.ui</li>
-	</ul></li>
-	<li>checkout the following features from the org.eclipse.actf.validation/features directory:<ul>
-		<li>org.eclipse.actf.validation-feature</li>
-		<li>org.eclipse.actf.validation.javapp-feature</li>
-	</ul></li>
-	<li>checkout the SDK features as well if you wish to build the entire SDK release</li>
-</ul></li>
-<li>build the Javaco componentry:<ol>
-    <li>Select the feature.xml file in either the org.eclipse.actf.validation.javapp-feature or org.eclipse.actf.validation.javapp.sdk-feature</li>
-    <li>Select PDE Tools&gt;Create Ant Build Script</li>
-    <li>Select the generated build.xml file and then right-click, selecting Run As...&gt;Ant Build</li>
-</ol></li>
-</ul></p>
-	-->
 </div>
 
 $rightColumn

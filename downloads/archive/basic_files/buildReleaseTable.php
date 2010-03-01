@@ -3,9 +3,9 @@
 // Author: Mike Squillace; masquill@us.ibm.com
 
 $columns = array("File", "Version", "Build ID", "Size");
-$downloadsDirName = $App->getDownloadBasePath() . "/";
+//$downloadsDirName = $App->getDownloadBasePath() . "/";
 $projectName = "technology/actf";
-$rootDirName = $downloadsDirName . $projectName;
+$rootDirName = "/home/data/httpd/archive.eclipse.org/" . $projectName;
 
 // Sorts by newest file first
 function date_cmp ($archiveMap1, $archiveMap2) {
