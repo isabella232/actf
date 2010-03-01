@@ -105,7 +105,9 @@ include('../../projectNav.php');
 or document. It can also serve as an event monitor for tracking the events
 fired by these accessible objects. It is meant to combine the functionality of a variety of accessibility testing tools 
 (such as inspection and event-monitoring tools) into one easy-to-use application for accessibility testing and debugging.</p>
-
+	<p>Please visit the <a href="http://www.linuxfoundation.org/collaborate/workgroups/accessibility/iaccessible2">IAccessible2 community</a> residing at 
+	the Linux Foundation to find the latest version of the tool.	
+	</p>
 	</div>
 
 	<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php" target="_blank">Eclipse 
