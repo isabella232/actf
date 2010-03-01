@@ -76,10 +76,13 @@ include('../../projectNav.php');
 	ACTF community decided to remove it from the ACTF project (see <A href="http://dev.eclipse.org/mhonarc/lists/actf-dev/msg00286.html">ACTF developers list archive</a>).
 	The entire source code and artifacts of Validation Components are archived and listed below.
 	</p>
-
+	<p>
+	Further development and enhancements of AccProbe will be directed by the IAccessible2 community residing at the 
+	<a href="http://www.linuxfoundation.org/collaborate/workgroups/accessibility/iaccessible2">Linux Foundation</a>.
+	</p>
 	<h3>Archived Source Files</h3>
 	<p>
-	The last snapshot of ACTF CVS that includes Validation Components is available from here.
+	The last snapshot of ACTF CVS that includes Validation Components is available from <a href="http://archive.eclipse.org/technology/actf/src/actf-20100301.zip">here</a>.
 	</p>
 
 	<h3>Java Validation Componentry (Javaco)</h3>
