@@ -84,25 +84,24 @@ include('../projectNav.php');
 	<br>
 </div>
 
+	<hr class="clearer" />
+
+	<h2 id="tools">ACTF Previous Releases</h2>
+	<h3><a href="archives/">ACTF Archived Downloads page</a></h3>
+
 	<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php" target="_blank">Eclipse 
           Foundation Software User Agreement</a> unless otherwise specified.</p>
 	<hr class="clearer" />
 
 
-	<h1 id="tools">ACTF Previous Releases</h1>
-	<p><a href="archives/">ACTF Archived Downloads page</a></p>
-
 	<h1>Other tools and runtimes on top of ACTF</h1>
-	<h2>Link to external product information site</h2>
 	<div class="homeitem3col">
-	 <h3><a href="http://www-06.ibm.com/jp/software/internet/hpb/products/">HomePage Builder</a>  (Product of IBM Japan)</h3>
+	<h3>Link to external product information site</h3>
+	 <h4><a href="http://www-06.ibm.com/jp/software/internet/hpb/products/">HomePage Builder</a>  (Product of IBM Japan)</h4>
 	 <p>HomePage Builder is a Web authoring tool that integrates ACTF aDesigner as an accessibility check function.
 	 For more details about this tool, please visit <a href="http://www-06.ibm.com/jp/software/internet/hpb/products/">HomePage Builder introduction page (in Japanese)</a>. (Jump to IBM Japan Web site).</p>
-	</div>		
-
-	<h2>Link to external download site</h2>
-	<div class="homeitem3col">
-	 <h3><a href="http://www.alphaworks.ibm.com/tech/aibrowser">IBM Accessibility Internet Browser for Multimedia (aiBrowser)</a>  (IBM alphaWorks technology)</h3>
+	<h3>Link to external download site</h3>
+	 <h4><a href="http://www.alphaworks.ibm.com/tech/aibrowser">IBM Accessibility Internet Browser for Multimedia (aiBrowser)</a>  (IBM alphaWorks technology)</h4>
 	 <p>The IBM Accessibility Internet Browser for Multimedia (aiBrowser) is an Internet browser for visually impaired users that provides multimedia control features and alternative user interfaces with external metadata. 
 	 For more details about this tool, please visit <a href="http://www.alphaworks.ibm.com/tech/aibrowser">aiBrowser introduction page</a>. (Jump to IBM alphaWorks Web site).</p>
 	</div>		
