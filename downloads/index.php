@@ -86,7 +86,7 @@ include('../projectNav.php');
 
 	<hr class="clearer" />
 
-	<h2 id="tools">ACTF Previous Releases</h2>
+	<h2 id="tools">ACTF Previous Releases and old materials</h2>
 	<ul><li><a href="archive/">ACTF Archived Downloads page<img src="../images/go-bottom.png" alt=""></a></li></ul>
 
 	<hr class="clearer" />
