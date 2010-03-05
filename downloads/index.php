@@ -87,7 +87,7 @@ include('../projectNav.php');
 	<hr class="clearer" />
 
 	<h2 id="tools">ACTF Previous Releases</h2>
-	<h3><a href="archives/">ACTF Archived Downloads page</a></h3>
+	<ul><li><a href="archives/">ACTF Archived Downloads page<img src="../images/go-bottom.png" alt=""></a></li></ul>
 
 	<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php" target="_blank">Eclipse 
           Foundation Software User Agreement</a> unless otherwise specified.</p>
