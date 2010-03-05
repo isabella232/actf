@@ -86,7 +86,7 @@ include('../projectNav.php');
 
 	<hr class="clearer" />
 
-	<h2 id="tools">ACTF Previous Releases and old materials</h2>
+	<h2 id="tools">ACTF Previous Releases and Old Materials</h2>
 	<ul><li><a href="archive/">ACTF Archived Downloads page<img src="../images/go-bottom.png" alt=""></a></li></ul>
 
 	<hr class="clearer" />
@@ -96,7 +96,7 @@ include('../projectNav.php');
 	<hr class="clearer" />
 
 
-	<h1>Other tools and runtimes on top of ACTF</h1>
+	<h1>Other Tools and Runtimes on top of ACTF</h1>
 	<div class="homeitem3col">
 	<h3>Link to external product information site</h3>
 	 <h4><a href="http://www-06.ibm.com/jp/software/internet/hpb/products/">HomePage Builder</a>  (Product of IBM Japan)</h4>
