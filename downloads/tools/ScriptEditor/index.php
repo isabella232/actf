@@ -46,7 +46,7 @@
 	enjoy the benefits of these advances. For example, there are so many movies on the Internet,
 	however, almost none of them have audio descriptions.
 	</p>
-	<p>The ACTF ScriptEditor aims to provide an environment to edit audio descriptions, 
+	<p>The ACTF ScriptEditor aims to provide an environment to easily edit audio descriptions for these movies, 
 	and it also tries to reduce cost of audio description by using audio Synthesis.
 	<p/>
 	
