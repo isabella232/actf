@@ -47,7 +47,7 @@
 	however, almost none of them have audio descriptions.
 	</p>
 	<p>The ACTF ScriptEditor aims to provide an environment to easily edit audio descriptions for these movies, 
-	and it also tries to reduce cost of audio description by using audio Synthesis.
+	and it also tries to reduce cost of audio description by using audio synthesis.
 	<p/>
 	
 	<h2><a name="downloads">ScriptEditor Releases</a></h2>	
