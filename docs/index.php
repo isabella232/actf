@@ -48,6 +48,12 @@
        Tool: <a href="users/aiBrowser/docs/">ACTF aiBrowser (v0.5) Help</a>
        (Japanese version is available from <a href="users/aiBrowser/ja/docs/">here</a>.)
        </li>
+       <li><div>April 21 2010</div>
+       Tool: <!--<a href="users/ScriptEditor/docs/">-->
+       ACTF ScriptEditor (v0.1) Help (Coming soon.)
+       <!--</a>-->
+       (Japanese version is available from <a href="users/ScriptEditor/ja/docs/">here</a>.)
+       </li>
 	</ul>	
  </div>
  <div class="homeitem3col">
