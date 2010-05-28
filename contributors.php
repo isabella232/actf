@@ -50,7 +50,7 @@ Repository.</p>
 <p>For more details about CVS, please visit <a href="http://wiki.eclipse.org/index.php/CVS_Howto">CVS Howto</a> page.</p>
 
 <h1>Development Guidelines</h1>
-<h2>1. Naming Conventions</h2>
+<h2 id="naming">1. Naming Conventions</h2>
 <p>Naming Conventions in the ACTF project follow the <a href="http://wiki.eclipse.org/Naming_Conventions">Eclipse Naming 
 Conventions</a> except for Java packages containing 'internal', 'tests', or 'examples'.</p>
 
@@ -181,7 +181,17 @@ structure for each subdirectory you own under the <a href="#group">ACTF componen
 If you need to create new namespaces, please submit a request to the newsgroup.
 </p>
 
-<h2>5. Others</h2>
+<h2 id="API">5. APIs</h2>
+<p>In ACTF, all internal APIs are in internal packages 
+and currently are not exported to others. 
+(see also <a href="#naming">Naming Conventions</a>)
+</p>
+<p>
+All public APIs exported to others are currently provisional. 
+ACTF plans to freeze the APIs after reflecting community feedback in next release (0.9). 
+</p>
+
+<h2>6. Others</h2>
 <p>
 For more details about development conventions and guidelines, please visit  
 <a href="http://wiki.eclipse.org/Development_Conventions_and_Guidelines">Eclipse development guidelines</a> page.
