@@ -31,10 +31,10 @@ include('../projectNav.php');
 	<div id="midcolumn">
 	<h1>ACTF Downloads</h1>
 
-	<h2 id="milestone">ACTF 0.7 (Galileo) Release</h2>
+	<h2 id="milestone">ACTF 0.8 (Helios) Release</h2>
 	<p>
 	
-	<a href="../newandnoteworthy/07/actf-07.html">ACTF 0.7 New and Noteworthy</a>
+	<a href="../newandnoteworthy/08/actf-08.html">ACTF 0.8 New and Noteworthy</a>
 	
 	</p>
 	<div class="homeitem3col">
@@ -49,10 +49,11 @@ include('../projectNav.php');
 		</p>
 		<p>
 			<b>Update Site: </b>
-			<a href="http://download.eclipse.org/technology/actf/0.7/update-site/">http://download.eclipse.org/technology/actf/0.7/update-site/</a><br>
+			<a href="http://download.eclipse.org/technology/actf/0.8/update-site/">
+			http://download.eclipse.org/technology/actf/0.8/update-site/</a><br>
 			<b>Other downloads: </b>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.7.2/actf-visualization-0.7.2-win32-incubation.zip">
-			actf-visualization-0.7.2-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.8.0/actf-visualization-0.8.0-win32-incubation.zip">
+			actf-visualization-0.8.0-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a>
 		</p>
 	</div>
 	<hr class="clearer" />

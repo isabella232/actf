@@ -44,8 +44,8 @@ include('../../projectNav.php');
 	<b>Update Site: </b>
 	<a href="http://download.eclipse.org/technology/actf/0.7/update-site/">http://download.eclipse.org/technology/actf/0.7/update-site/</a><br>
 	<b>Other downloads: </b>
-		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.7.0/actf-visualization-0.7.0-win32-incubation.zip">
-		actf-visualization-0.7.0-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a>
+		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.7.2/actf-visualization-0.7.2-win32-incubation.zip">
+		actf-visualization-0.7.2-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a>
 	</p>
 	<p>
 	(Please try <a href="tools/aDesigner/index.php">ACTF aDesigner</a>, too. aDesigner is an exemplary tool developed on top of the Validation SDK.)
