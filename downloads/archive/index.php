@@ -42,9 +42,9 @@ include('../../projectNav.php');
 	</p>
 	<p>
 	<b>Update Site: </b>
-	<a href="http://archive.eclipse.org/technology/actf/0.7/update-site/">http://archive.eclipse.org/technology/actf/0.7/update-site/</a><br>
+	<a href="http://download.eclipse.org/technology/actf/0.7/update-site/">http://download.eclipse.org/technology/actf/0.7/update-site/</a><br>
 	<b>Other downloads: </b>
-		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.8.0/actf-visualization-0.7.0-win32-incubation.zip">
+		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.7.0/actf-visualization-0.7.0-win32-incubation.zip">
 		actf-visualization-0.7.0-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a>
 	</p>
 	<p>
