@@ -33,15 +33,15 @@
  <div class="homeitem3col">
 	<h3>Documentation for developers who use/extend ACTF</h3>
 	<ul>       
-       <li><div>June 24 2010</div><a href="developers/ACTF.pdf">ACTF Getting Started</a></li>
+       <li><div>June 23 2010</div><a href="developers/ACTF.pdf">ACTF Getting Started</a></li>
     </ul>
  </div>
  <div class="homeitem3col">
 	<h3>Documentation for users of ACTF SDKs/runtimes/tools</h3>
 	<p>note: many of ACTF SDKs/runtimes/tools includes online documentation. Please use Help menu to read it.</p>
 	<ul>
-       <li><div>October 08 2008</div>
-       Tool: <a href="users/aDesigner/docs/">ACTF aDesigner (v0.5) Help</a> 
+       <li><div>June 23 2010</div>
+       Tool: <a href="users/aDesigner/docs/">ACTF aDesigner (v0.8) Help</a> 
        (Japanese version is available from <a href="users/aDesigner/ja/docs/">here</a>.)
        </li>
        <li><div>October 08 2008</div>
