@@ -31,6 +31,28 @@ include('../../projectNav.php');
 	<div id="midcolumn">
 	<h1>ACTF Archived Downloads</h1>
 
+
+<h2 id="release">ACTF Previous Release (0.7 (Galileo))</h2>
+
+<div class="homeitem3col">
+	<h3>Visualization SDK</h3>
+	<p>ACTF Visualization SDK includes two types of extensible visualization engines 
+	(Blind usability visualization engine and low-vision simulation engine) and several reusable view components. 
+	These components support providing a visual representation of the usability of content or applications for People with Disabilities (PwD).
+	</p>
+	<p>
+	<b>Update Site: </b>
+	<a href="http://archive.eclipse.org/technology/actf/0.7/update-site/">http://archive.eclipse.org/technology/actf/0.7/update-site/</a><br>
+	<b>Other downloads: </b>
+		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.8.0/actf-visualization-0.7.0-win32-incubation.zip">
+		actf-visualization-0.7.0-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a>
+	</p>
+	<p>
+	(Please try <a href="tools/aDesigner/index.php">ACTF aDesigner</a>, too. aDesigner is an exemplary tool developed on top of the Validation SDK.)
+	</p>
+
+</div>
+
 <h2 id="release">ACTF Previous Release (0.5)</h2>
 
 <div class="homeitem3col">
@@ -45,9 +67,6 @@ include('../../projectNav.php');
 	<b>Other downloads: </b>
 	<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.5.0/actf-visualization-sdk-200810080000-incubation.zip">
 	actf-visualization-sdk-200810080000-incubation.zip<img src="../../images/go-bottom.png" alt=""></a>
-	</p>
-	<p>
-	(Please try <a href="tools/aDesigner/index.php">ACTF aDesigner</a>, too. aDesigner is an exemplary tool developed on top of the Validation SDK.)
 	</p>
 
 	<h3>Alternative Interface SDK</h3>
