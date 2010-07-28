@@ -55,7 +55,7 @@
 	It also has accessibility information (MSAA/IA2) inspection functions. 
 	</p>
 	
-	<h2><a name="downloads">aDesigner Releases</a></h2>
+	<h2><a name="downloads">aDesigner Milestone Releases</a></h2>
 	<p>All downloads are provided under the terms and conditions of the 
 	<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a>.
 	</p>
@@ -87,8 +87,9 @@
 	  <li>For Flash Accessibility mode:  Adobe&reg; Flash Player, Version 8 or above</li>
 	  <li>For OpenDocument Accessibility mode: 
        <ul>
+        <li>aDesigner 0.8.0: OpenOffice.org 3.x (3.0.1 to 3.1.x)</li>
+        <li>aDesigner 0.7.0: OpenOffice.org 3.x (3.0.1 to 3.1.x)</li>
         <li>aDesigner 0.5.0: OpenOffice.org 2.x (2.1.0 or above)</li>
-        <li>aDesigner 0.7.0: OpenOffice.org 3.x (3.0.1 or above)</li>
        </ul>	  
 	  </li>
   	 </UL>

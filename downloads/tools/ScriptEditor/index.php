@@ -34,9 +34,9 @@
 	<h1>ACTF ScriptEditor</h1>
 	<p><ul>
 	<li><a href="#overview">Overview</a></li>
-	<li><a href="#downloads">aiBrowser Releases</a></li>
+	<li><a href="#downloads">ScriptEditor Releases</a></li>
 	<li><a href="#quickStart">Getting started</a></li>
-	<li><a href="build.php">Building aiBrowser</a></li> 
+<!-	<li><a href="build.php">Building ScriptEditor</a></li> -->
 	<li><a href="#requirements">System Requirements</a></li>
 	</ul></p>
 
@@ -50,7 +50,7 @@
 	and it also tries to reduce cost of audio description by using audio synthesis.
 	<p/>
 	
-	<h2><a name="downloads">ScriptEditor Releases</a></h2>	
+	<h2><a name="downloads">ScriptEditor Milestone Releases</a></h2>	
 	<p>ACTF ScriptEditor is now in early prototype phase. Please submit any enhancement request, bug reports, and so on to <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=ACTF&component=examples">bugzilla</a>.
 	</p>
 
