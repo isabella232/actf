@@ -36,7 +36,7 @@
 	<li><a href="#overview">Overview</a></li>
 	<li><a href="#downloads">ScriptEditor Releases</a></li>
 	<li><a href="#quickStart">Getting started</a></li>
-<!-	<li><a href="build.php">Building ScriptEditor</a></li> -->
+<!--	<li><a href="build.php">Building ScriptEditor</a></li> -->
 	<li><a href="#requirements">System Requirements</a></li>
 	</ul></p>
 
