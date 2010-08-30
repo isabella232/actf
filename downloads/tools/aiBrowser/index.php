@@ -70,6 +70,10 @@
 	<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a>.
 	</p>
 	
+	<p>Zip File<br>
+	$releaseTable
+	</p>
+	
 	<p>Installer<br>
 	<table width='80%' border='2'>
 	 <tr>
@@ -86,10 +90,6 @@
 	  <td>23781KB</td>
 	  </tr>
 	</table>
-	</p>
-
-	<p>Zip File<br>
-	$releaseTable
 	</p>
 	
 	<h2><a name="quickStart">Getting started</a></h2>
