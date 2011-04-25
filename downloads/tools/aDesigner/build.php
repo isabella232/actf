@@ -35,17 +35,17 @@
 	</ul></p>
 
 	<h2><a name="quickStart">Getting started</a></h2>
-	<p><ul>
+	<p><ol>
 	  <li>Obtain source code</li>
 	  <ul>
 	   <li>Prepare Eclipse and other pre-reqs. (See <a href="#requirements">System Requirements</a>)</li>
-	   <li>Download Team Project Set file (*.psf).</li>
+	   <li>Download Team Project Set file (*.psf).
 	    <ul>
 	      <li>for Committers: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/committer/aDesigner-committer.zip">zipped aDesigner-committer.psf</a></li>
 	      <li>for Committers (behind firewall): <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/committer/aDesigner-committer443.zip">zipped aDesigner-committer443.psf</a><br>(This psf file uses proxy.eclipse.org/port 443)</li>
 	      <li>for others: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/anonymous/aDesigner-anonymous.zip">zipped aDesigner-anonymous.psf</a></li>
 	    </ul>
-	   <li>Unzip the downloaded file and import Team Project Set file (*.psf) from Eclipse's 'File' -&gt; 'Import' -&gt; 'Team' -&gt; 'Team Project Set' menu.</li>
+	   <li>Unzip the downloaded file and import Team Project Set file (*.psf) from Eclipse's 'File' -&gt; 'Import' -&gt; 'Team' -&gt; 'Team Project Set' menu.
 	    <ul>
 	      <li>Committers: use your committer id and password</li>
 	      <li>Others: user -&gt; "anonymous", password -&gt; "" (null)</a></li>
