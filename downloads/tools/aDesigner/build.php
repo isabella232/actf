@@ -59,7 +59,7 @@
 	  </ol>
 	</p>
 	
-	<h2><a name="quickStart">Build aDesigner from source code</a></h2>
+	<h2><a name="source">Build aDesigner from source code</a></h2>
 	<p>
 	  <ol>
 	  <li>Prepare Eclipse and other pre-reqs. (See <a href="#requirements">System Requirements</a>)</li>
