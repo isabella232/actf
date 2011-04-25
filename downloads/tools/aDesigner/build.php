@@ -35,7 +35,8 @@
 	</ul></p>
 
 	<h2><a name="quickStart">Getting started</a></h2>
-	<p><ol>
+	<p>
+	  <ol>
 	  <li>Obtain source code</li>
 	  <ul>
 	   <li>Prepare Eclipse and other pre-reqs. (See <a href="#requirements">System Requirements</a>)</li>
@@ -65,6 +66,7 @@
 	   <li>Open 'org.eclipse.actf.examples.adesigner' project and select 'aDesigner.product'.</li>
 	   <li>Open an export product wizard by selecting 'Eclipse product export wizard' under 'Exporting' section and follow the wizard.</li>
 	  </ul>
+	  </ol>
 	</p>
 	
 	<h2><a name="requirements">System Requirements</a></h2>
