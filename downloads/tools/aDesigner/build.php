@@ -30,16 +30,41 @@
 <div id="midcolumn">
 	<h1>ACTF aDesigner build instruction</h1>
 	<p><ul>
-	<li><a href="#quickStart">Getting started</a></li>
 	<li><a href="#requirements">System Requirements</a></li>
+	<li><a href="#quickStart">Build aDesigner by using ACTF SDK (recommended)</a></li>
+	<li><a href="#source">Build aDesigner from source code</a></li>
 	</ul></p>
 
-	<h2><a name="quickStart">Getting started</a></h2>
+	<h2><a name="requirements">System Requirements</a></h2>
+	<p><ul>
+	 <li>Operating Systems<BR>
+	 <UL>
+	  <LI>Windows&#174; XP or above
+	 </UL>
+	 <LI>Software
+	 <UL>
+	  <li><a href="http://www.eclipse.org/downloads/moreinfo/jre.php">Java Runtime Environment (JRE) 5.0 or above</a></li>
+	  <li><a href="http://www.eclipse.org/downloads/">Eclipse SDK 3.5 or above</a></li>
+	  <li>Internet Explorer 6.0 or above</li>
+	  <li>For Flash Accessibility mode:  Adobe&reg; Flash Player, Version 8 or above</li>
+	  <li>For OpenDocument Accessibility mode:  OpenOffice.org 3.2 or above</li>
+  	 </UL>
+	</ul>
+	</p>
+
+	<h2><a name="quickStart">Build aDesigner by using ACTF SDK (recommended)</a></h2>
 	<p>
 	  <ol>
+	   <li>Please follow instructions in the <a href="http://www.eclipse.org/actf/docs/developers/ACTF.pdf">ACTF getting started</a> documentation.</li>
+	  </ol>
+	</p>
+	
+	<h2><a name="quickStart">Build aDesigner from source code</a></h2>
+	<p>
+	  <ol>
+	  <li>Prepare Eclipse and other pre-reqs. (See <a href="#requirements">System Requirements</a>)</li>
 	  <li>Obtain source code</li>
 	  <ul>
-	   <li>Prepare Eclipse and other pre-reqs. (See <a href="#requirements">System Requirements</a>)</li>
 	   <li>Download Team Project Set file (*.psf).
 	    <ul>
 	      <li>for Committers: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/committer/aDesigner-committer.zip">zipped aDesigner-committer.psf</a></li>
@@ -69,22 +94,6 @@
 	  </ol>
 	</p>
 	
-	<h2><a name="requirements">System Requirements</a></h2>
-	<p><ul>
-	 <li>Operating Systems<BR>
-	 <UL>
-	  <LI>Windows&#174; XP or above
-	 </UL>
-	 <LI>Software
-	 <UL>
-	  <li><a href="http://www.eclipse.org/downloads/moreinfo/jre.php">Java Runtime Environment (JRE) 5.0 or above</a></li>
-	  <li><a href="http://www.eclipse.org/downloads/">Eclipse SDK 3.5 or above</a></li>
-	  <li>Internet Explorer 6.0 or above</li>
-	  <li>For Flash Accessibility mode:  Adobe&reg; Flash Player, Version 8 or above</li>
-	  <li>For OpenDocument Accessibility mode:  OpenOffice.org 3.2 or above</li>
-  	 </UL>
-	</ul>
-	</p>
 </div>
 
 $rightColumn
