@@ -31,10 +31,10 @@ include('../projectNav.php');
 	<div id="midcolumn">
 	<h1>ACTF Downloads</h1>
 
-	<h2 id="milestone">ACTF 0.8 (Helios) Release</h2>
+	<h2 id="release">ACTF 0.9 (Indigo) Release</h2>
 	<p>
 	
-	<a href="../newandnoteworthy/08/actf-08.html">ACTF 0.8 New and Noteworthy</a>
+	<!--<a href="../newandnoteworthy/09/actf-09.html">ACTF 0.9 New and Noteworthy</a>-->
 	
 	</p>
 	<div class="homeitem3col">
@@ -49,15 +49,12 @@ include('../projectNav.php');
 		</p>
 		<p>
 			<b>Update Site: </b>
-			<a href="http://download.eclipse.org/technology/actf/0.8/update-site/">
-			http://download.eclipse.org/technology/actf/0.8/update-site/</a><br>
-			<b>Other downloads: </b>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.8.2/actf-visualization-0.8.2-win32-incubation.zip">
-			actf-visualization-0.8.2-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a><br>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.8.1/actf-visualization-0.8.1-win32-incubation.zip">
-			actf-visualization-0.8.1-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a><br>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.8.0/actf-visualization-0.8.0-win32-incubation.zip">
-			actf-visualization-0.8.0-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a>
+			<a href="http://download.eclipse.org/technology/actf/0.9/update-site/">
+			http://download.eclipse.org/technology/actf/0.9/update-site/</a><br>
+<!--			<b>Other downloads: </b>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.9.0/actf-visualization-0.9.0-win32-incubation.zip">
+			actf-visualization-0.9.0-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a>
+			-->
 		</p>
 	</div>
 	<hr class="clearer" />
@@ -106,7 +103,7 @@ include('../projectNav.php');
 
 	<hr class="clearer" />
 
-	<h2 id="tools">ACTF Previous Releases and Old Materials</h2>
+	<h2 id="oldmaterials">ACTF Previous Releases and Old Materials</h2>
 	<ul><li><a href="archive/">ACTF Archived Downloads page<img src="../images/go-bottom.png" alt=""></a></li></ul>
 
 	<hr class="clearer" />

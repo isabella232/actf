@@ -31,8 +31,39 @@ include('../../projectNav.php');
 	<div id="midcolumn">
 	<h1>ACTF Archived Downloads</h1>
 
+	<h2 id="release08">ACTF Previous Release (0.8 (Helios))</h2>
+	<p>
+	
+	<!--<a href="../newandnoteworthy/08/actf-08.html">ACTF 0.8 New and Noteworthy</a>-->
+	
+	</p>
+	<div class="homeitem3col">
+		<h3>Visualization SDK</h3>
+		<p>ACTF Visualization SDK includes two types of extensible visualization engines 
+		(Blind usability visualization engine and low-vision simulation engine) and several reusable view components. 
+		These components support providing a visual representation of the usability of content or applications for People with Disabilities (PwD).
+		From this milestone release, major features of visualization part, such as blind usability visualization, low-vision simulation,
+		Flash content inspection function, etc., can be used in Eclipse IDE by selecting each accessibility perspective.
+		Please visit <a href="http://www.eclipse.org/projects/project-plan.php?projectid=technology.actf">ACTF plan page</a>
+		for more details about the updates.
+		</p>
+		<p>
+			<b>Update Site: </b>
+			<a href="http://download.eclipse.org/technology/actf/0.8/update-site/">
+			http://download.eclipse.org/technology/actf/0.8/update-site/</a><br>
+			<b>Other downloads: </b>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.8.2/actf-visualization-0.8.2-win32-incubation.zip">
+			actf-visualization-0.8.2-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a><br>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.8.1/actf-visualization-0.8.1-win32-incubation.zip">
+			actf-visualization-0.8.1-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a><br>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.8.0/actf-visualization-0.8.0-win32-incubation.zip">
+			actf-visualization-0.8.0-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a>
+		</p>
+	</div>
+	<hr class="clearer" />
 
-<h2 id="release">ACTF Previous Release (0.7 (Galileo))</h2>
+
+<h2 id="release07">ACTF Previous Release (0.7 (Galileo))</h2>
 
 <div class="homeitem3col">
 	<h3>Visualization SDK</h3>
@@ -55,7 +86,7 @@ include('../../projectNav.php');
 
 <hr class="clearer" />	
 
-<h2 id="release">ACTF Previous Release (0.5)</h2>
+<h2 id="release05">ACTF Previous Release (0.5)</h2>
 
 <div class="homeitem3col">
 	<h3>Visualization SDK</h3>
