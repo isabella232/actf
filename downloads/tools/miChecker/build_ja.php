@@ -38,8 +38,8 @@
 	総務省よりEclipse　Accessibility Tools Framework (ACTF)に寄贈され、一般に公開されると共に、継続的に改善を実施しています。
 	</p>
 	
-	<h1>ACTF miChecker 開発手順</h1>
-	<p>以下の開発手順書に、miCheckerの開発手順および問い合わせ先などをまとめてありますので、ご活用ください。</p>
+	<h1>miChecker 開発手順</h1>
+	<p>以下の開発手順書に、miCheckerの開発手順および問い合わせ先などをまとめてありますので、是非ご活用ください。</p>
 	<p><a href="miChecker_development_ja.pdf">開発手順書(PDF形式)</a>	
 	</p>
 	
