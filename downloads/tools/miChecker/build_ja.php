@@ -33,8 +33,8 @@
 	総務省が開発し、
 	<a href="http://www.soumu.go.jp/main_sosiki/joho_tsusin/b_free/miChecker_download.html">「みんなのアクセシビリティ評価ツール（miChecker（エムアイチェッカー））」</a>
 	として広く一般に提供しているアクセシビリティのチェックツールです。その第一の目的は検証作業の支援ですが、同時に知識の習得にも役立つよう配慮されています。
-	</p>
-	<p>
+    </p>
+    <p>
 	miCheckerのソースコードは、その機能・性能・品質の向上と、アクセシブルなウェブの普及を目的として、
 	総務省よりEclipse　Accessibility Tools Framework (ACTF)に寄贈され、一般に公開されると共に、継続的な改善が実施されています。
 	</p>
