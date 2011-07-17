@@ -13,7 +13,7 @@
 	#****************************************************************************
 	
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "ACTF - miChecker 開発手順";
+	$pageTitle 		= "ACTF - miChecker build instruction";
 	$pageKeywords	= "Accessibility Tools Framework, miChecker, accessibility, ACTF, Eclipse";
 	$pageAuthor		= "Kentarou FUKUDA";
 	
@@ -30,25 +30,23 @@
 	$html = <<<EOHTML
 
 <div id="midcolumn">
-	<h1>miChecker について</h1>
-	<p>miCheckerは、平成22年8月のJIS X 8341-3:2010の改定に合わせ、国、地方公共団体等におけるウェブアクセシビリティ評価の取組を促進することを目的として、
-	総務省が開発し、
-	<a href="http://www.soumu.go.jp/main_sosiki/joho_tsusin/b_free/miChecker_download.html">「みんなのアクセシビリティ評価ツール（miChecker（エムアイチェッカー））」</a>
-	として広く一般に提供しているアクセシビリティのチェックツールです。その第一の目的は検証作業の支援ですが、同時に知識の習得にも役立つよう配慮されています。
+	<h1>About miChecker</h1>
+	<p>miChecker is a support tool for Web accessibility evaluation tool that developed on top of ACTF SDK. 
+	 It was developed by the Japanese Ministry of Internal Affairs and Communications (MIC) to support Web accessibility improvements in Japanese government offices.
+     In addition to supporting accessibility evaluation work, the tool also supports novice users to learn Web accessibility through their work. 
+	 To download this tool, please visit <a http://www.soumu.go.jp/main_sosiki/joho_tsusin/b_free/miChecker_download.html">miChecker download page (in Japanese)</a>. (Jump to MIC Web site).
+	 MIC contributed the source code and documentation of miChecker to ACTF to continue the open and transparent development into the future.
     </p>
-    <p>
-	miCheckerのソースコードは、その機能・性能・品質の向上と、アクセシブルなウェブの普及を目的として、
-	総務省よりEclipse　Accessibility Tools Framework (ACTF)に寄贈され、一般に公開されると共に、継続的な改善が実施されています。
-	</p>
 	
-	<h1>miChecker 開発手順</h1>
-	<p>以下の開発手順書に、miCheckerのソースコード入手方法、開発手順および問い合わせ先などをまとめてありますので、是非ご活用ください。</p>
-	<p><a href="miChecker_development_ja.pdf">開発手順書(PDF形式)</a>	
+	<h1>miChecker build instruction</h1>
+	<p>To build a miChecker, please follow instructions below.</p>
+	<p><a href="miChecker_development.pdf">miChecker build instruction (PDF format)</a>	
 	</p>
 	
 	<div style="text-align:right">
-	<a href=""build.php>instructions in English</a>
+	<a href=""build_ja.php>日本語のガイド</a>
 	</div>
+	
 </div>
 
 $rightColumn
