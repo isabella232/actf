@@ -34,7 +34,7 @@
 	<p>miChecker is a support tool for Web accessibility evaluation that developed on top of ACTF SDK. 
 	 It was developed by the Japanese Ministry of Internal Affairs and Communications (MIC) to support Web accessibility improvements in Japanese government offices.
      In addition to supporting accessibility evaluation work, the tool is designed to support learning Web accessibility through their work. 
-	 To download this tool, please visit <a http://www.soumu.go.jp/main_sosiki/joho_tsusin/b_free/miChecker_download.html">miChecker download page (in Japanese)</a>. (Jump to MIC Web site).
+	 To download this tool, please visit <a href="http://www.soumu.go.jp/main_sosiki/joho_tsusin/b_free/miChecker_download.html">miChecker download page (in Japanese)</a>. (Jump to MIC Web site).
 	 </p>
 	 <p>
 	 MIC contributed the source code and documentation of miChecker to ACTF to continue the open and transparent development into the future.
