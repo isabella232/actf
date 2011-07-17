@@ -47,7 +47,7 @@
 	</p>
 	
 	<div style="text-align:right">
-	<a href=""build.php>instructions in English</a>
+	<a href="build.php">instructions in English</a>
 	</div>
 </div>
 

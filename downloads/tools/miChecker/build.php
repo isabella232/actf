@@ -44,7 +44,7 @@
 	</p>
 	
 	<div style="text-align:right">
-	<a href=""build_ja.php>日本語のガイド</a>
+	<a href="build_ja.php">日本語のガイド</a>
 	</div>
 	
 </div>
