@@ -115,15 +115,15 @@ include('../projectNav.php');
 	<h1>Other Tools and Runtimes on top of ACTF</h1>
 	<div class="homeitem3col">
 	<h3>Link to external product information site</h3>
-	 <h4><a http://www.justsystems.com/jp/products/hpb/">HomePage Builder</a>  (Product of JustSystems Corporation)</h4>
+	 <h4><a href="http://www.justsystems.com/jp/products/hpb/">HomePage Builder</a>  (Product of JustSystems Corporation)</h4>
 	 <p>HomePage Builder is a Web authoring tool that integrates ACTF aDesigner as an accessibility check function.
-	 For more details about this tool, please visit <a http://www.justsystems.com/jp/products/hpb">HomePage Builder introduction page (in Japanese)</a>. (Jump to JustSystems Web site).</p>
+	 For more details about this tool, please visit <a href="http://www.justsystems.com/jp/products/hpb/">HomePage Builder introduction page (in Japanese)</a>. (Jump to JustSystems Web site).</p>
 	<h3>Link to external download site</h3>
-	 <h4><a http://www.soumu.go.jp/main_sosiki/joho_tsusin/b_free/miChecker_download.html">miChecker</a></h4>
+	 <h4><a href="http://www.soumu.go.jp/main_sosiki/joho_tsusin/b_free/miChecker_download.html">miChecker</a></h4>
 	 <p>miChecker is a support tool for Web accessibility evaluation tool that developed on top of ACTF SDK. 
 	 It was developed by the Japanese Ministry of Internal Affairs and Communications (MIC) to support Web accessibility improvements in Japanese government offices.
 	 MIC also contributed the source code and documentation of miChecker to ACTF to continue the open and transparent development into the future.
-	 To download this tool, please visit <a http://www.soumu.go.jp/main_sosiki/joho_tsusin/b_free/miChecker_download.html">miChecker download page (in Japanese)</a>. (Jump to MIC Web site).
+	 To download this tool, please visit <a href="http://www.soumu.go.jp/main_sosiki/joho_tsusin/b_free/miChecker_download.html">miChecker download page (in Japanese)</a>. (Jump to MIC Web site).
 	 Build instruction of miChecker is also available from <a href="miChecker/build.php">here</a>.
 	 </p>
 	 <h4><a href="http://www.alphaworks.ibm.com/tech/aibrowser">IBM Accessibility Internet Browser for Multimedia (aiBrowser)</a>  (IBM alphaWorks technology)</h4>
