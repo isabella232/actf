@@ -126,7 +126,7 @@ include('../projectNav.php');
 	 </p>
 	 <p>
 	 MIC also contributed the source code and documentation of miChecker to ACTF to continue the open and transparent development into the future.
-	 Build instruction of miChecker is also available from <a href="miChecker/build.php">here</a>.
+	 Build instruction of miChecker is also available from <a href="tools/miChecker/build.php">here</a>.
 	 </p>
 	 <h4><a href="http://www.alphaworks.ibm.com/tech/aibrowser">IBM Accessibility Internet Browser for Multimedia (aiBrowser)</a>  (IBM alphaWorks technology)</h4>
 	 <p>The IBM Accessibility Internet Browser for Multimedia (aiBrowser) is an Internet browser for visually impaired users that provides multimedia control features and alternative user interfaces with external metadata. 
