@@ -59,8 +59,8 @@
  <div class="homeitem3col">
 	<h3>Technical documentation for contributors/committers</h3>
 	<ul>
-		<li>Accessibility check items in ACTF Visualization SDK (<a href="../developers/ACTF09_Checkitems.xls"><img src="../images/go-bottom.png" alt="Download"> in Excel format)</a><br>
-			(Japanese version is also available. (<a href="../developers/ACTF09_Checkitems_ja.xls"><img src="../images/go-bottom.png" alt="Download"> in Excel format)</li>
+		<li>Accessibility check items in ACTF Visualization SDK (<a href="./developers/ACTF09_Checkitems.xls"><img src="../images/go-bottom.png" alt="Download"> in Excel format)</a><br>
+			(Japanese version is also available. (<a href="./developers/ACTF09_Checkitems_ja.xls"><img src="../images/go-bottom.png" alt="Download"> in Excel format</a>)</li>
 		<li>
 	</ul>
 	<p>Please see online help and API reference from 
