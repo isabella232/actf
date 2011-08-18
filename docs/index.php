@@ -40,8 +40,8 @@
 	<h3>Documentation for users of ACTF SDKs/runtimes/tools</h3>
 	<p>note: many of ACTF SDKs/runtimes/tools includes online documentation. Please use Help menu to read it.</p>
 	<ul>
-       <li><div>June 23 2010</div>
-       Tool: <a href="users/aDesigner/docs/">ACTF aDesigner (v0.8) Help</a> 
+       <li><div>June 22 2011</div>
+       Tool: <a href="users/aDesigner/docs/">ACTF aDesigner (v0.9) Help</a> 
        (Japanese version is available from <a href="users/aDesigner/ja/docs/">here</a>.)
        </li>
        <li><div>October 08 2008</div>
@@ -58,7 +58,13 @@
  </div>
  <div class="homeitem3col">
 	<h3>Technical documentation for contributors/committers</h3>
-	<p>Coming soon.</p>
+	<ul>
+		<li>Accessibility check items in ACTF Visualization SDK (<a href="../developers/ACTF09_Checkitems.xls"><img src="../images/go-bottom.png" alt="Download"> in Excel format)</a><br>
+			(Japanese version is also available. (<a href="../developers/ACTF09_Checkitems_ja.xls"><img src="../images/go-bottom.png" alt="Download"> in Excel format)</li>
+		<li>
+	</ul>
+	<p>Please see online help and API reference from 
+	'Help > Help Contents > ACTF Visualization SDK Developer Guide' menu after installing ACTF Visualization SDK.</p>
  </div> 
  <div class="homeitem3col">
 	<h3>Presentations</h3>
