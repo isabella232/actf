@@ -16,6 +16,8 @@
 	$pageTitle 		= "ACTF - Script Editor";
 	$pageKeywords	= "Accessibility Tools Framework, Script Editor, accessibility, ACTF, Eclipse, audio description, multimedia";
 	$pageAuthor		= "Kentarou FUKUDA";
+
+	header("Content-Type: text/html;charset=UTF-8");
 	
 	include('../../../projectNav.php');
 	include('../../../rightCol.php');
