@@ -50,7 +50,7 @@
        </li>
        <li><div>April 21 2010</div>
        Tool: <!--<a href="users/ScriptEditor/docs/">-->
-       ACTF ScriptEditor (v0.1) Help (Coming soon.)
+       ACTF Script Editor (v0.1) Help (Coming soon.)
        <!--</a>-->
        (Japanese version is available from <a href="users/ScriptEditor/ja/docs/">here</a>.)
        </li>

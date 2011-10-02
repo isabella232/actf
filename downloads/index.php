@@ -86,16 +86,16 @@ include('../projectNav.php');
 	</p>
 	<br>
 
-	<h3>ScriptEditor</h3>
+	<h3>Script Editor</h3>
 	<p>The use of multimedia content has increased dramatically over the last 
 	few years, but people with limited or no vision have not been able to fully 
 	enjoy the benefits of these advances. For example, there are so many movies on the Internet,
 	however, almost none of them have audio descriptions.
 	</p>
-	<p>The ACTF ScriptEditor is an Eclipse RCP application that allows users to easily edit audio descriptions for these movies, 
+	<p>The ACTF Script Editor is an Eclipse RCP application that allows users to easily edit audio descriptions for these movies, 
 	and it also tries to reduce cost of audio description by using audio synthesis.
 	<p/>
-	<p><a href="tools/ScriptEditor/index.php">ScriptEditor download page<img src="../images/go-bottom.png" alt=""></a>
+	<p><a href="tools/ScriptEditor/index.php">Script Editor download page<img src="../images/go-bottom.png" alt=""></a>
 	</p>
 	<br>
 	

@@ -13,8 +13,8 @@
 	#****************************************************************************
 	
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "ACTF - ScriptEditor";
-	$pageKeywords	= "Accessibility Tools Framework, ScriptEditor, accessibility, ACTF, Eclipse, audio description, multimedia";
+	$pageTitle 		= "ACTF - Script Editor";
+	$pageKeywords	= "Accessibility Tools Framework, Script Editor, accessibility, ACTF, Eclipse, audio description, multimedia";
 	$pageAuthor		= "Kentarou FUKUDA";
 	
 	include('../../../projectNav.php');
@@ -31,12 +31,12 @@
 	$html = <<<EOHTML
 
 <div id="midcolumn">
-	<h1>ACTF ScriptEditor</h1>
+	<h1>ACTF Script Editor</h1>
 	<p><ul>
 	<li><a href="#overview">Overview</a></li>
-	<li><a href="#downloads">ScriptEditor Releases</a></li>
+	<li><a href="#downloads">Script Editor Releases</a></li>
 	<li><a href="#quickStart">Getting started</a></li>
-<!--	<li><a href="build.php">Building ScriptEditor</a></li> -->
+<!--	<li><a href="build.php">Building Script Editor</a></li> -->
 	<li><a href="#requirements">System Requirements</a></li>
 	</ul></p>
 
@@ -46,12 +46,12 @@
 	enjoy the benefits of these advances. For example, there are so many movies on the Internet,
 	however, almost none of them have audio descriptions.
 	</p>
-	<p>The ACTF ScriptEditor aims to provide an environment to easily edit audio descriptions for these movies, 
+	<p>The ACTF Script Editor aims to provide an environment to easily edit audio descriptions for these movies, 
 	and it also tries to reduce cost of audio description by using audio synthesis.
 	<p/>
 	
-	<h2><a name="downloads">ScriptEditor Milestone Releases</a></h2>	
-	<p>ACTF ScriptEditor is now in early prototype phase. Please submit any enhancement request, bug reports, and so on to <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=ACTF&component=examples">bugzilla</a>.
+	<h2><a name="downloads">Script Editor Milestone Releases</a></h2>	
+	<p>ACTF Script Editor is now in early prototype phase. Please submit any enhancement request, bug reports, and so on to <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=ACTF&component=examples">bugzilla</a>.
 	</p>
 
 	<p>All downloads are provided under the terms and conditions of the 
@@ -61,8 +61,8 @@
 	$releaseTable
 	
 	<h2><a name="quickStart">Getting started</a></h2>
-	<p>ACTF ScriptEditor is an Eclipse RCP application. Download and unpack a zip file, 
-	and execute ScriptEditor.exe in the ScriptEditor folder. Online help is available from 
+	<p>ACTF Script Editor is an Eclipse RCP application. Download and unpack a zip file, 
+	and execute ScriptEditor.exe in the Script Editor folder. Online help is available from 
 	Help menu.
 	</p>
 		
@@ -70,20 +70,23 @@
 	<p><ul>
 	 <li>Operating Systems<BR>
 	 <UL>
-	  <LI>Windows&#174; XP SP3 (recommended) or above
+	  <LI>Windows&#174; XP SP3 (recommended) or above</li>
 	 </UL>
+	 </li>
   	 <li>Hardware
 	 <UL>
-	  <LI>50MB disk space for installation
-	  <LI>100MB disk space (150MB recommended)
-	  <LI>512MB memory (1GB+ recommended)
+	  <LI>150MB+ disk space</li>
+	  <LI>1GB+ memory</li>
 	 </UL>
+	 </li>
 	 <LI>Software
 	 <UL>
 	  <li>Java Runtime Environment (JRE) 5.0 or above</li>
-	  <li>Internet Explorer 6.0 or above</li>
+	  <li>Internet Explorer 7.0 or above</li>
 	  <li>To use Flash Content:  Adobe&reg; Flash Player, Version 8 or above</li>
+	  <li>Text-to-Speech (TTS) engines (SAPI 5 compatible)</li>
   	 </UL>
+  	 </li>
 	</ul>
 	</p>
 </div>
