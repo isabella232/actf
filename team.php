@@ -165,6 +165,8 @@ guidance, and discussion. Key contacts listed.</p>
 
   <li>Japan Braille Library, Japan (Tetsuji Tanaka)</li>
 
+  <li>Middle East Technical University, Turkey (Yeliz Yesilada)</li>
+
   <li>Mozilla foundation, US (Frank Hecker)</li>
    
   <li>National Center for Accessible Media (NCAM), Media Access Group at WGBH, US (Larry Goldberg)</li>
