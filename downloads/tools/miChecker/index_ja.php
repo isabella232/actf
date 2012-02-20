@@ -55,11 +55,11 @@
     以下のリンクから最新版の付属文書を入手した上でご活用下さい。
 	</p>
 	<p>
-     <a href="worksheet_ja.zip">ワークシート</a>　（zip形式： Excel形式およびOpenOffice形式のワークシートが含まれます）<br>
+     <a href="worksheet_ja.zip">miChecker用ワークシート <img src="../../../images/go-bottom.png" alt=""></a>　（zip形式： Excel形式およびOpenOffice形式のワークシートが含まれます）
+    </p>
 
-    <div>全てのダウンロードは 
+    <p>関連文書のダウンロードは 
 	<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a>の条件の下で提供されます。
-	</div>
     </p>
 
 <!--		
