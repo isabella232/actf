@@ -59,7 +59,7 @@
     </p>
 
     <p>全てのダウンロードは 
-	<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a>の条件の下で提供されます。
+	<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> の条件の下で提供されます。
     </p>
 	<br>
 <!--		
