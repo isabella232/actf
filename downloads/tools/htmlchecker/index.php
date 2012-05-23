@@ -13,7 +13,7 @@
 	#****************************************************************************
 	
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "ACTF - Example HTML Checker build instruction";
+	$pageTitle 		= "ACTF - Example HTML Checker development instruction";
 	$pageKeywords	= "Accessibility Tools Framework, miChecker, accessibility, ACTF, Eclipse";
 	$pageAuthor		= "Kentarou FUKUDA";
 	
@@ -36,10 +36,10 @@
 	It also includes how to access statistics data of evaluation result.	
 	</p>
 
-	<h1>HTML Checker build instruction</h1>
+	<h1>HTML Checker development instruction</h1>
 	<p>To build an HTML Checker, please follow instructions below.</p>
-	<p><a href="htmlchecker_development.pdf">HTML Checker build instruction (PDF format)</a><br/>
-	<p><a href="htmlchecker_development_ja.pdf">HTML Checker build instruction (PDF format, in Japanese)</a>	
+	<p><a href="htmlchecker_development.pdf">HTML Checker development instruction (PDF format)</a><br/>
+	<p><a href="htmlchecker_development_ja.pdf">HTML Checker development instruction (PDF format, in Japanese)</a>	
 	</p>
 	
 </div>

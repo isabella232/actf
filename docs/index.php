@@ -61,6 +61,7 @@
 	<ul>
 		<li>Accessibility check items in ACTF Visualization SDK (<a href="./developers/ACTF09_Checkitems.xls"><img src="../images/go-bottom.png" alt="Download"> in Excel format)</a><br>
 			(Japanese version is also available. (<a href="./developers/ACTF09_Checkitems_ja.xls"><img src="../images/go-bottom.png" alt="Download"> in Excel format</a>)</li>
+		<li>Example: <a href="../downloads/tools/htmlchecker/">HTML Checker development instruction</a></li>
 	</ul>
 	<p>Please see online help and API reference from 
 	'Help > Help Contents > ACTF Visualization SDK Developer Guide' menu after installing ACTF Visualization SDK.</p>
