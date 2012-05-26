@@ -49,14 +49,14 @@ include('../../projectNav.php');
 		</p>
 		<p>
 			<b>Update Site: </b>
-			<a href="http://download.eclipse.org/technology/actf/0.8/update-site/">
-			http://download.eclipse.org/technology/actf/0.8/update-site/</a><br>
+			<a href="http://archive.eclipse.org/technology/actf/0.8/update-site/">
+			http://archive.eclipse.org/technology/actf/0.8/update-site/</a><br>
 			<b>Other downloads: </b>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.8.2/actf-visualization-0.8.2-win32-incubation.zip">
+			<a href="http://archive.eclipse.org/technology/actf/sdk/actf-visualization-0.8.2-win32-incubation.zip">
 			actf-visualization-0.8.2-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a><br>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.8.1/actf-visualization-0.8.1-win32-incubation.zip">
+			<a href="http://archive.eclipse.org/technology/actf/sdk/actf-visualization-0.8.1-win32-incubation.zip">
 			actf-visualization-0.8.1-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a><br>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.8.0/actf-visualization-0.8.0-win32-incubation.zip">
+			<a href="http://archive.eclipse.org/technology/actf/sdk/actf-visualization-0.8.0-win32-incubation.zip">
 			actf-visualization-0.8.0-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a>
 		</p>
 	</div>
@@ -73,9 +73,9 @@ include('../../projectNav.php');
 	</p>
 	<p>
 	<b>Update Site: </b>
-	<a href="http://download.eclipse.org/technology/actf/0.7/update-site/">http://download.eclipse.org/technology/actf/0.7/update-site/</a><br>
+	<a href="http://archive.eclipse.org/technology/actf/0.7/update-site/">http://archive.eclipse.org/technology/actf/0.7/update-site/</a><br>
 	<b>Other downloads: </b>
-		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.7.2/actf-visualization-0.7.2-win32-incubation.zip">
+		<a href="http://archive.eclipse.org/technology/actf/sdk/actf-visualization-0.7.2-win32-incubation.zip">
 		actf-visualization-0.7.2-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a>
 	</p>
 	<p>
@@ -98,7 +98,7 @@ include('../../projectNav.php');
 	<b>Update Site: </b>
 	<a href="http://archive.eclipse.org/technology/actf/0.5/update-site/">http://archive.eclipse.org/technology/actf/0.5/update-site/</a><br>
 	<b>Other downloads: </b>
-	<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.5.0/actf-visualization-sdk-200810080000-incubation.zip">
+	<a href="http://archive.eclipse.org/technology/actf/sdk/0.5.0/actf-visualization-sdk-200810080000-incubation.zip">
 	actf-visualization-sdk-200810080000-incubation.zip<img src="../../images/go-bottom.png" alt=""></a>
 	</p>
 
@@ -109,7 +109,7 @@ include('../../projectNav.php');
 	<b>Update Site: </b>
 	<a href="http://archive.eclipse.org/technology/actf/0.5/update-site/">http://archive.eclipse.org/technology/actf/0.5/update-site/</a><br>
 	<b>Other downloads: </b>
-	<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/ai/0.5.0/actf-ai-sdk-200810080000-incubation.zip">
+	<a http://archive.eclipse.org/technology/actf/sdk/0.5.0/actf-ai-sdk-200810080000-incubation.zip">
 	actf-ai-sdk-200810080000-incubation.zip<img src="../../images/go-bottom.png" alt=""></a>
 	</p>
 	<p>
