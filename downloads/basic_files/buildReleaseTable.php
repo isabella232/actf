@@ -8,7 +8,7 @@ $downloadsDirName = $App->getDownloadBasePath() . "/";
 $projectName = "technology/actf";
 $rootDirName = $downloadsDirName . $projectName;
 
-$archiveDirName = "/home/data/httpd/archive.eclipse.org/technology/actf";
+$archiveDirName = "/home/data2/httpd/archive.eclipse.org/technology/actf";
 
 // Sorts by newest file first
 function date_cmp ($archiveMap1, $archiveMap2) {
