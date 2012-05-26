@@ -122,6 +122,9 @@ include('../projectNav.php');
 	 <h4><a href="http://www.justsystems.com/jp/products/hpb/">HomePage Builder</a>  (Product of JustSystems Corporation)</h4>
 	 <p>HomePage Builder is a Web authoring tool that integrates ACTF aDesigner as an accessibility check function.
 	 For more details about this tool, please visit <a href="http://www.justsystems.com/jp/products/hpb/">HomePage Builder introduction page (in Japanese)</a>. (Jump to JustSystems Web site).</p>
+	 <h4><a href="http://www.aao.ne.jp/aion/index.html">AiON</a>  (Service of Allied Brains, Inc.)</h4>
+	 <p>AiON is a Web accessibility evaluation service that integrates ACTF Visualization SDK as an accessibility check engine.
+	 For more details about this service, please visit <a href="http://www.aao.ne.jp/aion/index.html">AiON introduction page (in Japanese)</a>. (Jump to Allied Brains Web site).</p>
 	<h3>Link to external download site</h3>
 	 <h4><a href="http://www.soumu.go.jp/main_sosiki/joho_tsusin/b_free/miChecker_download.html">miChecker</a></h4>
 	 <p>miChecker is a support tool for Web accessibility evaluation tool that developed on top of ACTF SDK. 
@@ -132,9 +135,6 @@ include('../projectNav.php');
 	 MIC also contributed the source code and documentation of miChecker to ACTF to continue the open and transparent development into the future.
 	 Build instruction of miChecker is also available from <a href="tools/miChecker/build.php">here</a>.
 	 </p>
-	 <h4><a href="http://www.alphaworks.ibm.com/tech/aibrowser">IBM Accessibility Internet Browser for Multimedia (aiBrowser)</a>  (IBM alphaWorks technology)</h4>
-	 <p>The IBM Accessibility Internet Browser for Multimedia (aiBrowser) is an Internet browser for visually impaired users that provides multimedia control features and alternative user interfaces with external metadata. 
-	 For more details about this tool, please visit <a href="http://www.alphaworks.ibm.com/tech/aibrowser">aiBrowser introduction page</a>. (Jump to IBM alphaWorks Web site).</p>
 	</div>		
 </div>
 
