@@ -51,7 +51,7 @@ include('../../projectNav.php');
 			<b>Update Site: </b>
 			<a href="http://archive.eclipse.org/technology/actf/0.8/update-site/">
 			http://archive.eclipse.org/technology/actf/0.8/update-site/</a><br>
-			<b>Other downloads: </b>
+			<b>Other downloads: </b><br>
 			<a href="http://archive.eclipse.org/technology/actf/sdk/actf-visualization-0.8.2-win32-incubation.zip">
 			actf-visualization-0.8.2-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a><br>
 			<a href="http://archive.eclipse.org/technology/actf/sdk/actf-visualization-0.8.1-win32-incubation.zip">
@@ -74,9 +74,13 @@ include('../../projectNav.php');
 	<p>
 	<b>Update Site: </b>
 	<a href="http://archive.eclipse.org/technology/actf/0.7/update-site/">http://archive.eclipse.org/technology/actf/0.7/update-site/</a><br>
-	<b>Other downloads: </b>
+	<b>Other downloads: </b><br>
 		<a href="http://archive.eclipse.org/technology/actf/sdk/actf-visualization-0.7.2-win32-incubation.zip">
 		actf-visualization-0.7.2-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a>
+		<a href="http://archive.eclipse.org/technology/actf/sdk/actf-visualization-0.7.1-win32-incubation.zip">
+		actf-visualization-0.7.1-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a>
+		<a href="http://archive.eclipse.org/technology/actf/sdk/actf-visualization-0.7.0-win32-incubation.zip">
+		actf-visualization-0.7.0-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a>
 	</p>
 	<p>
 	(Please try <a href="tools/aDesigner/index.php">ACTF aDesigner</a>, too. aDesigner is an exemplary tool developed on top of the Validation SDK.)
@@ -97,7 +101,7 @@ include('../../projectNav.php');
 	<p>
 	<b>Update Site: </b>
 	<a href="http://archive.eclipse.org/technology/actf/0.5/update-site/">http://archive.eclipse.org/technology/actf/0.5/update-site/</a><br>
-	<b>Other downloads: </b>
+	<b>Other download: </b>
 	<a href="http://archive.eclipse.org/technology/actf/sdk/0.5.0/actf-visualization-sdk-200810080000-incubation.zip">
 	actf-visualization-sdk-200810080000-incubation.zip<img src="../../images/go-bottom.png" alt=""></a>
 	</p>
@@ -108,8 +112,8 @@ include('../../projectNav.php');
 	<p>
 	<b>Update Site: </b>
 	<a href="http://archive.eclipse.org/technology/actf/0.5/update-site/">http://archive.eclipse.org/technology/actf/0.5/update-site/</a><br>
-	<b>Other downloads: </b>
-	<a http://archive.eclipse.org/technology/actf/sdk/0.5.0/actf-ai-sdk-200810080000-incubation.zip">
+	<b>Other download: </b>
+	<a href="http://archive.eclipse.org/technology/actf/sdk/0.5.0/actf-ai-sdk-200810080000-incubation.zip">
 	actf-ai-sdk-200810080000-incubation.zip<img src="../../images/go-bottom.png" alt=""></a>
 	</p>
 	<p>
