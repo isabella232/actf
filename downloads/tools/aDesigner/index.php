@@ -22,6 +22,7 @@
 	include('../../basic_files/buildReleaseTable.php');
 	
 	$releaseTable = generateReleaseTable('tools', 'aDesigner');
+	$archiveTable = generateArchiveTable('tools', 'aDesigner');
 	
 	# End: page-specific settings
 	#
@@ -61,6 +62,10 @@
 	</p>
 	
 	$releaseTable
+	
+	<h3>Older versions</h3>
+
+	$archiveTable
 	
 	<h2><a name="quickStart">Getting started</a></h2>
 	<p>ACTF aDesigner is an Eclipse RCP application. Download and unpack a zip file, 

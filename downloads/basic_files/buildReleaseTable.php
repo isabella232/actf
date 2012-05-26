@@ -27,7 +27,7 @@ function date_cmp ($archiveMap1, $archiveMap2) {
 function generateReleaseTableRows ($isArchive, $category, $elementName){
    ini_set("max_execution_time",10);
    $dirName = $GLOBALS['rootDirName'] . '/' . $category . '/' . $elementName;
-   if(isArchive){
+   if($isArchive){
    		$dirName = $GLOBALS['archiveDirName'] . '/' . $category . '/' . $elementName;
    }
    $archiveMaps = array();
