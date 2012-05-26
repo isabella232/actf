@@ -63,7 +63,7 @@
 	
 	$releaseTable
 	
-	<h3>Older versions</h3>
+	<h4>Older Releases</h4>
 
 	$archiveTable
 	

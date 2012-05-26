@@ -78,7 +78,11 @@ function generateReleaseTableRows ($isArchive, $category, $elementName){
          $fileName = $archive['fileName'];
          $dir = $archive['parentDir'];
          $relativePath = substr($dir, stripos($dir, $GLOBALS['projectName']));
-         $str = $str . "<a href=\"http://www.eclipse.org/downloads/download.php?file=/" . $relativePath . $fileName . "\">";
+         if($isArchive){
+         	$str = $str . "<a href=\"http://archive.eclipse.org/" . $relativePath . $fileName . "\">";
+         }else{         
+         	$str = $str . "<a href=\"http://www.eclipse.org/downloads/download.php?file=/" . $relativePath . $fileName . "\">";
+         }
          $str = $str . $fileName . "</a>";
          $str = $str . "</td>\n";
          
