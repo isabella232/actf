@@ -1,11 +1,14 @@
 <?php
 
 // Author: Mike Squillace; masquill@us.ibm.com
+// Author: Kentarou FUKUDA: kentarou@jp.ibm.com
 
 $columns = array("File", "Version", "Build ID", "Size");
 $downloadsDirName = $App->getDownloadBasePath() . "/";
 $projectName = "technology/actf";
 $rootDirName = $downloadsDirName . $projectName;
+
+$archiveDirName = "/home/data/httpd/archive.eclipse.org/technology/actf";
 
 // Sorts by newest file first
 function date_cmp ($archiveMap1, $archiveMap2) {
@@ -21,9 +24,12 @@ function date_cmp ($archiveMap1, $archiveMap2) {
 //
 // directory structure is assumed to be:
 // $rootDirName/$category/$elementName/version/archive
-function generateReleaseTableRows ($category, $elementName){
+function generateReleaseTableRows ($isArchive, $category, $elementName){
    ini_set("max_execution_time",10);
    $dirName = $GLOBALS['rootDirName'] . '/' . $category . '/' . $elementName;
+   if(isArchive){
+   		$dirName = $GLOBALS['archiveDirName'] . '/' . $category . '/' . $elementName;
+   }
    $archiveMaps = array();
 
    	// read version directories
@@ -112,9 +118,19 @@ $str = "<tr>\n";
 function generateReleaseTable ($category, $elementName) {
 	$releaseTable = "<table width='80%' border='2'>\n";
 	$releaseTable = $releaseTable . generateColumnHeaders();
-	$releaseTable = $releaseTable . generateReleaseTableRows($category, $elementName);
+	$releaseTable = $releaseTable . generateReleaseTableRows(false, $category, $elementName);
 	$releaseTable = $releaseTable . "</table>\n";
 	return $releaseTable;
 }
+
+function generateArchiveTable ($category, $elementName) {
+	$releaseTable = "<table width='80%' border='2'>\n";
+	$releaseTable = $releaseTable . generateColumnHeaders();
+	$releaseTable = $releaseTable . generateReleaseTableRows(true, $category, $elementName);
+	$releaseTable = $releaseTable . "</table>\n";
+	return $releaseTable;
+}
+
+
 
 ?>
