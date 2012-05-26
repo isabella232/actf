@@ -76,9 +76,9 @@ include('../../projectNav.php');
 	<a href="http://archive.eclipse.org/technology/actf/0.7/update-site/">http://archive.eclipse.org/technology/actf/0.7/update-site/</a><br>
 	<b>Other downloads: </b><br>
 		<a href="http://archive.eclipse.org/technology/actf/sdk/actf-visualization-0.7.2-win32-incubation.zip">
-		actf-visualization-0.7.2-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a>
+		actf-visualization-0.7.2-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a><br>
 		<a href="http://archive.eclipse.org/technology/actf/sdk/actf-visualization-0.7.1-win32-incubation.zip">
-		actf-visualization-0.7.1-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a>
+		actf-visualization-0.7.1-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a><br>
 		<a href="http://archive.eclipse.org/technology/actf/sdk/actf-visualization-0.7.0-win32-incubation.zip">
 		actf-visualization-0.7.0-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a>
 	</p>
