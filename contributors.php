@@ -188,7 +188,8 @@ and currently are not exported to others.
 </p>
 <p>
 All public APIs exported to others are currently provisional. 
-ACTF plans to freeze the APIs after reflecting community feedback in next release (0.9). 
+ACTF plans to freeze the APIs after reflecting community feedback in Indigo release (0.9), 
+then all APIs will be graduating from provisional in Juno release (1.0).
 </p>
 
 <h2>6. Others</h2>
