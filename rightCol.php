@@ -1,16 +1,14 @@
 <?php
 $rightColumn = <<<EOHTML
-<DIV id=rightcolumn>
-<DIV class=sideitem>
-<H6>Related links</H6>
-<UL>
-  <LI><A href="http://www.eclipse.org/proposals/actf">Project proposal</A></LI> 
-  <LI><A href="http://www.eclipse.org/proposals/actf/ACTF_CreationReview.pdf">Creation Review Slides </A></LI>
-  </UL></DIV>
-<DIV class=sideitem>
-<H6 align="center">Incubation</H6>
-<DIV align=center><A href="http://www.eclipse.org/projects/gazoo.php"> 
-<IMG src="http://www.eclipse.org/images/egg-incubation.png" align="center" border="0" alt="about Incubation"></A> 
-</DIV></DIV></DIV></DIV></DIV>
+<div id=rightcolumn>
+ <div class=sideitem>
+ <h6>Related links</h6>
+  <ul>
+  <li><a href="http://www.eclipse.org/proposals/actf">Project proposal</a></li> 
+  <li><a href="http://www.eclipse.org/proposals/actf/ACTF_CreationReview.pdf">Creation Review Slides </a></li>
+  <li><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=380460">1.0 Release & Graduation Review</a></li> 
+  </ul>
+ </div>
+</div>
 EOHTML;
 ?>

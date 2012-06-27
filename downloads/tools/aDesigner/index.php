@@ -56,7 +56,7 @@
 	It also has accessibility information (MSAA/IA2) inspection functions. 
 	</p>
 	
-	<h2><a name="downloads">aDesigner Milestone Releases</a></h2>
+	<h2><a name="downloads">aDesigner Releases</a></h2>
 	<p>All downloads are provided under the terms and conditions of the 
 	<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a>.
 	</p>

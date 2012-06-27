@@ -28,8 +28,7 @@
 
 	<div id="midcolumn">
 <H1>Accessibility Tools Framework (ACTF)</H1>
-<P>The Accessibility Tools Framework (ACTF) is an incubation phase project 
-that is a subproject of the Eclipse Technology Project.</P>
+<P>The Accessibility Tools Framework (ACTF) is a subproject of the Eclipse Technology Project.</P>
 <P>ACTF is a framework that serves as an extensible infrastructure
 upon which developers can build a variety of utilities that help to evaluate and
 enhance the accessibility of applications and content for people with disabilities.
@@ -44,14 +43,10 @@ development environment for creating accessible applications and content.
 </P>
 <P>For additional details about the ACTF project, please visit the <A 
 href="http://www.eclipse.org/proposals/actf/">project proposal page</A>.</P>
-<H2>Release 0.9 (Indigo) is now available!</H2>
-<P>ACTF 0.9 including Visualization SDK is now available.
+<H2>Release 1.0 (Juno) is now available!</H2>
+<P>ACTF 1.0 including Visualization SDK is now available.
 Please visit 
 <a href="downloads/index.php">downloads page</a> and get ACTF components!</p>
-<!--<p>
-<a href="./newandnoteworthy/09/actf-09.html">ACTF 0.8 New and Noteworthy</a>
-</p>
--->
 
 
 <H2>Join the Project</H2>

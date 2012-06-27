@@ -31,7 +31,7 @@ include('../../projectNav.php');
 	<div id="midcolumn">
 	<h1>ACTF Archived Downloads</h1>
 
-	<h2 id="release08">ACTF Previous Release (0.8 (Helios))</h2>
+	<h2 id="release08">ACTF Previous Release (0.9 (Indigo) and 0.8 (Helios))</h2>
 	<p>
 	
 	<!--<a href="../newandnoteworthy/08/actf-08.html">ACTF 0.8 New and Noteworthy</a>-->
@@ -47,6 +47,20 @@ include('../../projectNav.php');
 		Please visit <a href="http://www.eclipse.org/projects/project-plan.php?projectid=technology.actf">ACTF plan page</a>
 		for more details about the updates.
 		</p>
+		<h4>0.9 (Indigo)</h4>
+		<p>
+			<b>Update Site: </b>
+			<a href="http://download.eclipse.org/technology/actf/0.9/update-site/">
+			http://download.eclipse.org/technology/actf/0.9/update-site/</a><br>
+			<b>Other downloads: </b><br>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.9.2/actf-visualization-0.9.2-win32-incubation.zip">
+			actf-visualization-0.9.2-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a><br>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.9.1/actf-visualization-0.9.1-win32-incubation.zip">
+			actf-visualization-0.9.1-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a><br>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.9.0/actf-visualization-0.9.0-win32-incubation.zip">
+			actf-visualization-0.9.0-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a>
+		</p>
+		<h4>0.8 (Helios)</h4>
 		<p>
 			<b>Update Site: </b>
 			<a href="http://archive.eclipse.org/technology/actf/0.8/update-site/">
