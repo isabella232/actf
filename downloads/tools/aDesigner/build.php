@@ -44,7 +44,7 @@
 	 <LI>Software
 	 <UL>
 	  <li><a href="http://www.eclipse.org/downloads/moreinfo/jre.php">Java Runtime Environment (JRE) 5.0 or above</a></li>
-	  <li><a href="http://archive.eclipse.org/eclipse/downloads/drops/R-3.7.2-201202080800/">Eclipse SDK 3.7.x</a></li>
+	  <li><a href="http://download.eclipse.org/eclipse/downloads/drops/R-3.8-201206081200/">Eclipse SDK 3.8.x</a></li>
 	  <li>Internet Explorer 7.0 or above</li>
 	  <li>For Flash Accessibility mode:  Adobe&reg; Flash Player, Version 8 or above</li>
 	  <li>For OpenDocument Accessibility mode:  OpenOffice.org 3.2.x</li>
