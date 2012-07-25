@@ -13,8 +13,8 @@
 	#****************************************************************************
 	
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "ACTF - Script Editor";
-	$pageKeywords	= "Accessibility Tools Framework, Script Editor, accessibility, ACTF, Eclipse, audio description, multimedia";
+	$pageTitle 		= "Eclipse ACTF Script Editor Lite (EASEL)";
+	$pageKeywords	= "Accessibility Tools Framework, EASEL, Script Editor, accessibility, ACTF, Eclipse, audio description, multimedia";
 	$pageAuthor		= "Kentarou FUKUDA";
 
 	header("Content-Type: text/html;charset=UTF-8");
@@ -23,7 +23,7 @@
 	include('../../../rightCol.php');
 	include('../../basic_files/buildReleaseTable.php');
 	
-	$releaseTable = generateReleaseTable('tools', 'ScriptEditor');
+	$releaseTable = generateReleaseTable('tools', 'EASEL');
 	
 	# End: page-specific settings
 	#
@@ -33,24 +33,24 @@
 	$html = <<<EOHTML
 
 <div id="midcolumn">
-	<h1>ACTF Script Editor</h1>
+	<h1>Eclipse ACTF Script Editor Lite (EASEL)</h1>
 	<p><ul>
 	<li><a href="#overview">概要</a></li>
-	<li><a href="#downloads">Script Editor 開発版 (マイルストーン リリース)</a></li>
-	<li><a href="#quickStart">Script Editorの使い方</a></li>
-<!--	<li><a href="build.php">Script Editorの開発について</a></li> -->
+	<li><a href="#downloads">EASEL開発版 (マイルストーン リリース)</a></li>
+	<li><a href="#quickStart">EASELの使い方</a></li>
+<!--	<li><a href="build.php">EASELの開発について</a></li> -->
 	<li><a href="#requirements">システム要件</a></li>
 	</ul></p>
 
 	<h2><a name="overview">概要</a></h2>
-	<p>ACTF Script Editor は、インターネット上の動画に対して音声ガイドを簡単に付与することを目的として開発された音声ガイド編集ツールで、
+	<p>Eclipse ACTF Script Editor Lite (EASEL)は、インターネット上の動画に対して音声ガイドを簡単に付与することを目的として開発された音声ガイド編集ツールで、
 音声ガイドの確認・編集のために合成音声を利用できる点が特徴です。
 合成音声を用いることで、音声ガイドの内容やスピード・性別等のパラメータを調整しながら、リアルタイムに確認・編集作業を行うことを可能にし、
 音声ガイド作成のための手間とコストを抑えることを目指しています。
 	<p/>
 	
-	<h2><a name="downloads">Script Editor 開発版 (マイルストーン リリース)</a></h2>	
-	<p>ACTF Script Editorは現在、開発中です。 
+	<h2><a name="downloads">EASEL開発版 (マイルストーン リリース)</a></h2>	
+	<p>EASELは現在、開発中です。 
 	機能の追加のご希望や、問題点などありましたら、<a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=ACTF&component=examples">bugzilla</a>から報告をお願いします。
 	</p>
 
@@ -65,8 +65,8 @@
 	 <li>ダウンロードページ内で、サーバーを選んでZipファイルをダウンロードしてください。（[Japan]と書かれたサーバーがお進めです。）</li>
 	</ol>
 	
-	<h2><a name="quickStart">Script Editorの使い方</a></h2>
-	<p>ACTF Script Editorは通常のアプリケーションとして動作します. Zipファイルをダウンロードしたら、希望のフォルダに展開し、ScriptEditor.exeを選択して起動してください。
+	<h2><a name="quickStart">EASELの使い方</a></h2>
+	<p>EASELは通常のアプリケーションとして動作します. Zipファイルをダウンロードしたら、希望のフォルダに展開し、ScriptEditor.exeを選択して起動してください。
 	使用方法については、Helpメニューからオンラインヘルプを利用することが出来ますので、是非参照してください。
 	</p>
 		

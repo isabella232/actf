@@ -13,15 +13,15 @@
 	#****************************************************************************
 	
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "ACTF - Script Editor";
-	$pageKeywords	= "Accessibility Tools Framework, Script Editor, accessibility, ACTF, Eclipse, audio description, multimedia";
+	$pageTitle 		= "Eclipse ACTF Script Editor Lite (EASEL)";
+	$pageKeywords	= "Accessibility Tools Framework, EASEL, Script Editor, accessibility, ACTF, Eclipse, audio description, multimedia";
 	$pageAuthor		= "Kentarou FUKUDA";
 	
 	include('../../../projectNav.php');
 	include('../../../rightCol.php');
 	include('../../basic_files/buildReleaseTable.php');
 	
-	$releaseTable = generateReleaseTable('tools', 'ScriptEditor');
+	$releaseTable = generateReleaseTable('tools', 'EASEL');
 	
 	# End: page-specific settings
 	#
@@ -31,12 +31,12 @@
 	$html = <<<EOHTML
 
 <div id="midcolumn">
-	<h1>ACTF Script Editor</h1>
+	<h1>Eclipse ACTF Script Editor Lite (EASEL)</h1>
 	<p><ul>
 	<li><a href="#overview">Overview</a></li>
-	<li><a href="#downloads">Script Editor Releases</a></li>
+	<li><a href="#downloads">EASEL Releases</a></li>
 	<li><a href="#quickStart">Getting started</a></li>
-<!--	<li><a href="build.php">Building Script Editor</a></li> -->
+<!--	<li><a href="build.php">Building EASEL</a></li> -->
 	<li><a href="#requirements">System Requirements</a></li>
 	</ul></p>
 
@@ -46,12 +46,12 @@
 	enjoy the benefits of these advances. For example, there are so many movies on the Internet,
 	however, almost none of them have audio descriptions.
 	</p>
-	<p>The ACTF Script Editor aims to provide an environment to easily edit audio descriptions for these movies, 
+	<p>The Eclipse ACTF Script Editor Lite (EASEL) aims to provide an environment to easily edit audio descriptions for these movies, 
 	and it also tries to reduce cost of audio description by using audio synthesis.
 	<p/>
 	
-	<h2><a name="downloads">Script Editor Milestone Releases</a></h2>	
-	<p>ACTF Script Editor is now in early prototype phase. Please submit any enhancement request, bug reports, and so on to <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=ACTF&component=examples">bugzilla</a>.
+	<h2><a name="downloads">EASEL Milestone Releases</a></h2>	
+	<p>EASEL is now in early prototype phase. Please submit any enhancement request, bug reports, and so on to <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=ACTF&component=examples">bugzilla</a>.
 	</p>
 
 	<p>All downloads are provided under the terms and conditions of the 
@@ -61,9 +61,9 @@
 	$releaseTable
 	
 	<h2><a name="quickStart">Getting started</a></h2>
-	<p>ACTF Script Editor is an Eclipse RCP application. Download and unpack a zip file, 
-	and execute ScriptEditor.exe in the Script Editor folder. Online help is available from 
-	Help menu.
+	<p>EASEL is an Eclipse RCP application. Download and unpack a zip file, 
+	and execute easel.exe in the "EASEL" folder. 
+<!--	Online help is available from Help menu. -->
 	</p>
 		
 	<h2><a name="requirements">System Requirements</a></h2>
