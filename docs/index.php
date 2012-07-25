@@ -50,7 +50,7 @@
        </li>
        <li><div>April 21 2010</div>
        Tool: <!--<a href="users/EASEL/docs/">-->
-       ACTF Script Editor (v0.1) Help (Coming soon.)
+       Eclipse ACTF Script Editor Lite (EASEL) (v0.1) Help (Coming soon.)
        <!--</a>-->
        (Japanese version is available from <a href="users/EASEL/ja/docs/">here</a>.)
        </li>
