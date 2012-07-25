@@ -98,7 +98,7 @@ include('../projectNav.php');
 	<p>The Eclipse ACTF Script Editor Lite (EASEL) is an Eclipse RCP application that allows users to easily edit audio descriptions for these movies, 
 	and it also tries to reduce cost of audio description by using audio synthesis.
 	<p/>
-	<p><a href="tools/ScriptEditor/index.php">EASEL download page<img src="../images/go-bottom.png" alt=""></a>
+	<p><a href="tools/EASEL/index.php">EASEL download page<img src="../images/go-bottom.png" alt=""></a>
 	</p>
 	<br>
 	
