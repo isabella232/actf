@@ -54,11 +54,11 @@ include('../../projectNav.php');
 			http://download.eclipse.org/technology/actf/0.9/update-site/</a><br>
 			<b>Other downloads: </b><br>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.9.2/actf-visualization-0.9.2-win32-incubation.zip">
-			actf-visualization-0.9.2-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a><br>
+			actf-visualization-0.9.2-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a><br>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.9.1/actf-visualization-0.9.1-win32-incubation.zip">
-			actf-visualization-0.9.1-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a><br>
+			actf-visualization-0.9.1-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a><br>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/0.9.0/actf-visualization-0.9.0-win32-incubation.zip">
-			actf-visualization-0.9.0-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a>
+			actf-visualization-0.9.0-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a>
 		</p>
 		<h4>0.8 (Helios)</h4>
 		<p>
