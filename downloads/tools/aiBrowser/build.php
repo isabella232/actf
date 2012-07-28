@@ -47,7 +47,7 @@
 	   <li>Unzip the downloaded file and import Team Project Set file (*.psf) from Eclipse's 'File' -&gt; 'Import' -&gt; 'Team' -&gt; 'Team Project Set' menu.</li>
 	    <ul>
 	      <li>Committers: use your committer id and password</li>
-	      <li>Others: user -&gt; "anonymous", password -&gt; "" (null)</a></li>
+	      <li>Others: user -&gt; "anonymous", password -&gt; "" (null)</li>
 	    </ul>
 	  </ul> 
 	  <li>Launch aiBrowser from workspace</li>
