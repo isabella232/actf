@@ -33,7 +33,7 @@
 	 (such as mobile web or screen reader users) by using a novel application of eye tracking technology. 
 	 In brief, by relating scanpaths to the underlying source code of web pages, 
 	 this project aims to transcode web pages such that they are easier to access in constrained environments.<br>
-	 (For more details about the eMine project, please visit <a href="http://cng.ncc.metu.edu.tr/content/emine.php">eMine project homepage</a> (Jump to external site.)
+	 (For more details about the eMine project, please visit <a href="http://cng.ncc.metu.edu.tr/content/emine.php">eMine project homepage</a>. (Jump to external site.)
 	 </p>
 	<p>As a first step of eMine project, this example extracts and shows the block structure by using some visual cues and tag properties of the nodes. 
 	</p>
