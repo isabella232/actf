@@ -44,7 +44,7 @@
 	<br>
 	<h1>Acknowledgments</h1>
 	We wish to acknowledge the support of the Scientific and Technological Research Council of Turkey (TUBITAK)
-	that partially supported the eMine project. 
+	for the eMine project. 
 </div>
 
 $rightColumn
