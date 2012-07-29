@@ -32,13 +32,19 @@
 	<p>eMine (Web Page Transcoding Based on Eye Tracking) is a research project that aims to improve the user experience in constrained environments
 	 (such as mobile web or screen reader users) by using a novel application of eye tracking technology. 
 	 In brief, by relating scanpaths to the underlying source code of web pages, 
-	 this project aims to transcode web pages such that they are easier to access in constrained environments.</p>
+	 this project aims to transcode web pages such that they are easier to access in constrained environments.<br>
+	 (For more details about the eMine project, please visit <a href="http://cng.ncc.metu.edu.tr/content/emine.php">eMine project homepage</a> (Jump to external site.)
+	 </p>
 	<p>As a first step of eMine project, this example extracts and shows the block structure by using some visual cues and tag properties of the nodes. 
 	</p>
 	<h1>ACTF eMine build instruction</h1>
 	<p>To download and build an eMine project, please follow instructions below.</p>
 	<p><a href="eMine_development.pdf">eMine build instruction (PDF format)</a>	
-	</p>	
+	</p>
+	<br>
+	<h1>Acknowledgments</h1>
+	We wish to acknowledge the support of the Scientific and Technological Research Council of Turkey (TUBITAK)
+	that partially supported the eMine project. 
 </div>
 
 $rightColumn
