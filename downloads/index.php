@@ -54,9 +54,9 @@ include('../projectNav.php');
 			<b>Other downloads: </b><br>
 <!--			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.0/actf-visualization-1.0.2-win32.zip">
 			actf-visualization-1.0.2-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a><br>
+-->				
 			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.0/actf-visualization-1.0.1-win32.zip">
-			actf-visualization-1.0.1-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a><br>
--->			
+			actf-visualization-1.0.1-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a><br>		
 			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.0/actf-visualization-1.0.0-win32.zip">
 			actf-visualization-1.0.0-win32-incubation.zip <img src="../images/go-bottom.png" alt=""></a>
 		</p>
