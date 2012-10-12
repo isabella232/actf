@@ -38,18 +38,18 @@
  </div>
  <div class="homeitem3col">
 	<h3>Documentation for users of ACTF SDKs/runtimes/tools</h3>
-	<p>note: many of ACTF SDKs/runtimes/tools includes online documentation. Please use Help menu to read it.</p>
+	<p>Note: many of ACTF SDKs/runtimes/tools includes online documentation. Please use Help menu to read it.</p>
 	<ul>
        <li><div>June 22 2011</div>
        Tool: <a href="users/aDesigner/docs/">ACTF aDesigner (v0.9) Help</a> 
        (Japanese version is available from <a href="users/aDesigner/ja/docs/">here</a>.)
        </li>
        <li><div>October 2 2012</div>
-       Tool: <a href="users/flash/FlashTest_Instruction.pdf">How to check and improve accessibility of Flash content using aDesigner.</a> 
+       Instruction: <a href="users/flash/FlashTest_Instruction.pdf">How to check and improve accessibility of Flash content using aDesigner.</a> 
        (Japanese version is available from <a href="users/flash/FlashTest_Instruction_ja.pdf">here</a>.)
        </li>
        <li><div>October 2 2012</div>
-       Tool: <a href="users/flash/FlashTest_AdobeGuidelines.pdf">How to check against accessibility guidelines of Flash content using aDesigner.</a> 
+       Instruction: <a href="users/flash/FlashTest_AdobeGuidelines.pdf">How to check against accessibility guidelines of Flash content using aDesigner.</a> 
        (Japanese version is available from <a href="users/flash/FlashTest_AdobeGuidelines_ja.pdf">here</a>.)
        </li>
        <li><div>April 21 2010</div>
