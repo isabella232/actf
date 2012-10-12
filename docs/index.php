@@ -44,15 +44,23 @@
        Tool: <a href="users/aDesigner/docs/">ACTF aDesigner (v0.9) Help</a> 
        (Japanese version is available from <a href="users/aDesigner/ja/docs/">here</a>.)
        </li>
-       <li><div>October 08 2008</div>
-       Tool: <a href="users/aiBrowser/docs/">ACTF aiBrowser (v0.5) Help</a>
-       (Japanese version is available from <a href="users/aiBrowser/ja/docs/">here</a>.)
+       <li><div>October 2 2012</div>
+       Tool: <a href="users/flash/FlashTest_Instruction.pdf">How to check and improve accessibility of Flash content using aDesigner.</a> 
+       (Japanese version is available from <a href="users/flash/FlashTest_Instruction_ja.pdf">here</a>.)
+       </li>
+       <li><div>October 2 2012</div>
+       Tool: <a href="users/flash/FlashTest_AdobeGuidelines.pdf">How to check against accessibility guidelines of Flash content using aDesigner.</a> 
+       (Japanese version is available from <a href="users/flash/FlashTest_AdobeGuidelines_ja.pdf">here</a>.)
        </li>
        <li><div>April 21 2010</div>
        Tool: <!--<a href="users/EASEL/docs/">-->
        Eclipse ACTF Script Editor Lite (EASEL) (v0.1) Help (Coming soon.)
        <!--</a>-->
        (Japanese version is available from <a href="users/EASEL/ja/docs/">here</a>.)
+       </li>
+       <li><div>October 08 2008</div>
+       Tool: <a href="users/aiBrowser/docs/">ACTF aiBrowser (v0.5) Help</a>
+       (Japanese version is available from <a href="users/aiBrowser/ja/docs/">here</a>.)
        </li>
 	</ul>	
  </div>
