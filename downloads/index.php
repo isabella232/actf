@@ -52,9 +52,8 @@ include('../projectNav.php');
 			<a href="http://download.eclipse.org/technology/actf/1.0/update-site/">
 			http://download.eclipse.org/technology/actf/1.0/update-site/</a><br>
 			<b>Other downloads: </b><br>
-<!--			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.0/actf-visualization-1.0.2-win32.zip">
-			actf-visualization-1.0.2-win32.zip <img src="../images/go-bottom.png" alt=""></a><br>
--->				
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.0/actf-visualization-1.0.2-win32.zip">
+			actf-visualization-1.0.2-win32.zip <img src="../images/go-bottom.png" alt=""></a><br>				
 			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.0/actf-visualization-1.0.1-win32.zip">
 			actf-visualization-1.0.1-win32.zip <img src="../images/go-bottom.png" alt=""></a><br>		
 			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.0/actf-visualization-1.0.0-win32.zip">
