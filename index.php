@@ -43,8 +43,8 @@ development environment for creating accessible applications and content.
 </P>
 <P>For additional details about the ACTF project, please visit the <A 
 href="http://www.eclipse.org/proposals/actf/">project proposal page</A>.</P>
-<H2>Release 1.0 (Juno) is now available!</H2>
-<P>ACTF 1.0 including Visualization SDK is now available.
+<H2>Release 1.1 (Kepler) is now available!</H2>
+<P>ACTF 1.1 including Visualization SDK is now available.
 Please visit 
 <a href="downloads/index.php">downloads page</a> and get ACTF components!</p>
 

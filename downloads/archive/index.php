@@ -47,6 +47,19 @@ include('../../projectNav.php');
 		Please visit <a href="http://www.eclipse.org/projects/project-plan.php?projectid=technology.actf">ACTF plan page</a>
 		for more details about the updates.
 		</p>
+		<h4>1.0 (Juno)</h4>
+		<p>
+			<b>Update Site: </b>
+			<a href="http://download.eclipse.org/technology/actf/1.0/update-site/">
+			http://download.eclipse.org/technology/actf/1.0/update-site/</a><br>
+			<b>Other downloads: </b><br>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.0/actf-visualization-1.0.2-win32.zip">
+			actf-visualization-1.0.2-win32.zip <img src="../images/go-bottom.png" alt=""></a><br>				
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.0/actf-visualization-1.0.1-win32.zip">
+			actf-visualization-1.0.1-win32.zip <img src="../images/go-bottom.png" alt=""></a><br>		
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.0/actf-visualization-1.0.0-win32.zip">
+			actf-visualization-1.0.0-win32.zip <img src="../images/go-bottom.png" alt=""></a>
+		</p>
 		<h4>0.9 (Indigo)</h4>
 		<p>
 			<b>Update Site: </b>
