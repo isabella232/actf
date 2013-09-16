@@ -44,10 +44,11 @@
 	 <LI>Software
 	 <UL>
 	  <li><a href="http://www.eclipse.org/downloads/moreinfo/jre.php">Java Runtime Environment (JRE) 5.0 or above</a></li>
-	  <li><a href="http://download.eclipse.org/eclipse/downloads/drops/R-3.8-201206081200/">Eclipse SDK 3.8.x</a></li>
+	  <li><a href="http://archive.eclipse.org/eclipse/downloads/drops/R-3.8-201206081200/">Eclipse SDK 3.8.x</a> 
+	  and <a href="http://eclipse.org/egit/download/">EGit</a></li>	  
 	  <li>Internet Explorer 7.0 or above</li>
 	  <li>For Flash Accessibility mode:  Adobe&reg; Flash Player, Version 8 or above</li>
-	  <li>For OpenDocument Accessibility mode:  OpenOffice.org 3.2.x</li>
+	  <li>For OpenDocument Accessibility mode:  <a href="http://archive.services.openoffice.org/pub/openoffice-archive/stable/3.2.1/">OpenOffice.org 3.2.x</a></li>
   	 </UL>
 	</ul>
 	</p>
@@ -68,8 +69,7 @@
 	   <li>Download Team Project Set file (*.psf).
 	    <ul>
 	      <li>for Committers: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/committer/aDesigner-committer.zip">zipped aDesigner-committer.psf</a></li>
-	      <li>for Committers (behind firewall): <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/committer/aDesigner-committer443.zip">zipped aDesigner-committer443.psf</a><br>(This psf file uses proxy.eclipse.org/port 443)</li>
-	      <li>for others: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/anonymous/aDesigner-anonymous.zip">zipped aDesigner-anonymous.psf</a></li>
+	      <li>for others: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/anonymous/aDesigner.zip">zipped aDesigner.psf</a></li>
 	    </ul>
 	   <li>Unzip the downloaded file and import Team Project Set file (*.psf) from Eclipse's 'File' -&gt; 'Import' -&gt; 'Team' -&gt; 'Team Project Set' menu.
 	    <ul>
