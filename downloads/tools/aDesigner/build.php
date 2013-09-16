@@ -68,7 +68,8 @@
 	  <ul>
 	   <li>Download Team Project Set file (*.psf).
 	    <ul>
-	      <li>for Committers: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/committer/aDesigner-committer.zip">zipped aDesigner-committer.psf</a></li>
+	      <li>for Committers: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/committer/aDesigner-committer.zip">zipped aDesigner-committer.psf</a>
+	       (Please replace <em>&lt;your_id&gt;</em> with your committer ID.)</li>
 	      <li>for others: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/anonymous/aDesigner.zip">zipped aDesigner.psf</a></li>
 	    </ul>
 	   <li>Unzip the downloaded file and import Team Project Set file (*.psf) from Eclipse's 'File' -&gt; 'Import' -&gt; 'Team' -&gt; 'Team Project Set' menu.

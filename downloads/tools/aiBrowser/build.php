@@ -41,8 +41,9 @@
 	   <li>Prepare Eclipse and other pre-reqs. (See <a href="#requirements">System Requirements</a>)</li>
 	   <li>Download Team Project Set file (*.psf).</li>
 	    <ul>
-	      <li>for Committers: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/committer/aiBrowser-committer.zip">zipped aiBrowser-committer.psf</a></li>
-	      <li>for others: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/anonymous/aiBrowser-anonymous.zip">zipped aiBrowser-anonymous.psf</a></li>
+	      <li>for Committers: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/committer/aiBrowser-committer.zip">zipped aiBrowser-committer.psf</a>
+	       (Please replace <em>&lt;your_id&gt;</em> with your committer ID.)</li>
+	      <li>for others: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/psf/anonymous/aiBrowser.zip">zipped aiBrowser.psf</a></li>
 	    </ul>
 	   <li>Unzip the downloaded file and import Team Project Set file (*.psf) from Eclipse's 'File' -&gt; 'Import' -&gt; 'Team' -&gt; 'Team Project Set' menu.</li>
 	    <ul>
@@ -73,8 +74,9 @@
 	 <LI>Software
 	 <UL>
 	  <li><a href="http://www.eclipse.org/downloads/moreinfo/jre.php">Java Runtime Environment (JRE) 5.0 or above</a></li>
-	  <li><a href="http://www.eclipse.org/downloads/">Eclipse for RCP/Plug-in Developers 3.3.1.1 or above</a></li>
-	  <li>Internet Explorer 6.0 or above</li>
+	  <li><a href="http://archive.eclipse.org/eclipse/downloads/drops/R-3.8-201206081200/">Eclipse SDK 3.8.x</a> 
+	  and <a href="http://eclipse.org/egit/download/">EGit</a></li>	  
+	  <li>Internet Explorer 7.0 or above</li>
 	  <li>To use Flash Content:  Adobe&reg; Flash Player, Version 8 or above</li>
   	 </UL>
 	</ul>
