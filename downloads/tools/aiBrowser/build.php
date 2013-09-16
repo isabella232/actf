@@ -74,7 +74,7 @@
 	 <LI>Software
 	 <UL>
 	  <li><a href="http://www.eclipse.org/downloads/moreinfo/jre.php">Java Runtime Environment (JRE) 5.0 or above</a></li>
-	  <li><a href="http://archive.eclipse.org/eclipse/downloads/drops/R-3.8-201206081200/">Eclipse SDK 3.8.x</a> 
+	  <li><a href="http://archive.eclipse.org/eclipse/downloads/drops/R-3.8.2-201301310800/">Eclipse SDK 3.8.x</a> 
 	  and <a href="http://eclipse.org/egit/download/">EGit</a></li>	  
 	  <li>Internet Explorer 7.0 or above</li>
 	  <li>To use Flash Content:  Adobe&reg; Flash Player, Version 8 or above</li>
