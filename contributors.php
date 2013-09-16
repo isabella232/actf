@@ -28,26 +28,10 @@
 
 
 <div id="midcolumn">
-<h1>CVS Repository</h1>
-<p>The source code of the ACTF project can be found in the CVS
-Repository.</p>
-<ol>
-  <li>Switch to the 'CVS Repository Exploring' perspective. Go to 
-  Window&gt;Open Perspective&gt;Other... and select 'CVS Repository Exploring'.</li> 
-  <li>Create a new repository location by right-clicking in the 'CVS Repositories' 
-  View and selecting New&gt;Repository Location...: 
-  <dl>
-    <dt>Committers 
-    <dd><tt>extssh://XXXXXXX@dev.eclipse.org/cvsroot/technology/</tt> 
-    <br>- where XXXXXXX is your Eclipse Foundation user id 
-    <dt>Contributors 
-    <dd><tt>pserver://anonymous@dev.eclipse.org/cvsroot/technology/</tt> </dd>
-  </dl>
-  <li>Open the <tt>org.eclipse.actf</tt> directory.</li>
-  <li>Browse and check-out plugins/features from the CVS repository. You can find the directory structure 
-	of the CVS repository in the <a href="#dir">Directory Structure</a> section.</li>
-</ol>
-<p>For more details about CVS, please visit <a href="http://wiki.eclipse.org/index.php/CVS_Howto">CVS Howto</a> page.</p>
+<h1>Git Repository</h1>
+<p>The source code of the ACTF project can be found in the Git Repository. 
+To access repository list, please visit &quot;Engage&quot; tab of <a href="http://projects.eclipse.org/projects/technology.actf">ACTF project page</a>.</p>
+<p>For more details to use Git in Eclipse, please visit <a href="http://wiki.eclipse.org/EGit/User_Guide">EGit User Guide</a> page.</p>
 
 <h1>Development Guidelines</h1>
 <h2 id="naming">1. Naming Conventions</h2>
@@ -62,7 +46,7 @@ The general form of java package names is as follows:</p>
 </ul>
 <p name="group" id="group">
 Currently, ACTF includes the components listed below. This table also shows the subcomponents within each ACTF component. The 
-<a href="#dir">directory structure of the CVS repository</a> is defined based on this grouping.</p>
+<a href="#dir">directory structure of the Git repository</a> is defined based on this grouping.</p>
 <table border="1">
 <tr>
   <th>Group</th>
@@ -141,8 +125,8 @@ structure for each subdirectory you own under the <a href="#group">ACTF componen
     <td colspan="1"><b style="color:darkgreen">Directory structure</b></td>
   </tr>
 <tr valign="top"><td>
-<pre>/cvsroot/technology/
-  org.eclipse.actf/org.eclipse.actf.<i>[group]</i>/
+<pre>/gitroot/actf/
+  org.eclipse.actf.<i>[group]</i>.git/
     plugins
     doc
     tests
