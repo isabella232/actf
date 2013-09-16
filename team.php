@@ -32,30 +32,30 @@
 	
 	<h1>ACTF Team Members</h1>
 	
-        <div class="homeitem">
+    <div class="homeitem">
 	<h3>Project Leads</h3>
 	<table cellpadding="2">
 	<tr>
-	   <td>Chieko Asakawa</td>
-	   <td>IBM</td>
+	   <td>Simon Harper</td>
+	   <td>University of Manchester</td>
 	</tr>
 	<tr> 
-	   <td>Mike Paciello</a></td>
-	   <td>The Paciello Group</td>
+	   <td>Kentarou Fukuda</a></td>
+	   <td>IBM</td>
 	</tr>
 	</table>
 	<h3>Committers</h3>
 	<table cellpadding="2">
-	<tr>
-	   <td>Kentarou Fukuda</td>
-	   <td>IBM</td>
-	</tr>
-	<tr> 
-	   <td>Mike Squillace</td>
+	<tr>  
+	   <td>Chieko Asakawa</td>
 	   <td>IBM</td>
 	</tr>
 	<tr>  
 	   <td>Hironobu Takagi</td>
+	   <td>IBM</td>
+	</tr>
+	<tr>  
+	   <td>Daisuke Sato</td>
 	   <td>IBM</td>
 	</tr>
 	<tr>  
@@ -66,13 +66,13 @@
 	   <td>Takashi Itoh</td>
 	   <td>IBM</td>
 	</tr>
-	<tr>  
-	   <td>Bill Carter</td>
+	<tr> 
+	   <td>Kentarou Fukuda</a></td>
 	   <td>IBM</td>
 	</tr>
 	<tr>  
-	   <td>Daisuke Sato</td>
-	   <td>IBM</td>
+	   <td>Michael Paciello</td>
+	   <td>The Paciello Group</td>
 	</tr>
 	<tr>  
 	   <td>Steve Faulkner</td>
@@ -81,10 +81,6 @@
 	<tr>  
 	   <td>Will Pearson</td>
 	   <td>The Paciello Group</td>
-	</tr>
-	<tr>  
-	   <td>Zeljko Obrenovic</td>
-	   <td>Center for Mathematics and Computer Science</td> 
 	</tr>
 	<tr> 
 	   <td>Roberto Scano</td>
@@ -99,8 +95,12 @@
 	   <td>University of Manchester</td>
 	</tr>
 	<tr>  
+	   <td>Elgin Akpinar</td>
+	   <td>Middle East Technical University Northern Cyprus Campus</td>
+	</tr>
+	<tr>  
 	   <td>Yeliz Yesilada</td>
-	   <td>University of Manchester</td>
+	   <td>Middle East Technical University Northern Cyprus Campus</td>
 	</tr>
 	<tr>  
 	   <td>David Bolter</td>
@@ -120,8 +120,7 @@
 	</tr>
 	<tr>  
 	</table>
-	</div>
-	
+	</div>	
 	<div class="homeitem">
 	<h3>Mentors</h3>
 	<table cellpadding="2">
@@ -134,14 +133,37 @@
 	   <td>Eteration</td>
 	</tr>
 	</table>
-<!--	<h3>Contributors</h3>
+    <h3>Comitter Alumni</h3>
 	<table cellpadding="2">
         <tr>
-          <td>List TBD</td>
-          <td>TBD</td>
+          <td>Mike Squillace</td>
+          <td>IBM</td>
         </tr>    		
+        <tr>
+          <td>Bill Carter</td>
+          <td>IBM</td>
+        </tr>    		
+        <tr>
+          <td>Ann Ford</td>
+          <td>IBM</td>
+        </tr>    		
+        <tr>
+          <td>Phani Kommareddy</td>
+          <td>IBM</td>
+        </tr>    		
+        <tr>
+          <td>Kavitha Teegala</td>
+          <td>IBM</td>
+        </tr>    		
+        <tr>
+          <td>Shunguo Yan</td>
+          <td>IBM</td>
+        </tr>    		
+		<tr>  
+	   	  <td>Zeljko Obrenovic</td>
+	   	  <td>Center for Mathematics and Computer Science</td> 
+		</tr>
 	</table>
--->
 	</div>		
         <hr class="clearer" />
 <h1>Interested parties</h1>
