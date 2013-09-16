@@ -31,7 +31,7 @@ include('../../projectNav.php');
 	<div id="midcolumn">
 	<h1>ACTF Archived Downloads</h1>
 
-	<h2 id="release08">ACTF Previous Release (0.9 (Indigo) and 0.8 (Helios))</h2>
+	<h2 id="release08">ACTF Previous Release (0.8 (Helios) and later)</h2>
 	<p>
 	
 	<!--<a href="../newandnoteworthy/08/actf-08.html">ACTF 0.8 New and Noteworthy</a>-->
