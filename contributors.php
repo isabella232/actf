@@ -30,7 +30,7 @@
 <div id="midcolumn">
 <h1>Git Repository</h1>
 <p>The source code of the ACTF project can be found in the Git Repository. 
-To access repository list, please visit &quot;Engage&quot; tab of <a href="http://projects.eclipse.org/projects/technology.actf">ACTF project page</a>.</p>
+To access repository list, please visit &quot;<a href="https://projects.eclipse.org/projects/technology.actf/developer">Developer Resources</a>&quot; tab of <a href="http://projects.eclipse.org/projects/technology.actf">ACTF project page</a>.</p>
 <p>For more details to use Git in Eclipse, please visit <a href="http://wiki.eclipse.org/EGit/User_Guide">EGit User Guide</a> page.</p>
 
 <h1>Development Guidelines</h1>
