@@ -33,32 +33,32 @@
  <div class="homeitem3col">
 	<h3>Documentation for developers who use/extend ACTF</h3>
 	<ul>       
-       <li><div>Sep. 16 2013</div><a href="developers/ACTF.pdf">ACTF Getting Started</a></li>
+       <li><div>June 25, 2014</div><a href="developers/ACTF.pdf">ACTF Getting Started</a></li>
     </ul>
  </div>
  <div class="homeitem3col">
 	<h3>Documentation for users of ACTF SDKs/runtimes/tools</h3>
 	<p>Note: many of ACTF SDKs/runtimes/tools includes online documentation. Please use Help menu to read it.</p>
 	<ul>
-       <li><div>June 22 2011</div>
+       <li><div>June 22, 2011</div>
        Tool: <a href="users/aDesigner/docs/">ACTF aDesigner (v0.9) Help</a> 
        (Japanese version is available from <a href="users/aDesigner/ja/docs/">here</a>.)
        </li>
-       <li><div>October 2 2012</div>
+       <li><div>October 2, 2012</div>
        Instruction: <a href="users/flash/FlashTest_Instruction.pdf">How to check and improve accessibility of Flash content using aDesigner.</a> 
        (Japanese version is available from <a href="users/flash/FlashTest_Instruction_ja.pdf">here</a>.)
        </li>
-       <li><div>October 2 2012</div>
+       <li><div>October 2, 2012</div>
        Instruction: <a href="users/flash/FlashTest_AdobeGuidelines.pdf">How to check against accessibility guidelines of Flash content using aDesigner.</a> 
        (Japanese version is available from <a href="users/flash/FlashTest_AdobeGuidelines_ja.pdf">here</a>.)
        </li>
-       <li><div>April 21 2010</div>
+       <li><div>April 21, 2010</div>
        Tool: <!--<a href="users/EASEL/docs/">-->
        Eclipse ACTF Script Editor Lite (EASEL) (v0.1) Help (Coming soon.)
        <!--</a>-->
        (Japanese version is available from <a href="users/EASEL/ja/docs/">here</a>.)
        </li>
-       <li><div>October 08 2008</div>
+       <li><div>October 0,8 2008</div>
        Tool: <a href="users/aiBrowser/docs/">ACTF aiBrowser (v0.5) Help</a>
        (Japanese version is available from <a href="users/aiBrowser/ja/docs/">here</a>.)
        </li>
@@ -77,16 +77,18 @@
  <div class="homeitem3col">
 	<h3>Presentations</h3>
 	<ul>
-	   <li><div>June 16 2009</div>
+	<!--
+	   <li><div>June 16, 2009</div>
 	   <img border="0" src="http://live.eclipse.org/files/ECLP_webinar.gif" alt="">Eclipse Webinar -
 	   <a href="http://live.eclipse.org/node/748">Accessibility Tools Framework (ACTF)</a>
-	   </li>	   
-	   <li><div>March 20 2008</div>
+	   </li>
+	-->
+	   <li><div>March 20, 2008</div>
 	   EclipseCon 2008 (long talk) - 
 	   <a href="http://www.eclipsecon.org/2008/sub/attachments/ACTF_Visualization_Engines_and_Components_for_Alternative_Interfaces.pdf">
 	   ACTF Visualization Engines and Components for Alternative Interfaces</a>
 	   </li>
-	   <li><div>March 18 2008</div>
+	   <li><div>March 18, 2008</div>
 	   EclipseCon 2008 (short talk) - 
 	   <a href="http://www.eclipsecon.org/2008/sub/attachments/What_is_the_Accessibility_Tools_Framework.pdf">
 	   What is the Accessibility Tools Framework?</a>
