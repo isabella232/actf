@@ -77,19 +77,19 @@
 	<p><ul>
 	 <li>Operating Systems<BR>
 	 <UL>
-	  <LI>Windows&#174; XP or above
+	  <LI>Windows&#174; 7 or above
 	 </UL>
   	 <li>Hardware
 	 <UL>
-	  <LI>50MB disk space for installation
-	  <LI>100MB disk space (150MB recommended)
-	  <LI>512MB memory (1GB+ recommended)
+	  <LI>100MB disk space for installation
+	  <LI>150MB disk space (200MB recommended)
+	  <LI>512MB free memory (1GB+ recommended)
 	 </UL>
 	 <LI>Software
 	 <UL>
-	  <li>Java Runtime Environment (JRE) 5.0 or above</li>
-	  <li>Internet Explorer 7.0 or above</li>
-	  <li>For Flash Accessibility mode:  Adobe&reg; Flash Player, Version 8 or above</li>
+	  <li>Java Runtime Environment (JRE) version 7 or above</li>
+	  <li>Internet Explorer 8.0 or above</li>
+	  <li>For Flash Accessibility mode (experimental):  Adobe&reg; Flash Player, Version 8 or above</li>
 	  <li>For OpenDocument Accessibility mode: 
        <ul>
         <li>aDesigner 0.9.0 or above: OpenOffice.org 3.2.x</li>
