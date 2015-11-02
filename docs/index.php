@@ -33,7 +33,7 @@
  <div class="homeitem3col">
 	<h3>Documentation for developers who use/extend ACTF</h3>
 	<ul>       
-       <li><div>June 25, 2014</div><a href="developers/ACTF.pdf">ACTF Getting Started</a></li>
+       <li><div>Nov 3, 2015</div><a href="developers/ACTF.pdf">ACTF Getting Started</a></li>
     </ul>
  </div>
  <div class="homeitem3col">
