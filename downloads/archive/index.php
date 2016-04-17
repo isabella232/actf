@@ -50,8 +50,8 @@ include('../../projectNav.php');
 		<h4>1.2 (Luna)</h4>
 		<p>
 			<b>Update Site: </b>
-			<a href="http://archive.eclipse.org/technology/actf/update-site/1.1/">
-			http://archive.eclipse.org/technology/actf/update-site/1.1/</a><br>
+			<a href="http://archive.eclipse.org/technology/actf/update-site/1.2/">
+			http://archive.eclipse.org/technology/actf/update-site/1.2/</a><br>
 			<b>Other downloads: </b><br>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.2/actf-visualization-1.2.0-win32.zip">
 			actf-visualization-1.2.0-win32.zip <img src="../images/go-bottom.png" alt=""></a>
