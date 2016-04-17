@@ -53,11 +53,11 @@ include('../projectNav.php');
 			http://download.eclipse.org/technology/actf/1.3/update-site/</a><br>
 			<b>Other downloads: </b><br>
 <!--
-			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.2/actf-visualization-1.2.2-win32.zip">
-			actf-visualization-1.2.2-win32.zip <img src="../images/go-bottom.png" alt=""></a><br>				
-			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.2/actf-visualization-1.2.1-win32.zip">
-			actf-visualization-1.2.1-win32.zip <img src="../images/go-bottom.png" alt=""></a><br>		
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.3/actf-visualization-1.3.2-win32.zip">
+			actf-visualization-1.3.2-win32.zip <img src="../images/go-bottom.png" alt=""></a><br>				
 -->
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.3/actf-visualization-1.3.1-win32.zip">
+			actf-visualization-1.3.1-win32.zip <img src="../images/go-bottom.png" alt=""></a><br>		
 			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.3/actf-visualization-1.3.0-win32.zip">
 			actf-visualization-1.3.0-win32.zip <img src="../images/go-bottom.png" alt=""></a>
 		</p>
