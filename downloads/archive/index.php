@@ -50,8 +50,8 @@ include('../../projectNav.php');
 		<h4>1.2 (Luna)</h4>
 		<p>
 			<b>Update Site: </b>
-			<a href="http://download.eclipse.org/technology/actf/1.2/update-site/">
-			http://download.eclipse.org/technology/actf/1.2/update-site/</a><br>
+			<a href="http://archive.eclipse.org/technology/actf/update-site/1.1/">
+			http://archive.eclipse.org/technology/actf/update-site/1.1/</a><br>
 			<b>Other downloads: </b><br>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.2/actf-visualization-1.2.0-win32.zip">
 			actf-visualization-1.2.0-win32.zip <img src="../images/go-bottom.png" alt=""></a>
@@ -59,8 +59,8 @@ include('../../projectNav.php');
 		<h4>1.1 (Kepler)</h4>
 		<p>
 			<b>Update Site: </b>
-			<a href="http://download.eclipse.org/technology/actf/1.1/update-site/">
-			http://download.eclipse.org/technology/actf/1.1/update-site/</a><br>
+			<a href="http://archive.eclipse.org/technology/actf/update-site/1.1/">
+			http://archive.eclipse.org/technology/actf/update-site/1.1/</a><br>
 			<b>Other downloads: </b><br>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.1/actf-visualization-1.1.0-win32.zip">
 			actf-visualization-1.1.0-win32.zip <img src="../images/go-bottom.png" alt=""></a>
@@ -68,8 +68,8 @@ include('../../projectNav.php');
 		<h4>1.0 (Juno)</h4>
 		<p>
 			<b>Update Site: </b>
-			<a href="http://download.eclipse.org/technology/actf/1.0/update-site/">
-			http://download.eclipse.org/technology/actf/1.0/update-site/</a><br>
+			<a href="http://archive.eclipse.org/technology/actf/update-site/1.0.2/">
+			http://archive.eclipse.org/technology/actf/update-site/1.0.2/</a><br>
 			<b>Other downloads: </b><br>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.0/actf-visualization-1.0.2-win32.zip">
 			actf-visualization-1.0.2-win32.zip <img src="../images/go-bottom.png" alt=""></a><br>				
@@ -80,9 +80,6 @@ include('../../projectNav.php');
 		</p>
 		<h4>0.9 (Indigo)</h4>
 		<p>
-			<b>Update Site: </b>
-			<a href="http://download.eclipse.org/technology/actf/0.9/update-site/">
-			http://download.eclipse.org/technology/actf/0.9/update-site/</a><br>
 			<b>Other downloads: </b><br>
 			<a href="http://archive.eclipse.org/technology/actf/sdk/actf-visualization-0.9.2-win32-incubation.zip">
 			actf-visualization-0.9.2-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a><br>
@@ -93,9 +90,6 @@ include('../../projectNav.php');
 		</p>
 		<h4>0.8 (Helios)</h4>
 		<p>
-			<b>Update Site: </b>
-			<a href="http://archive.eclipse.org/technology/actf/0.8/update-site/">
-			http://archive.eclipse.org/technology/actf/0.8/update-site/</a><br>
 			<b>Other downloads: </b><br>
 			<a href="http://archive.eclipse.org/technology/actf/sdk/actf-visualization-0.8.2-win32-incubation.zip">
 			actf-visualization-0.8.2-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a><br>
@@ -117,8 +111,6 @@ include('../../projectNav.php');
 	These components support providing a visual representation of the usability of content or applications for People with Disabilities (PwD).
 	</p>
 	<p>
-	<b>Update Site: </b>
-	<a href="http://archive.eclipse.org/technology/actf/0.7/update-site/">http://archive.eclipse.org/technology/actf/0.7/update-site/</a><br>
 	<b>Other downloads: </b><br>
 		<a href="http://archive.eclipse.org/technology/actf/sdk/actf-visualization-0.7.2-win32-incubation.zip">
 		actf-visualization-0.7.2-win32-incubation.zip <img src="../../images/go-bottom.png" alt=""></a><br>
@@ -144,8 +136,6 @@ include('../../projectNav.php');
 	These components support providing a visual representation of the usability of content or applications for People with Disabilities (PwD).
 	</p>
 	<p>
-	<b>Update Site: </b>
-	<a href="http://archive.eclipse.org/technology/actf/0.5/update-site/">http://archive.eclipse.org/technology/actf/0.5/update-site/</a><br>
 	<b>Other download: </b>
 	<a href="http://archive.eclipse.org/technology/actf/sdk/0.5.0/actf-visualization-sdk-200810080000-incubation.zip">
 	actf-visualization-sdk-200810080000-incubation.zip<img src="../../images/go-bottom.png" alt=""></a>
@@ -155,8 +145,6 @@ include('../../projectNav.php');
 	<p>ACTF Alternative Interface SDK provides middleware components to make multimedia content controllable via alternative input methods, to add audio descriptions or captions, and to transform user interfaces by using external metadata.	
 	</p>
 	<p>
-	<b>Update Site: </b>
-	<a href="http://archive.eclipse.org/technology/actf/0.5/update-site/">http://archive.eclipse.org/technology/actf/0.5/update-site/</a><br>
 	<b>Other download: </b>
 	<a href="http://archive.eclipse.org/technology/actf/sdk/0.5.0/actf-ai-sdk-200810080000-incubation.zip">
 	actf-ai-sdk-200810080000-incubation.zip<img src="../../images/go-bottom.png" alt=""></a>
