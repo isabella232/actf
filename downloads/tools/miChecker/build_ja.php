@@ -31,10 +31,10 @@
 
 <div id="midcolumn">
 	<h1>miChecker について</h1>
-	<p>miCheckerは、平成22年8月のJIS X 8341-3:2010の改定に合わせ、国、地方公共団体等におけるウェブアクセシビリティ評価の取組を促進することを目的として、
-	総務省が開発し、
-	<a href="http://www.soumu.go.jp/main_sosiki/joho_tsusin/b_free/miChecker_download.html">「みんなのアクセシビリティ評価ツール（miChecker（エムアイチェッカー））」</a>
-	として広く一般に提供しているアクセシビリティのチェックツールです。その第一の目的は検証作業の支援ですが、同時に知識の習得にも役立つよう配慮されています。
+	<p><a href="http://www.soumu.go.jp/main_sosiki/joho_tsusin/b_free/michecker.html">「みんなのアクセシビリティ評価ツールmiChecker」</a>
+	（以下、miChecker）は、JIS X 8341-3:2016（高齢者・障害者等配慮設計指針－情報通信における機器，ソフトウェア及びサービス－第３部：ウェブコンテンツ）に
+	基づくウェブアクセシビリティ対応の取組を支援するために、総務省が開発し、提供するアクセシビリティ評価ツールです。
+	その第一の目的はアクセシビリティ検証作業の支援です。加えて、付属文書等に沿って検証作業を行うことで、関連する知識の習得が可能です。
     </p>
     <p>
 	miCheckerのソースコードは、その機能・性能・品質の向上と、アクセシブルなウェブの普及を目的として、
@@ -43,11 +43,11 @@
 	
 	<h1>miChecker 開発手順</h1>
 	<p>以下の開発手順書に、miCheckerのソースコード入手方法、開発手順および問い合わせ先などをまとめてありますので、是非ご活用ください。</p>
-	<p><a href="miChecker_development_ja.pdf">開発手順書(PDF形式)</a>	
+	<p><a href="miChecker_dev_env.pdf">開発手順書(PDF形式)</a>	
 	</p>
 	
 	<div style="text-align:right">
-	<a href="build.php">instructions in English</a>
+	<a href="build.php">Instructions in English</a>
 	</div>
 </div>
 

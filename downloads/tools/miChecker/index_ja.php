@@ -31,10 +31,10 @@
 
 <div id="midcolumn">
 	<h1 id="about">miChecker について</h1>
-	<p>miCheckerは、平成22年8月のJIS X 8341-3:2010の改定に合わせ、国、地方公共団体等におけるウェブアクセシビリティ評価の取組を促進することを目的として、
-	総務省が開発し、
-	<a href="http://www.soumu.go.jp/main_sosiki/joho_tsusin/b_free/miChecker_download.html">「みんなのアクセシビリティ評価ツール（miChecker（エムアイチェッカー））」</a>
-	として広く一般に提供しているアクセシビリティのチェックツールです。その第一の目的は検証作業の支援ですが、同時に知識の習得にも役立つよう配慮されています。
+	<p><a href="http://www.soumu.go.jp/main_sosiki/joho_tsusin/b_free/michecker.html">「みんなのアクセシビリティ評価ツールmiChecker」</a>
+	（以下、miChecker）は、JIS X 8341-3:2016（高齢者・障害者等配慮設計指針－情報通信における機器，ソフトウェア及びサービス－第３部：ウェブコンテンツ）に
+	基づくウェブアクセシビリティ対応の取組を支援するために、総務省が開発し、提供するアクセシビリティ評価ツールです。
+	その第一の目的はアクセシビリティ検証作業の支援です。加えて、付属文書等に沿って検証作業を行うことで、関連する知識の習得が可能です。
     </p>
 
     <p>
@@ -45,10 +45,11 @@
 	<h2 id="download">miChecker の入手方法</h2>
 	<p>
 	miCheckerの最新版は総務省の
-	<a href="http://www.soumu.go.jp/main_sosiki/joho_tsusin/b_free/miChecker_download.html">みんなのアクセシビリティ評価ツール： （miChecker（エムアイチェッカー） ダウンロードページ</a>
+	<a href="http://www.soumu.go.jp/main_sosiki/joho_tsusin/b_free/michecker.html">みんなのアクセシビリティ評価ツール： （miChecker（エムアイチェッカー） ダウンロードページ</a>
 	から入手してください。また、miCheckerの開発手順等は<a href="build_ja.php">こちら</a>で公開されていますので、あわせて是非ご活用下さい。
     </p>
-    
+
+<!--    
     <h2 id="misc">miChecker 関連情報</h2>
     <p>
     miChecker本体の更新とあわせて、ワークシートなどの付属文書の更新作業も進められています。miChecker本体が更新されるまでの間は、
@@ -62,6 +63,7 @@
 	<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> の条件の下で提供されます。
     </p>
 	<br>
+-->	
 <!--		
 	<div style="text-align:right">
 	<a href="build.php">instructions in English</a>

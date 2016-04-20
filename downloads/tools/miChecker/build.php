@@ -32,9 +32,11 @@
 <div id="midcolumn">
 	<h1>About miChecker</h1>
 	<p>miChecker is a support tool for Web accessibility evaluation that developed on top of ACTF SDK. 
-	 It was developed by the Japanese Ministry of Internal Affairs and Communications (MIC) to support Web accessibility improvements in Japanese government offices.
-     In addition to supporting accessibility evaluation work, the tool is designed to support learning Web accessibility through their work. 
-	 To download this tool, please visit <a href="http://www.soumu.go.jp/main_sosiki/joho_tsusin/b_free/miChecker_download.html">miChecker download page (in Japanese)</a>. (Jump to MIC Web site).
+	 It was developed by the Japanese Ministry of Internal Affairs and Communications (MIC) to support 
+	 Web accessibility improvements based on JIS X 8341-3 in Japanese government offices.
+     In addition to supporting accessibility evaluation work, the tool is designed to support learning 
+     Web accessibility through their work. 
+	 To download this tool, please visit <a href="http://www.soumu.go.jp/main_sosiki/joho_tsusin/b_free/michecker.html">miChecker download page (in Japanese)</a>. (Jump to MIC Web site).
 	 </p>
 	 <p>
 	 MIC contributed the source code and documentation of miChecker to ACTF to continue the open and transparent development into the future.
@@ -42,11 +44,11 @@
 	
 	<h1>miChecker build instruction</h1>
 	<p>To build a miChecker, please follow instructions below.</p>
-	<p><a href="miChecker_development.pdf">miChecker build instruction (PDF format)</a>	
+	<p><a href="miChecker_dev_env_en.pdf">miChecker build instruction (PDF format)</a>	
 	</p>
 	
 	<div style="text-align:right">
-	<a href="build_ja.php">日本語のガイド</a>
+	<a href="build_ja.php">Japanese version(日本語版)</a>
 	</div>
 	
 </div>
