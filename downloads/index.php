@@ -31,7 +31,7 @@ include('../projectNav.php');
 	<div id="midcolumn">
 	<h1>ACTF Downloads</h1>
 
-	<h2 id="release">ACTF 1.4 (Neon) Release</h2>
+	<h2 id="release">ACTF 1.5 (Oxygen) Release</h2>
 	<p>
 	
 	<!--<a href="../newandnoteworthy/09/actf-09.html">ACTF 0.9 New and Noteworthy</a>-->
@@ -49,17 +49,17 @@ include('../projectNav.php');
 		</p>
 		<p>
 			<b>Update Site: </b>
-			<a href="http://download.eclipse.org/technology/actf/1.4/update-site/">
-			http://download.eclipse.org/technology/actf/1.4/update-site/</a><br>
+			<a href="http://download.eclipse.org/technology/actf/1.5/update-site/">
+			http://download.eclipse.org/technology/actf/1.5/update-site/</a><br>
 			<b>Other downloads: </b><br>
 <!--
-			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.4/actf-visualization-1.4.2-win32.zip">
-			actf-visualization-1.4.2-win32.zip <img src="../images/go-bottom.png" alt=""></a><br>				
-			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.4/actf-visualization-1.4.1-win32.zip">
-			actf-visualization-1.4.1-win32.zip <img src="../images/go-bottom.png" alt=""></a><br>		
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.5/actf-visualization-1.5.2-win32.zip">
+			actf-visualization-1.5.2-win32.zip <img src="../images/go-bottom.png" alt=""></a><br>				
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.5/actf-visualization-1.5.1-win32.zip">
+			actf-visualization-1.5.1-win32.zip <img src="../images/go-bottom.png" alt=""></a><br>		
 -->
-			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.4/actf-visualization-1.4.0-win32.zip">
-			actf-visualization-1.4.0-win32.zip <img src="../images/go-bottom.png" alt=""></a>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/technology/actf/sdk/visualization/1.5/actf-visualization-1.5.0-win32.zip">
+			actf-visualization-1.5.0-win32.zip <img src="../images/go-bottom.png" alt=""></a>
 		</p>
 	</div>
 	<hr class="clearer" />
